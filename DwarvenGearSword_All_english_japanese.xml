@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>DwarvenGearSword_All.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Dwarven Burning Dagger</Source>
+      <Dest>ドワーフの機焔短剣</Dest>
+    </String>
+    <String List="0">
+      <Source>Dwarven Burning Sword</Source>
+      <Dest>ドワーフの機焔剣</Dest>
+    </String>
+    <String List="0">
+      <Source>Dwarven Gear Sword</Source>
+      <Dest>ドワーフの機械剣</Dest>
+    </String>
+    <String List="0">
+      <Source>Dwarven flame burns the target for &lt;mag&gt; points.</Source>
+      <Dest>ドワーフの炎が対象を焼き払い、 &lt;mag&gt; ポイントのダメージを与える。</Dest>
+    </String>
+    <String List="0">
+      <Source>Dwarven Gear Dagger</Source>
+      <Dest>ドワーフの機械短剣</Dest>
+    </String>
+    <String List="0">
+      <Source>Burning Damage</Source>
+      <Dest>炎上ダメージ</Dest>
+    </String>
+    <String List="1">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
