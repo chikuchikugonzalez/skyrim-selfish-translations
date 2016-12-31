@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>FunctionalHomes.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Windpeak Inn</Source>
+      <Dest>宿屋「ウィンドピーク」</Dest>
+    </String>
+    <String List="0">
+      <Source>Laboratory. (&lt;Global=HDWindhelmAlchemy&gt; gold)</Source>
+      <Dest>錬金術実験室(&lt;Global=HDWindhelmAlchemy&gt; ゴールド)</Dest>
+    </String>
+    <String List="0">
+      <Source>Markarth Home Decorating Guide</Source>
+      <Dest>マルカルス室内装飾ガイド</Dest>
+    </String>
+    <String List="0">
+      <Source>Smithing room. (&lt;Global=HDWindhelmEnchanting&gt; gold)</Source>
+      <Dest>鍛冶設備(&lt;Global=HDWindhelmEnchanting&gt; ゴールド)</Dest>
+    </String>
+    <String List="0">
+      <Source>Laboratory. (&lt;Global=HDRiftenAlchemy&gt; gold)</Source>
+      <Dest>錬金術実験室(&lt;Global=HDRiftenAlchemy&gt; ゴールド)</Dest>
+    </String>
+    <String List="0">
+      <Source>Dawnstar Sanctuary</Source>
+      <Dest>ドーンスターの聖域</Dest>
+    </String>
+    <String List="0">
+      <Source>Vlindrel Hall</Source>
+      <Dest>ヴリンドリルの間</Dest>
+    </String>
+    <String List="0">
+      <Source>Old Hroldan Inn</Source>
+      <Dest>宿屋「オールド・フロルダン」</Dest>
+    </String>
+    <String List="0">
+      <Source>Silver-Blood Inn</Source>
+      <Dest>宿屋「シルバーブラッド」</Dest>
+    </String>
+    <String List="0">
+      <Source>Sleeping Giant Inn</Source>
+      <Dest>宿屋「スリーピング・ジャイアント」</Dest>
+    </String>
+    <String List="0">
+      <Source>Smithing room. (&lt;Global=HDSolitudeAlchemy&gt; gold)</Source>
+      <Dest>鍛冶設備(&lt;Global=HDSolitudeAlchemy&gt; ゴールド)</Dest>
+    </String>
+    <String List="0">
+      <Source>Laboratory. (&lt;Global=HDMarkarthAlchemy&gt; gold)</Source>
+      <Dest>錬金術実験室(&lt;Global=HDMarkarthAlchemy&gt; ゴールド)</Dest>
+    </String>
+    <String List="0">
+      <Source>Windhelm Home Decorating Guide</Source>
+      <Dest>ウィンドヘルム室内装飾ガイド</Dest>
+    </String>
+    <String List="0">
+      <Source>Laboratory. (&lt;Global=HDSolitudeEnchanting&gt; gold)</Source>
+      <Dest>錬金術実験室(&lt;Global=HDSolitudeEnchanting&gt; ゴールド)</Dest>
+    </String>
+    <String List="0">
+      <Source>Dead Man's Drink</Source>
+      <Dest>宿屋「デッドマンズ・ドリンク」</Dest>
+    </String>
+    <String List="0">
+      <Source>Whiterun Home Decorating Guide</Source>
+      <Dest>ホワイトラン室内装飾ガイド</Dest>
+    </String>
+    <String List="0">
+      <Source>Candlehearth Hall</Source>
+      <Dest>キャンドルハース・ホール</Dest>
+    </String>
+    <String List="0">
+      <Source>Laboratory. (&lt;Global=HDWhiterunAlchemy&gt; gold)</Source>
+      <Dest>錬金術実験室(&lt;Global=HDWhiterunAlchemy&gt; ゴールド)</Dest>
+    </String>
+    <String List="0">
+      <Source>Hall of Attainment</Source>
+      <Dest>達成の間</Dest>
+    </String>
+    <String List="0">
+      <Source>Proudspire Manor</Source>
+      <Dest>プラウドスパイヤー邸</Dest>
+    </String>
+    <String List="0">
+      <Source>Abandoned Shack</Source>
+      <Dest>廃屋と化した小屋</Dest>
+    </String>
+    <String List="0">
+      <Source>Honeyside</Source>
+      <Dest>ハニーサイド</Dest>
+    </String>
+    <String List="0">
+      <Source>Smithing room. (&lt;Global=HDRiftenEnchanting&gt; gold)</Source>
+      <Dest>鍛冶設備(&lt;Global=HDRiftenEnchanting&gt; ゴールド)</Dest>
+    </String>
+    <String List="0">
+      <Source>Moorside Inn</Source>
+      <Dest>宿屋「ムーアサイド」</Dest>
+    </String>
+    <String List="0">
+      <Source>The Bannered Mare</Source>
+      <Dest>バナード・メア</Dest>
+    </String>
+    <String List="0">
+      <Source>Smithing room. (&lt;Global=HDMarkarthEnchanting&gt; gold)</Source>
+      <Dest>鍛冶設備(&lt;Global=HDMarkarthEnchanting&gt; ゴールド)</Dest>
+    </String>
+    <String List="0">
+      <Source>Riften Home Decorating Guide</Source>
+      <Dest>リフテン室内装飾ガイド</Dest>
+    </String>
+    <String List="0">
+      <Source>Frostfruit Inn</Source>
+      <Dest>宿屋「フロストフルーツ」</Dest>
+    </String>
+    <String List="0">
+      <Source>The Frozen Hearth</Source>
+      <Dest>フローズン・ハース</Dest>
+    </String>
+    <String List="0">
+      <Source>Vilemyr Inn</Source>
+      <Dest>宿屋「ヴァイルマイヤー」</Dest>
+    </String>
+    <String List="0">
+      <Source>Nightgate Inn Cellar</Source>
+      <Dest>宿屋「ナイトゲート」の地下</Dest>
+    </String>
+    <String List="0">
+      <Source>Hjerim</Source>
+      <Dest>ヒジェリム</Dest>
+    </String>
+    <String List="0">
+      <Source>Nightgate Inn</Source>
+      <Dest>宿屋「ナイトゲート」</Dest>
+    </String>
+    <String List="0">
+      <Source>The Winking Skeever</Source>
+      <Dest>ウィンキング・スキーヴァー</Dest>
+    </String>
+    <String List="0">
+      <Source>Four Shields Tavern</Source>
+      <Dest>宿屋「フォー・シールズ」</Dest>
+    </String>
+    <String List="0">
+      <Source>Solitude Home Decorating Guide</Source>
+      <Dest>ソリチュード室内装飾ガイド</Dest>
+    </String>
+    <String List="0">
+      <Source>Smithing room. (&lt;Global=HDWhiterunDining&gt; gold)</Source>
+      <Dest>鍛冶設備(&lt;Global=HDWhiterunDining&gt; ゴールド)</Dest>
+    </String>
+    <String List="0">
+      <Source>Braidwood Inn</Source>
+      <Dest>宿屋「ブレイドウッド」</Dest>
+    </String>
+    <String List="0">
+      <Source>The Bee and Barb</Source>
+      <Dest>ビー・アンド・バルブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Arch-Mage's Quarters</Source>
+      <Dest>アークメイジ居住区</Dest>
+    </String>
+    <String List="0">
+      <Source>Breezehome</Source>
+      <Dest>ブリーズホーム</Dest>
+    </String>
+    <String List="1">
+      <Source>[pagebreak]
+&lt;p align="center"&gt;
+
+&lt;b&gt;W I N D H E L M&lt;/b&gt;
+
+Home Decorating Guide
+
+&lt;/p&gt;
+[pagebreak]
+&lt;p align="left"&gt;
+Welcome to your new home!
+
+This decorating guide provides a list of packages that you can purchase from the Steward of the hold. Each package contains furnishings and decor for a specific part of your house, and these will be delivered and placed for you upon purchase.
+
+All you need to do is provide the gold, and the Steward will take care of the rest. The next time that you visit your home after making your purchases, you will see your new decorations and furnishings in place. 
+
+Kitchen
+Includes a fireplace, a table for two and ample shelving to store your food and cooking supplies.
+
+Living Room
+This package fills Hjerim's spacious ground floor living room with several tables, chairs and shelves. Decorations for the floor and walls are also included. 
+
+Laboratory
+Adds alchemy &amp; enchanting crafting stations, and their related containers.
+
+Smithing Room
+Adds all smithing stations and related containers to the ground floor, as well as access to a hidden basement armory.
+
+Upstairs Landing
+This package adds several weapon racks and display cases, and lines the walls with mounted animal heads.
+
+Bedroom
+Provides an upgrade to your bed, as well as shelving, display cases, improved lighting and other bedroom furnishings and decor. A safe, jewelry box, and footlocker are added as well.
+
+Guest Room
+Improves the furnishings and decor in your home's guest bedroom, including a finer-quality bed, a small table, and some shelves.</Source>
+      <Dest>[pagebreak] 
+ &lt;p align="center"&gt;
+
+ &lt;b&gt; ウ ィ ン ド ヘ ル ム &lt;/b&gt;
+
+ 室内装飾ガイド
+
+ &lt;/p&gt;
+[pagebreak] 
+ &lt;p align="left"&gt;
+ 新しい我が家へようこそ！
+
+ この装飾ガイドは要塞の執政から購入できるパック商品のリストを提供している。それぞれのパックには家具とその特定の場所に使われる内装が含まれており、これらは購入後すぐに配達、設置が行われる。
+
+ お金さえ払ってしまえば、あとは全て執政が取り仕切る。購入して次に家へと戻ってくる時には、内装は新しくなっていて家具も全て整えられている。
+
+ キッチン
+ 炉、2人用のテーブル、食べ物とキッチン用品を収納するための大きな棚を含む。
+
+ リビングルーム
+ 広々とした1階にあるヒジェリムのリビングルームをいくつかのテーブル、イス、棚で飾る。床や壁の装飾はこの中に含まれている。
+
+ 錬金術実験室
+ 錬金術の作業場を追加。
+
+ 付呪実験室
+ 付呪用の作業場を追加。
+
+ 鍛冶設備
+ このパックは鍛冶道具一式と関連アイテムの保管庫を追加する。
+
+ 階段の踊り場
+ このパッケージには武器保管棚と展示箱が付属しており、壁を動物の頭の剥製で飾る。
+
+ ベッドルーム
+ ベッド以外にも棚、展示箱をアップグレードし、照明や寝室の他の家具や内装を改良した。
+
+ 来客用寝室
+ 客用の寝室に置かれている家具や内装を改善。より質の高いベッド、小さいテーブルと棚を数個含む。
+
+ 子供用寝室
+ 1階の裏手隅の部屋を拡張し、2人までの子供用寝室に改装した。ベッド、箱、化粧台、その他の装飾が含まれる。</Dest>
+    </String>
+    <String List="1">
+      <Source>[pagebreak]
+&lt;p align="center"&gt;
+
+&lt;b&gt;W H I T E R U N&lt;/b&gt;
+
+Home Decorating Guide
+
+&lt;/p&gt;
+[pagebreak]
+&lt;p align="left"&gt;
+Welcome to your new home!
+
+This decorating guide provides a list of packages that you can purchase from the   Steward of the hold. Each package contains furnishings and decor for a specific part of your house, and these will be delivered and placed for you upon purchase.
+
+All you need to do is provide the gold, and the Steward will take care of the rest. The next time that you visit your home after making your purchases, you will see your new decorations and furnishings in place. 
+
+&lt;b&gt;Kitchen&lt;/b&gt;
+Includes a fire pit, a small table and chair, as well as a shelf to store cooking  supplies.
+
+&lt;b&gt;Living Room&lt;/b&gt;
+Provides Wall-mounted shelves, a few side tables and two chairs placed near the fire pit, all near the center of the ground floor.
+
+&lt;b&gt;Smithing Room&lt;/b&gt;
+Adds all smithing stations and their related containers to the ground floor, as well as access to a hidden basement armory.
+
+&lt;b&gt;Laboratory&lt;/b&gt;
+This package adds both alchemy &amp; enchanting crafting stations, together with a complement of containers for that purpose.
+
+&lt;b&gt;Loft&lt;/b&gt;
+This package includes a few chairs and tables to fill out the upper-level loft.
+
+&lt;b&gt;Bedroom&lt;/b&gt;
+Adds two bedside tables, a dresser and a small table with two chairs to the master bedroom. This also includes the addition of a wall to give the bedroom added privacy.  A safe, jewelry box, and footlocker are added as well.
+</Source>
+      <Dest>[pagebreak]
+ &lt;p align="center"&gt;
+
+ &lt;b&gt; ホ ワ イ ト ラ ン &lt;/b&gt;
+
+室内装飾ガイド
+
+ &lt;/p&gt;
+[pagebreak]
+ &lt;p align="left"&gt; 
+ 新しい我が家へようこそ！
+
+ この装飾ガイドは要塞の執政から購入できるパック商品のリストを提供している。それぞれのパックには家具とその特定の場所に使われる内装が含まれており、これらは購入後すぐに配達、設置が行われる。
+
+ お金さえ払ってしまえば、あとはすべて執政が取り仕切る。購入して次に家へと戻ってくる時には、内装は新しくなっていて家具もすべて整えられている。
+
+ &lt;b&gt; キッチン &lt;/b&gt;
+ 炉と小さいテーブルとイス2脚、それにキッチン用品をしまうための棚を含む。
+
+ &lt;b&gt; リビングルーム &lt;/b&gt;
+ 1階の中心に壁掛け式の棚、サイドテーブルがいくつか、そして暖炉付近にイス2脚を提供する。
+
+ &lt;b&gt;鍛冶設備&lt;/b&gt;
+ このパックは鍛冶道具一式と関連アイテムの保管庫を追加する。
+
+ &lt;b&gt; ダイニングルーム &lt;/b&gt;
+ 木製の長テーブルと長椅子の他にナイフやフォーク、食器、調理器具が入った棚を新たに数点設置する。
+
+ &lt;b&gt; 錬金術実験室 &lt;/b&gt;
+ このパックは、1階後方部に錬金術用の作業場所、読書机とイス、大きなタンスを新たに配置。これには実験室とダイニングルームとを分けるための壁も含まれる。
+
+ &lt;b&gt; 子供用寝室 &lt;/b&gt;
+ 錬金術実験室の代わりに、快適な子供用寝室を家の裏手に置くことができる。2つのベッド、箱、壁掛けが含まれる。以前に錬金術実験室を購入していると、このパックは&lt;i&gt;置き換える&lt;/i&gt;。子供用寝室の後から錬金術実験室を購入した場合も同様に置き換える。
+
+ &lt;b&gt; ロフト &lt;/b&gt;
+ このパックは上の階のロフトに配置するためのイス数脚とテーブルが含まれている。
+
+ &lt;b&gt; 寝室 &lt;/b&gt;
+ ベッドサイドテーブル2台、化粧台、そして小さいテーブルとイス2脚を新たに主寝室に加える。これには寝室のプライバシー保護を強化するための壁も含んでいる。</Dest>
+    </String>
+    <String List="1">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+    <String List="1">
+      <Source>[pagebreak]
+&lt;p align="center"&gt;
+
+&lt;b&gt;S O L I T U D E&lt;/b&gt;
+
+Home Decorating Guide
+
+&lt;/p&gt;
+[pagebreak]
+&lt;p align="left"&gt;
+Welcome to your new home!
+
+This decorating guide provides a list of packages that you can  purchase from the Steward of the hold. Each package contains  furnishings and decor for a specific part of your house, and these  will be delivered and placed for you upon purchase.
+
+All you need to do is provide the gold, and the Steward will take  care of the rest. The next time that you visit your home after  making your purchases, you will see your new decorations and  furnishings in place. 
+
+&lt;b&gt;Living Room&lt;/b&gt;
+This package adds a large table, chairs and a wide range of decor to the living area located centrally on the second floor of the house.
+
+&lt;b&gt;Sleeping Quarters&lt;/b&gt;
+When you purchase this package, the master bedroom on the second floor of the house will be decorated with several furnishings and a larger, more luxurious bed. Also, a small dining area will be added just outside the bedroom door that includes a table, chairs and other decorations. A safe, jewelry box, and footlocker are added as well.
+
+&lt;b&gt;Smithing Room&lt;/b&gt;
+Adds all smithing stations and related containers to the ground floor, as well as access to a hidden basement armory.
+
+&lt;b&gt;Laboratory&lt;/b&gt;
+Will stock one of the home's small ground-floor rooms with all of the furnshings for alchemy and enchanting, together with their related containers
+
+&lt;b&gt;Patio&lt;/b&gt;
+Places a small table, two chairs and other furnishings on the stone patio outside the back of the house.</Source>
+      <Dest>[pagebreak] 
+ &lt;p align="center"&gt; 
+
+ &lt;b&gt; ソ リ チ ュ ー ド &lt;/b&gt;
+
+ 室内装飾ガイド
+
+ &lt;/p&gt;
+[pagebreak]
+ &lt;p align="left"&gt;
+ 新しい我が家へようこそ！
+
+ この装飾ガイドは要塞の執政から購入できるパック商品のリストを提供している。それぞれのパックには家具とその特定の場所に使われる内装が含まれており、これらは購入後すぐに配達、設置が行われる。
+
+ お金さえ払ってしまえば、あとは全て執政が取り仕切る。購入して次に家へと戻ってくる時には、内装は新しくなっていて家具も全て整えられている。
+
+ &lt;b&gt; リビングルーム &lt;/b&gt;
+ このパックは家の2階中央にある生活空間に大きなテーブルやイスに加え、様々な装飾品を新たに配置する。
+
+ &lt;b&gt; 寝室 &lt;/b&gt;
+ このパックを購入すると、2階の主寝室がいくつかの家具と大きい豪華なベッドで飾られる。それに加え、小さな食事スペースが寝室の扉のすぐ外に設置され、そこに飾るためのテーブル、イスやその他の装飾品も含む。
+
+ &lt;b&gt;鍛冶設備&lt;/b&gt;
+ このパックは鍛冶道具一式と関連アイテムの保管庫を追加する。
+
+ &lt;b&gt; 子供用寝室 &lt;/b&gt;
+ このパックは優雅で快適な寝室を2人までの子供に提供する。素敵なベッド、タンス、個人用の箱、その他の装飾を含む。購入価格には新しい設備の価格が含まれる。この部屋は家の2階、主寝室の隣に追加される。
+
+ &lt;b&gt; 錬金術実験室 &lt;/b&gt;
+ 1階にある部屋の1つに錬金術実験室用の装置や器具を配置し、錬金術の実験台や関連内装を含む。
+
+ &lt;b&gt; 付呪実験室 &lt;/b&gt;
+ 1階にある小部屋の1つを付呪実験室用の家具で満たす。これには、付呪師用実験台も含まれる。新しい付呪を試すための練習用ダミーもいくつか含まれている。
+
+ &lt;b&gt; 中庭 &lt;/b&gt;
+ 小さなテーブル1台とイス2脚や他の家具を家の裏にある石造りの中庭に設置する。</Dest>
+    </String>
+    <String List="1">
+      <Source>[pagebreak]
+&lt;p align="center"&gt;
+
+&lt;b&gt;M A R K A R T H&lt;/b&gt;
+
+Home Decorating Guide
+
+&lt;/p&gt;
+[pagebreak]
+&lt;p align="left"&gt;
+Welcome to your new home!
+
+This decorating guide provides a list of packages that you can purchase from the Steward of the hold. Each package contains furnishings and decor for a specific part of your house, and these will be delivered and placed for you upon purchase.
+
+All you need to do is provide the gold, and the Steward will take care of the rest. The next time that you visit your home after making your purchases, you will see your new decorations and furnishings in place. 
+
+&lt;b&gt;Entrance Hall&lt;/b&gt;
+When you purchase this package, floor mats and decorative planters will be added to the hallway just beyond the front door.
+
+&lt;b&gt;Smithing room&lt;/b&gt;
+This package adds all smithing stations and related containers to one of the rooms, as well as access to a hidden basement armory.
+
+&lt;b&gt;Living Room&lt;/b&gt;
+This package fills out the home's large, central room with a large dining table, several smaller tables, shelves, a display case and other decor.
+
+&lt;b&gt;Sleeping Quarters&lt;/b&gt;
+In addition to improved furnishings and decor for your master bedroom, this package also adds a small dining area between the guest and master bedroom, near the rear of the house. A safe, jewelry box, and footlocker are added as well.
+
+&lt;b&gt;Laboratory&lt;/b&gt;
+This package will furnish one the small rooms that adjoin the living room with the 
+implements of both alchemy and enchanting, together with their related containers.
+
+
+</Source>
+      <Dest>[pagebreak]
+
+ &lt;p align="center"&gt;
+
+
+ &lt;b&gt; マ ル カ ル ス &lt;/b&gt;
+
+
+　室内装飾ガイド
+
+
+ &lt;/p&gt;
+
+[pagebreak]
+
+　&lt;p align="left"&gt;
+
+ 新しい我が家へようこそ！
+
+
+ この装飾ガイドは要塞の執政から購入できるパック商品のリストを提供している。それぞれのパックには家具とその特定の場所に使われる内装が含まれており、これらは購入後すぐに配達、設置が行われる。
+
+
+ お金さえ払ってしまえば、あとは全て執政が取り仕切る。購入して次に家へと戻ってくる時には、内装は新しくなっていて家具も全て整えられている。
+
+
+
+ &lt;b&gt; 玄関ホール &lt;/b&gt;
+
+ このパックを購入するとフロントドアから続く玄関にフロアマットと飾りとなる植物が置かれる。
+
+
+
+ &lt;b&gt;鍛冶設備&lt;/b&gt;
+
+ このパックは鍛冶道具一式と関連アイテムの保管庫を追加する。
+
+
+
+ &lt;b&gt; リビングルーム &lt;/b&gt;
+
+ このパックは、家の中心となる広い部屋を大きなダイニングテーブル1台と複数の小さいテーブル、棚、展示箱、そして他の装飾品で飾り付ける。
+
+
+
+ &lt;b&gt; 寝室 &lt;/b&gt;
+
+ 主寝室の家具や装飾品の新調に加え、このパックは主寝室と客間の間、家の後方部付近に小さな食事スペースを作る。
+
+
+ &lt;b&gt; 錬金術実験室 &lt;/b&gt;
+
+ このパックはリビングルームに隣接した小さな部屋の1つに錬金術師用実験室で実際使用するような装置を設置する。これには錬金術用のテーブル1台、棚数個、そして別の装飾品が含まれている。
+
+
+
+ &lt;b&gt; 子供用寝室 &lt;/b&gt;
+
+ このパックはベッド、タンス、化粧台、その他の家具など、2人の子供に必要なものが全て付いている。広々とした屋外ポーチもついてくる。このパックは錬金術実験室を&lt;i&gt;置き換える&lt;/i&gt;。子供用寝室の後から錬金術実験室を購入した場合も同様に置き換える。
+
+
+ &lt;b&gt; 付呪実験室 &lt;/b&gt;
+
+ このパックはリビングルームと隣接した小規模な付呪研究室に家具と装飾を取り付ける。これには、付呪用のテーブル1台と複数の棚、装飾品が含まれている。</Dest>
+    </String>
+    <String List="1">
+      <Source>[pagebreak]
+&lt;p align="center"&gt;
+
+&lt;b&gt;R I F T E N&lt;/b&gt;
+
+Home Decorating Guide
+
+&lt;/p&gt;
+[pagebreak]
+&lt;p align="left"&gt;
+Welcome to your new home!
+
+This decorating guide provides a list of packages that you can purchase from the Steward of the hold. Each package contains furnishings and decor for a specific part of your house, and these will be delivered and placed for you upon purchase.
+
+All you need to do is provide the gold, and the Steward will take care of the rest. The next time that you visit your home after making your purchases, you will see your new decorations and furnishings in place. 
+
+&lt;b&gt;Kitchen&lt;/b&gt;
+This package will provide furnishings and decor for your kitchen, which is the room immediately beyond your home's front door. This includes the lighting of the fire.
+
+&lt;b&gt;Bedroom&lt;/b&gt;
+Adds bedside tables, a dresser and a small table with two chairs to the master bedroom. A safe, jewelry box, and footlocker are added as well.
+
+&lt;b&gt;Laboratory&lt;/b&gt;
+This package will place alchemy and enchanting stations in your basement, along with some containers and other decor, as well as two mannequins.
+
+&lt;b&gt;Smithing Room&lt;/b&gt;
+Adds all smithing stations and related containers to your basement, as well as access to a hidden armory.
+
+&lt;b&gt;Garden&lt;/b&gt;
+When you purchase this package, the small patch of land adjacent to your house will be planted with a wide range of herbs, vegetables and other plants native to Skyrim.</Source>
+      <Dest>[pagebreak]
+
+ &lt;p align="center"&gt;
+
+
+
+ &lt;b&gt; リ フ テ ン &lt;/b&gt;
+
+
+
+　室内装飾ガイド
+
+
+
+ &lt;/p&gt;
+
+[pagebreak]
+
+　&lt;p align="left"&gt;
+
+ 新しい我が家へようこそ！
+
+
+ この装飾ガイドは要塞の執政から購入できるパック商品のリストを提供している。それぞれのパックには家具とその特定の場所に使われる内装が含まれており、これらは購入後すぐに配達、設置が行われる。
+
+
+ お金さえ払ってしまえば、あとは全て執政が取り仕切る。購入して次に家へと戻ってくる時には、内装は新しくなっていて家具も全て整えられている。
+
+
+
+ &lt;b&gt; キッチン &lt;/b&gt; 
+ このパックはフロントドアを入ってすぐの部屋であるキッチン用の家具や装飾品を提供する。調理用の炎も点火可能。
+
+
+
+
+ &lt;b&gt; 寝室 &lt;/b&gt;
+
+ 主寝室にベッドサイドテーブル、化粧台、小さいテーブルと椅子2脚を新たに配置。ベッド自体のアップグレードも含む。
+
+
+ &lt;b&gt; 錬金術実験室 &lt;/b&gt;
+
+ このパックは、地下室に錬金術用の実験台を1台と複数の棚や装飾品を設置する。
+
+
+ &lt;b&gt; 付呪実験室 &lt;/b&gt; 
+ このパックは、地下室にアイテムを付呪するためのテーブル1台と複数の棚や装飾品を設置する。新しい付呪を試すための練習用ダミーも含まれている。
+
+ &lt;b&gt; 子供用寝室 &lt;/b&gt;
+
+ この追加は2つのベッド、タンス、化粧台、遊び場、壁掛けを含み、快適な子供用寝室を提供する。以前に付呪実験室を購入していると、この家具は&lt;i&gt;置き換える&lt;/i&gt;。子供用寝室の後から付呪実験室を購入した場合も同様に置き換える。
+
+
+ &lt;b&gt;鍛冶設備&lt;/b&gt;
+ このパックは鍛冶道具一式と関連アイテムの保管庫を追加する。
+
+
+ &lt;b&gt; 庭 &lt;/b&gt; 
+ このパックを購入すると、家の隣の小さな土地にスカイリム原産の様々な種類のハーブ、野菜、植物が植えられる。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>FunctionalHomes.esm</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>* Safe</Source>
+      <Dest>* 金庫</Dest>
+    </String>
+    <String List="0">
+      <Source>* Jewelry</Source>
+      <Dest>* 宝飾品</Dest>
+    </String>
+    <String List="0">
+      <Source>* Ingredients</Source>
+      <Dest>* 材料</Dest>
+    </String>
+    <String List="0">
+      <Source>* Potion Combiner</Source>
+      <Dest>* 薬品合成装置</Dest>
+    </String>
+    <String List="0">
+      <Source>* Soul Gems</Source>
+      <Dest>* 魂石</Dest>
+    </String>
+    <String List="0">
+      <Source>* Laboratory Gear</Source>
+      <Dest>* 錬金道具</Dest>
+    </String>
+    <String List="0">
+      <Source>* Hides &amp; Leather</Source>
+      <Dest>* 皮革</Dest>
+    </String>
+    <String List="0">
+      <Source>* Luggage</Source>
+      <Dest>* 行李</Dest>
+    </String>
+    <String List="0">
+      <Source>* Miscellaneous</Source>
+      <Dest>* 雑貨</Dest>
+    </String>
+    <String List="0">
+      <Source>* Circlets</Source>
+      <Dest>* サークレット</Dest>
+    </String>
+    <String List="0">
+      <Source>* Rings</Source>
+      <Dest>* 指輪</Dest>
+    </String>
+    <String List="0">
+      <Source>* Potions</Source>
+      <Dest>* 薬</Dest>
+    </String>
+    <String List="0">
+      <Source>* Cupboard</Source>
+      <Dest>* 戸棚</Dest>
+    </String>
+    <String List="0">
+      <Source>* Keys</Source>
+      <Dest>* 鍵</Dest>
+    </String>
+    <String List="0">
+      <Source>* Unfilled Soul Gems</Source>
+      <Dest>* 空の魂石</Dest>
+    </String>
+    <String List="0">
+      <Source>* Equipment</Source>
+      <Dest>* 装備</Dest>
+    </String>
+    <String List="0">
+      <Source>* Arrows &amp; Bolts</Source>
+      <Dest>* 弾薬</Dest>
+    </String>
+    <String List="0">
+      <Source>* Scales &amp; Bones</Source>
+      <Dest>* 骨材</Dest>
+    </String>
+    <String List="0">
+      <Source>* Poisons</Source>
+      <Dest>* 毒</Dest>
+    </String>
+    <String List="0">
+      <Source>Remember Misc. Contents</Source>
+      <Dest>雑貨を記憶する</Dest>
+    </String>
+    <String List="0">
+      <Source>Remove Supplies</Source>
+      <Dest>素材を片付ける</Dest>
+    </String>
+    <String List="0">
+      <Source>* Ingots</Source>
+      <Dest>* インゴット</Dest>
+    </String>
+    <String List="0">
+      <Source>* Gems</Source>
+      <Dest>* 宝石</Dest>
+    </String>
+    <String List="0">
+      <Source>* Ore</Source>
+      <Dest>* 鉱石</Dest>
+    </String>
+    <String List="0">
+      <Source>* Smithing Gear</Source>
+      <Dest>* 鍛冶道具</Dest>
+    </String>
+    <String List="0">
+      <Source>* Amulets</Source>
+      <Dest>* アミュレット</Dest>
+    </String>
+    <String List="0">
+      <Source>* Foot Locker</Source>
+      <Dest>* 宝箱</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
