@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Schwertleite Set.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Schwertleite Helmet</Source>
+      <Dest>シュヴェルトライテの兜</Dest>
+    </String>
+    <String List="0">
+      <Source>Schwertleite Shield</Source>
+      <Dest>シュヴェルトライテの盾</Dest>
+    </String>
+    <String List="0">
+      <Source>Schwertleite Armor</Source>
+      <Dest>シュヴェルトライテの鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Schwertleite Sword</Source>
+      <Dest>シュヴェルトライテの剣</Dest>
+    </String>
+    <String List="0">
+      <Source>Schwertleite Gauntlets</Source>
+      <Dest>シュヴェルトライテの篭手</Dest>
+    </String>
+    <String List="0">
+      <Source>Schwertleite Boots</Source>
+      <Dest>シュヴェルトライテのブーツ</Dest>
+    </String>
+    <String List="1">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
