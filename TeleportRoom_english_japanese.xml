@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>TeleportRoom.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Teleport Room L</Source>
+      <Dest>テレポート・大部屋</Dest>
+    </String>
+    <String List="0">
+      <Source>Cooking Pot</Source>
+      <Dest>料理鍋</Dest>
+    </String>
+    <String List="0">
+      <Source>Teleport Room</Source>
+      <Dest>テレポート・小部屋</Dest>
+    </String>
+    <String List="0">
+      <Source>Rabbit</Source>
+      <Dest>兎</Dest>
+    </String>
+    <String List="0">
+      <Source>Sit</Source>
+      <Dest>座る</Dest>
+    </String>
+    <String List="0">
+      <Source>Teleport Apartment</Source>
+      <Dest>テレポート・ワンルームアパート</Dest>
+    </String>
+    <String List="0">
+      <Source>Safe</Source>
+      <Dest>金庫</Dest>
+    </String>
+    <String List="0">
+      <Source>TeleportBarrel</Source>
+      <Dest>樽部屋</Dest>
+    </String>
+    <String List="0">
+      <Source>TeleportRoom</Source>
+      <Dest>部屋</Dest>
+    </String>
+    <String List="0">
+      <Source>Chicken</Source>
+      <Dest>鶏</Dest>
+    </String>
+    <String List="0">
+      <Source>TeleportHenCoop</Source>
+      <Dest>鶏舎</Dest>
+    </String>
+    <String List="0">
+      <Source>Chest</Source>
+      <Dest>宝箱</Dest>
+    </String>
+    <String List="0">
+      <Source>SpellTome TeleportWater</Source>
+      <Dest>呪文の書: テレポート・鍾乳洞</Dest>
+    </String>
+    <String List="0">
+      <Source>TeleportJail</Source>
+      <Dest>監獄部屋</Dest>
+    </String>
+    <String List="0">
+      <Source>TeleportContainer</Source>
+      <Dest>倉庫</Dest>
+    </String>
+    <String List="0">
+      <Source>Purewater Run</Source>
+      <Dest>きれいな水の水路</Dest>
+    </String>
+    <String List="0">
+      <Source>Teleport Room Lsize</Source>
+      <Dest>テレポート・大部屋</Dest>
+    </String>
+    <String List="0">
+      <Source>Teleport Container</Source>
+      <Dest>テレポート・倉庫</Dest>
+    </String>
+    <String List="0">
+      <Source>SpellTome TeleportDwarven</Source>
+      <Dest>呪文の書: テレポート・ドワーフ</Dest>
+    </String>
+    <String List="0">
+      <Source>End Table</Source>
+      <Dest>エンド・テーブル</Dest>
+    </String>
+    <String List="0">
+      <Source>Teleport Dwarven</Source>
+      <Dest>テレポート・ドワーフ部屋</Dest>
+    </String>
+    <String List="0">
+      <Source>TeleportCave</Source>
+      <Dest>洞窟</Dest>
+    </String>
+    <String List="0">
+      <Source>Zone of A</Source>
+      <Dest>Aの領域</Dest>
+    </String>
+    <String List="0">
+      <Source>Teleport Water</Source>
+      <Dest>テレポート・鍾乳洞</Dest>
+    </String>
+    <String List="0">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+    <String List="0">
+      <Source>Teleport Room Dwarven</Source>
+      <Dest>テレポート・ドワーフ部屋</Dest>
+    </String>
+    <String List="0">
+      <Source>Teleport HenCoop</Source>
+      <Dest>テレポート・鶏舎</Dest>
+    </String>
+    <String List="0">
+      <Source>Teleport Barrel</Source>
+      <Dest>テレポート・樽</Dest>
+    </String>
+    <String List="0">
+      <Source>TeleportBox</Source>
+      <Dest>箱部屋</Dest>
+    </String>
+    <String List="0">
+      <Source>SpellTome TeleportJail</Source>
+      <Dest>呪文の書: テレポート・監獄</Dest>
+    </String>
+    <String List="0">
+      <Source>WineBarrel</Source>
+      <Dest>ワイン樽</Dest>
+    </String>
+    <String List="0">
+      <Source>SpellTome TeleportCave</Source>
+      <Dest>呪文の書: テレポート・洞窟</Dest>
+    </String>
+    <String List="0">
+      <Source>TeleportDwarven</Source>
+      <Dest>ドワーフ部屋</Dest>
+    </String>
+    <String List="0">
+      <Source>Alchemy Lab</Source>
+      <Dest>錬金器具</Dest>
+    </String>
+    <String List="0">
+      <Source>Wardrobe</Source>
+      <Dest>タンス</Dest>
+    </String>
+    <String List="0">
+      <Source>Teleport Jail</Source>
+      <Dest>テレポート・監獄</Dest>
+    </String>
+    <String List="0">
+      <Source>SpellTome TeleportContainer</Source>
+      <Dest>呪文の書: テレポート・倉庫</Dest>
+    </String>
+    <String List="0">
+      <Source>SpellTome TeleportHenCoop</Source>
+      <Dest>呪文の書: テレポート・鶏舎</Dest>
+    </String>
+    <String List="0">
+      <Source>SpellTome TeleportApartment</Source>
+      <Dest>呪文の書: テレポート・ワンルームアパート</Dest>
+    </String>
+    <String List="0">
+      <Source>TeleportApartment</Source>
+      <Dest>ワンルームアパート</Dest>
+    </String>
+    <String List="0">
+      <Source>SpellTome Zone of A</Source>
+      <Dest>呪文の書: Aの領域</Dest>
+    </String>
+    <String List="0">
+      <Source>SpellTome TeleportBarrel</Source>
+      <Dest>呪文の書: テレポート・樽</Dest>
+    </String>
+    <String List="0">
+      <Source>Bathe</Source>
+      <Dest>入浴</Dest>
+    </String>
+    <String List="0">
+      <Source>SpellTome TeleportRoomLsize</Source>
+      <Dest>呪文の書: テレポート・大部屋</Dest>
+    </String>
+    <String List="0">
+      <Source>Teleport Box</Source>
+      <Dest>テレポート・箱</Dest>
+    </String>
+    <String List="0">
+      <Source>SpellTome TeleportRoom</Source>
+      <Dest>呪文の書: テレポート・小部屋</Dest>
+    </String>
+    <String List="0">
+      <Source>SpellTome TeleportSewers</Source>
+      <Dest>呪文の書: テレポート・下水道</Dest>
+    </String>
+    <String List="0">
+      <Source>Arcane Enchanter</Source>
+      <Dest>アルケイン付呪器</Dest>
+    </String>
+    <String List="0">
+      <Source>Knapsack</Source>
+      <Dest>ナップサック</Dest>
+    </String>
+    <String List="0">
+      <Source>Sewers</Source>
+      <Dest>下水道</Dest>
+    </String>
+    <String List="0">
+      <Source>Teleport Sewers</Source>
+      <Dest>テレポート・下水道</Dest>
+    </String>
+    <String List="0">
+      <Source>SpellTome TeleportBox</Source>
+      <Dest>呪文の書: テレポート・箱</Dest>
+    </String>
+    <String List="0">
+      <Source>Satchel</Source>
+      <Dest>かばん</Dest>
+    </String>
+    <String List="0">
+      <Source>Teleport Cave</Source>
+      <Dest>テレポート・洞窟</Dest>
+    </String>
+    <String List="0">
+      <Source>Barrel</Source>
+      <Dest>樽</Dest>
+    </String>
+    <String List="1">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
