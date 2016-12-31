@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Dragon Claw Stands.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Windstad Manor, Cellar</Source>
+      <Dest>ウィンドスタッド邸の地下室</Dest>
+    </String>
+    <String List="0">
+      <Source>Lakeview Manor, Cellar</Source>
+      <Dest>レイクビュー邸の地下室</Dest>
+    </String>
+    <String List="0">
+      <Source>Emerald Claw</Source>
+      <Dest>エメラルドドラゴンの爪</Dest>
+    </String>
+    <String List="0">
+      <Source>Vlindrel Hall</Source>
+      <Dest>ヴリンドリルの間</Dest>
+    </String>
+    <String List="0">
+      <Source>Sapphire Claw</Source>
+      <Dest>サファイア・ドラゴンの爪</Dest>
+    </String>
+    <String List="0">
+      <Source>Ruby Dragon Claw</Source>
+      <Dest>ルビー・ドラゴンの爪</Dest>
+    </String>
+    <String List="0">
+      <Source>Severin Manor</Source>
+      <Dest>セヴェリン邸</Dest>
+    </String>
+    <String List="0">
+      <Source>Proudspire Manor</Source>
+      <Dest>プラウドスパイヤー邸</Dest>
+    </String>
+    <String List="0">
+      <Source>Heljarchen Hall</Source>
+      <Dest>ヘリヤーケン・ホール</Dest>
+    </String>
+    <String List="0">
+      <Source>Ruby Claw</Source>
+      <Dest>ルビー・ドラゴンの爪</Dest>
+    </String>
+    <String List="0">
+      <Source>Emerald Dragon Claw</Source>
+      <Dest>エメラルドドラゴンの爪</Dest>
+    </String>
+    <String List="0">
+      <Source>Honeyside</Source>
+      <Dest>ハニーサイド</Dest>
+    </String>
+    <String List="0">
+      <Source>Iron Claw</Source>
+      <Dest>鉄の爪</Dest>
+    </String>
+    <String List="0">
+      <Source>Glass Claw</Source>
+      <Dest>碧水晶の爪</Dest>
+    </String>
+    <String List="0">
+      <Source>Ebony Claw</Source>
+      <Dest>黒檀の爪</Dest>
+    </String>
+    <String List="0">
+      <Source>Coral Dragon Claw</Source>
+      <Dest>コーラル・ドラゴンの爪</Dest>
+    </String>
+    <String List="0">
+      <Source>Lakeview Manor</Source>
+      <Dest>レイクビュー邸</Dest>
+    </String>
+    <String List="0">
+      <Source>Dragon Claw Stand</Source>
+      <Dest>ドラゴンの爪の台座</Dest>
+    </String>
+    <String List="0">
+      <Source>Ivory Claw</Source>
+      <Dest>アイボリー・ドラゴンの爪</Dest>
+    </String>
+    <String List="0">
+      <Source>Coral Claw</Source>
+      <Dest>コーラル・ドラゴンの爪</Dest>
+    </String>
+    <String List="0">
+      <Source>Windstad Manor</Source>
+      <Dest>ウィンドスタッド邸</Dest>
+    </String>
+    <String List="0">
+      <Source>Diamond Claw</Source>
+      <Dest>ダイヤモンドの爪</Dest>
+    </String>
+    <String List="0">
+      <Source>Hjerim</Source>
+      <Dest>ヒジェリム</Dest>
+    </String>
+    <String List="0">
+      <Source>Sapphire Dragon Claw</Source>
+      <Dest>サファイア・ドラゴンの爪</Dest>
+    </String>
+    <String List="0">
+      <Source>Golden Claw</Source>
+      <Dest>金の爪</Dest>
+    </String>
+    <String List="0">
+      <Source>Heljarchen Hall, Cellar</Source>
+      <Dest>ヘリヤーケン・ホールの地下室</Dest>
+    </String>
+    <String List="0">
+      <Source>Breezehome</Source>
+      <Dest>ブリーズホーム</Dest>
+    </String>
+    <String List="0">
+      <Source>Ivory Dragon Claw</Source>
+      <Dest>アイボリー・ドラゴンの爪</Dest>
+    </String>
+    <String List="1">
+      <Source>Which dragon claw do you want to place?</Source>
+      <Dest>どのドラゴンの爪を置きますか？</Dest>
+    </String>
+    <String List="1">
+      <Source>Dragon Claw Added.</Source>
+      <Dest>ドラゴンの爪が追加された</Dest>
+    </String>
+    <String List="1">
+      <Source>You have no claws that can be displayed.</Source>
+      <Dest>ドラゴンの爪を持っていません</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
