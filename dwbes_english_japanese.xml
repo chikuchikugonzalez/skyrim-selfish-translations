@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>dwbes.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Dwarven Field Generator 3</Source>
+      <Dest>ドゥーマーフィールドジェネレータ</Dest>
+    </String>
+    <String List="0">
+      <Source>Dwarven Field Generator 2</Source>
+      <Dest>ドゥーマービームシールド</Dest>
+    </String>
+    <String List="0">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+    <String List="0">
+      <Source>Dwarven Field Generator</Source>
+      <Dest>ドゥーマーバリアシールド</Dest>
+    </String>
+    <String List="1">
+      <Source>Dawnguard Rune Shield Effect</Source>
+      <Dest>防御し続けることでマイナー・サンシールドを展開し、使用者のスタミナを消費しつつダメージを与える。</Dest>
+    </String>
+    <String List="1">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
