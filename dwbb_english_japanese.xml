@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>dwbb.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>dwarven beam gladius</Source>
+      <Dest>ドゥーマービームグラディウス</Dest>
+    </String>
+    <String List="0">
+      <Source>dwarven beam Enchantment 2h2</Source>
+      <Dest>ドワーフのビーム兵器</Dest>
+    </String>
+    <String List="0">
+      <Source>dwarven beam Enchantment 2</Source>
+      <Dest>ドワーフのビーム兵器</Dest>
+    </String>
+    <String List="0">
+      <Source>dwarven beam Enchantment 2haxe</Source>
+      <Dest>ドワーフのビーム兵器</Dest>
+    </String>
+    <String List="0">
+      <Source>dwarven beam Enchantment</Source>
+      <Dest>ドワーフのビーム兵器</Dest>
+    </String>
+    <String List="0">
+      <Source>dwarven beam Battle axe</Source>
+      <Dest>ドゥーマービームバトルアックス</Dest>
+    </String>
+    <String List="0">
+      <Source>dwarven beam Enchantment 2haxe2</Source>
+      <Dest>ドワーフのビーム兵器</Dest>
+    </String>
+    <String List="0">
+      <Source>dwarven beam whip</Source>
+      <Dest>ドゥーマービームウィップ</Dest>
+    </String>
+    <String List="0">
+      <Source>dwarven beam Enchantment axe</Source>
+      <Dest>ドワーフのビーム兵器</Dest>
+    </String>
+    <String List="0">
+      <Source>dwarven beam Enchantment dag</Source>
+      <Dest>ドワーフのビーム兵器</Dest>
+    </String>
+    <String List="0">
+      <Source>dwarven beam Enchantment 2hmac</Source>
+      <Dest>ドワーフのビーム兵器</Dest>
+    </String>
+    <String List="0">
+      <Source>dwarven beam War Axe</Source>
+      <Dest>ドゥーマービームウォーアックス</Dest>
+    </String>
+    <String List="0">
+      <Source>dwarven beam dagger</Source>
+      <Dest>ドゥーマービームダガー</Dest>
+    </String>
+    <String List="0">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+    <String List="0">
+      <Source>dwarven beam Knight sword</Source>
+      <Dest>ドゥーマービームナイトソード</Dest>
+    </String>
+    <String List="0">
+      <Source>dwarven beam Enchantment 2h</Source>
+      <Dest>ドワーフのビーム兵器</Dest>
+    </String>
+    <String List="0">
+      <Source>beam whip</Source>
+      <Dest>ドワーフのビーム兵器</Dest>
+    </String>
+    <String List="0">
+      <Source>dwarven beam blade axe</Source>
+      <Dest>ドゥーマービームブレードアックス</Dest>
+    </String>
+    <String List="0">
+      <Source>dwarven beam Claymore</Source>
+      <Dest>ドゥーマービームクレイモア</Dest>
+    </String>
+    <String List="0">
+      <Source>dwarven beam Crash mace</Source>
+      <Dest>ドゥーマービームクラッシュメイス</Dest>
+    </String>
+    <String List="0">
+      <Source>Shock Damage</Source>
+      <Dest>雷撃ダメージ</Dest>
+    </String>
+    <String List="0">
+      <Source>dwarven beam blade</Source>
+      <Dest>ドゥーマービームブレード</Dest>
+    </String>
+    <String List="1">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
