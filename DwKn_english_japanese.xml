@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>DwKn.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Dwarven Knuckle R</Source>
+      <Dest>ドゥーマーライトナックル</Dest>
+    </String>
+    <String List="0">
+      <Source>Dwarven Knuckle L</Source>
+      <Dest>ドゥーマーレフトナックル</Dest>
+    </String>
+    <String List="0">
+      <Source>dwarven beam Enchantment knl</Source>
+      <Dest>ドワーフの輝く左拳</Dest>
+    </String>
+    <String List="0">
+      <Source>Dwarven Knuckle Shield effect</Source>
+      <Dest>ドゥーマーシールドナックル</Dest>
+    </String>
+    <String List="0">
+      <Source>Dwarven Knuckle Shield</Source>
+      <Dest>ドゥーマーシールドナックル</Dest>
+    </String>
+    <String List="0">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+    <String List="0">
+      <Source>dwarven beam Enchantment knr</Source>
+      <Dest>ドワーフの輝く右拳</Dest>
+    </String>
+    <String List="1">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
