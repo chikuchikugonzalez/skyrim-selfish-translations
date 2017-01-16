@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>The Convenient Room.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Enter or exit the room.</Source>
+      <Dest>フィールドから便利部屋へ移動します。
+便利部屋内の時はフィールドへ戻ります。</Dest>
+    </String>
+    <String List="0">
+      <Source>The Convenient Room</Source>
+      <Dest>コンビニエント・ルーム</Dest>
+    </String>
+    <String List="0">
+      <Source>Spell Tome: Teleport</Source>
+      <Dest>呪文の書: コンビニエント・ルーム</Dest>
+    </String>
+    <String List="1">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
