@@ -8,7 +8,7 @@
   <Content>
     <String List="0">
       <Source>Crafting Kit - Font of Disenchantment</Source>
-      <Dest>生産設備(解呪の泉)</Dest>
+      <Dest>組立式解呪の泉</Dest>
     </String>
     <String List="0">
       <Source>Enchanting Font</Source>
@@ -16,7 +16,7 @@
     </String>
     <String List="0">
       <Source>Crafting Kit - Arcane Enchanter Station</Source>
-      <Dest>生産設備(アルケイン付呪装置)</Dest>
+      <Dest>組立式アルケイン付呪台</Dest>
     </String>
     <String List="0">
       <Source>Reset</Source>
@@ -28,7 +28,7 @@
     </String>
     <String List="0">
       <Source>Crafting Kit - Tanning Rack</Source>
-      <Dest>生産設備(皮なめしの棚)</Dest>
+      <Dest>組立式皮なめしの棚</Dest>
     </String>
     <String List="0">
       <Source>TestTony</Source>
@@ -44,7 +44,7 @@
     </String>
     <String List="0">
       <Source>Crafting Kit - Imbuing Chamber</Source>
-      <Dest>生産設備(浸透室)</Dest>
+      <Dest>組立式浸透室</Dest>
     </String>
     <String List="0">
       <Source>Tanning Rack</Source>
@@ -80,7 +80,7 @@
     </String>
     <String List="0">
       <Source>Crafting Kit - Anvil</Source>
-      <Dest>生産設備(金床)</Dest>
+      <Dest>組立式金床</Dest>
     </String>
     <String List="0">
       <Source>Scribe's Study</Source>
@@ -88,7 +88,7 @@
     </String>
     <String List="0">
       <Source>Crafting Kit - Alchemy Lab</Source>
-      <Dest>生産設備(錬金器具)</Dest>
+      <Dest>組立式錬金器具</Dest>
     </String>
     <String List="0">
       <Source>Open</Source>
@@ -104,7 +104,7 @@
     </String>
     <String List="0">
       <Source>Crafting Kit - Wood Chopping Block</Source>
-      <Dest>生産設備(薪割り台)</Dest>
+      <Dest>組立式薪割り台</Dest>
     </String>
     <String List="0">
       <Source>Letter to the College of Winterhold</Source>
@@ -116,7 +116,7 @@
     </String>
     <String List="0">
       <Source>Mixing Station</Source>
-      <Dest>蒸留装置</Dest>
+      <Dest>蒸留台</Dest>
     </String>
     <String List="0">
       <Source>Find the ancient city of Blackreach</Source>
@@ -132,7 +132,7 @@
     </String>
     <String List="0">
       <Source>Crafting Kit - Alchemy Station</Source>
-      <Dest>生産設備(錬金装置)</Dest>
+      <Dest>組立式錬金台</Dest>
     </String>
     <String List="0">
       <Source>Recipies: Spider Forge</Source>
@@ -144,11 +144,11 @@
     </String>
     <String List="0">
       <Source>Crafting Kit - Grinding Bowl</Source>
-      <Dest>生産設備(すり鉢)</Dest>
+      <Dest>組立式すり鉢</Dest>
     </String>
     <String List="0">
       <Source>Crafting Kit - Oven</Source>
-      <Dest>生産設備(オーブン)</Dest>
+      <Dest>組立式オーブン</Dest>
     </String>
     <String List="0">
       <Source>The Lost Font</Source>
@@ -164,7 +164,7 @@
     </String>
     <String List="0">
       <Source>Crafting Kit - Workbench</Source>
-      <Dest>生産設備(作業台)</Dest>
+      <Dest>組立式作業台</Dest>
     </String>
     <String List="0">
       <Source>Recipes Vol. III: Poisons</Source>
@@ -180,7 +180,7 @@
     </String>
     <String List="0">
       <Source>Alchemy Station</Source>
-      <Dest>錬金装置</Dest>
+      <Dest>錬金台</Dest>
     </String>
     <String List="0">
       <Source>Recipes Vol. I: Basics</Source>
@@ -208,7 +208,7 @@
     </String>
     <String List="0">
       <Source>Dwemer Transmutation Cube</Source>
-      <Dest>ドゥーマー・トランスミュート・キューブ</Dest>
+      <Dest>トランスミューテーション・キューブ</Dest>
     </String>
     <String List="0">
       <Source>The Midden</Source>
@@ -216,7 +216,7 @@
     </String>
     <String List="0">
       <Source>Crafting Kit - Dwemer Transmutation Cube</Source>
-      <Dest>生産設備(ドゥーマー・トランスミュート・キューブ)</Dest>
+      <Dest>組立式トランスミューテーション・キューブ</Dest>
     </String>
     <String List="0">
       <Source>Disenchanting Arts</Source>
@@ -252,7 +252,7 @@
     </String>
     <String List="0">
       <Source>Crafting Kit - Staff Enchanter</Source>
-      <Dest>生産設備(杖用の付呪器)</Dest>
+      <Dest>組立式杖用の付呪器</Dest>
     </String>
     <String List="0">
       <Source>Grindstone</Source>
@@ -268,7 +268,7 @@
     </String>
     <String List="0">
       <Source>Crafting Kit - Smelter</Source>
-      <Dest>生産設備(溶鉱炉)</Dest>
+      <Dest>組立式溶鉱炉</Dest>
     </String>
     <String List="0">
       <Source>Staff Enchanter</Source>
@@ -276,7 +276,7 @@
     </String>
     <String List="0">
       <Source>Crafting Kit - Mixing Station</Source>
-      <Dest>生産設備(蒸留装置)</Dest>
+      <Dest>組立式蒸留台</Dest>
     </String>
     <String List="0">
       <Source>Movement</Source>
@@ -288,19 +288,19 @@
     </String>
     <String List="0">
       <Source>Crafting Kit - Grindstone</Source>
-      <Dest>生産設備(砥石)</Dest>
+      <Dest>組立式砥石</Dest>
     </String>
     <String List="0">
       <Source>Crafting Kit - Scribe's Study</Source>
-      <Dest>生産設備(書写台)</Dest>
+      <Dest>組立式書写台</Dest>
     </String>
     <String List="0">
       <Source>Crafting Kit - Orb of Dispulsion</Source>
-      <Dest>生産設備(浄化の宝玉)</Dest>
+      <Dest>組立式浄化の宝玉</Dest>
     </String>
     <String List="0">
       <Source>Arcane Enchanter Station</Source>
-      <Dest>アルケイン付呪装置</Dest>
+      <Dest>アルケイン付呪台</Dest>
     </String>
     <String List="0">
       <Source>Workbench</Source>
@@ -308,7 +308,7 @@
     </String>
     <String List="0">
       <Source>Crafting Kit - Enchanting Font</Source>
-      <Dest>生産設備(付呪の泉)</Dest>
+      <Dest>組立式付呪の泉</Dest>
     </String>
     <String List="0">
       <Source>Some Disassembly Required</Source>
@@ -316,7 +316,7 @@
     </String>
     <String List="0">
       <Source>Crafting Kit - Arcane Enchanter</Source>
-      <Dest>生産設備(アルケイン付呪器)</Dest>
+      <Dest>組立式アルケイン付呪器</Dest>
     </String>
     <String List="0">
       <Source>Gouka's Journal</Source>
@@ -440,7 +440,7 @@ Paralysis poison:
     </String>
     <String List="1">
       <Source>I came across an old journal by Calcelmo's workstation in Markarth that talked about a Transmutation Cube that could transmute similar items into greater quality counterparts. Such as improving the purity of gems. It should be somewhere in Nchuand-Zel, but first I need to gain entry into the old Dwemer Ruin</Source>
-      <Dest>カルセルモの作業場で古い日記を見つけた。その日記にはトランスミュート・キューブと呼ばれるアイテムをより質の良いもに変化させるアイテムについて書かれていた。それはヌチュアンド・ゼルにあるようだが、まずはドゥーマーの遺跡に入れるか交渉してみなければ。</Dest>
+      <Dest>カルセルモの作業場で古い日記を見つけた。その日記にはトランスミューテーション・キューブと呼ばれるアイテムをより質の良いもに変化させるアイテムについて書かれていた。それはヌチュアンド・ゼルにあるようだが、まずはドゥーマーの遺跡に入れるか交渉してみなければ。</Dest>
     </String>
     <String List="1">
       <Source>[pagebreak]
@@ -493,7 +493,7 @@ Overall, Soul Gem fragments are useless junk. Broken remnants of used Soul Gems.
       <Dest>[pagebreak]
 &lt;p align="center"&gt;
 &lt;font face="$SkyrimBooks" size="28"&gt;
-トランスミュート・キューブ
+トランスミューテーション・キューブ
 ゴウカ 著
 &lt;/font&gt;
 &lt;/p&gt;
@@ -526,7 +526,7 @@ Overall, Soul Gem fragments are useless junk. Broken remnants of used Soul Gems.
 [pagebreak]
 魂石変成
 
-宝石と同様に3つの同じ魂石は上位の魂石へと変成できる。空の魂石であれば上位の空の魂石に変化する。だが満ちた魂石の場合は魂が融合され、強力な魂によって満たされた魂石へと変化する。
+宝石と同様に3つの同じ魂石は上位の魂石へと変容できる。空の魂石であれば上位の空の魂石に変化する。だが満ちた魂石の場合は魂が融合され、強力な魂によって満たされた魂石へと変化する。
 例:&lt;font face="$SkyrimBooks" size="12"&gt;
 3 空の極小魂石 = 1 空の小魂石
 3 満ちた極小魂石 = 1 満ちた極小魂石&lt;/font&gt;
@@ -535,7 +535,7 @@ Overall, Soul Gem fragments are useless junk. Broken remnants of used Soul Gems.
 魂石の一部
 
 魂石の一部とは、使用済み魂石の残骸であり利用不可能なごみである。これらの破片は汚染され魂を入れるには向いていないものなのだ。だがキューブを使えば、これらの断片を浄化し極小魂石にすることができる。
-(なお、魂石の一部には4種類が存在し、キューブではそのうち1種類しか極小魂石へと変成できない。代わりにキューブには他の3種類を変成できる種類へと変換する機能を付けておいた)
+(なお、魂石の一部には4種類が存在し、キューブではそのうち1種類しか極小魂石へと変容できない。代わりにキューブには他の3種類を変容できる種類へと変換する機能を付けておいた)
 &lt;/font&gt;</Dest>
     </String>
     <String List="1">
@@ -1523,7 +1523,7 @@ After I finish up here in a couple of weeks, I can start working my way east thr
 背景
 数年前、私はシロディールのアイレイドの遺跡で多くの時を過ごした。神秘の広間と呼ばれる名もない遺跡だ。
 
-アイレイドの時代においてこの場所は、変成技術の研究施設だったようだ。彼らはキャスクと呼ばれる、未完成ながら機能する装置を作ったのだ。
+アイレイドの時代においてこの場所は、変容技術の研究施設だったようだ。彼らはキャスクと呼ばれる、未完成ながら機能する装置を作ったのだ。
 
 キャスクはアイレイドとドゥーマーの技術の融合だ。アイレイドはドゥーマーの技術者と協力していたようだ。キャスクは特殊な方法で物質の融合と分解を可能にするものだ。例えば溶鉱炉を使わずに銀製品を銀鉱石にしたり、いくつかの宝石から上質な宝石を生み出したりできるのだ。
 
@@ -1535,7 +1535,7 @@ After I finish up here in a couple of weeks, I can start working my way east thr
 
 欠点はキャスクよりも小さいために、アイテムの分解には向いていないということだ。その分融合と品質を重視している。
 
-キューブはまだ私の持つアイレイド、ドゥーマー、そして変成技術の知識に制限されている。まだ知るべきことは山ほどあるのだ。だから私は探求の旅を続け、キューブの改良とともに錬金術の秘密を解き明かそうとするのだ。
+キューブはまだ私の持つアイレイド、ドゥーマー、そして変容技術の知識に制限されている。まだ知るべきことは山ほどあるのだ。だから私は探求の旅を続け、キューブの改良とともに錬金術の秘密を解き明かそうとするのだ。
 
 [pagebreak]
 暁星の月4日 モーンダス
@@ -1572,11 +1572,11 @@ After I finish up here in a couple of weeks, I can start working my way east thr
     </String>
     <String List="1">
       <Source>After delving the depths of Nchuand-Zel, I've recovered the Transmutation Cube. This artifact should prove invaluable to me.</Source>
-      <Dest>ヌチュアンド・ゼルの深部でトランスミュート・キューブを手に入れた。この秘宝はとても貴重なものだ。</Dest>
+      <Dest>ヌチュアンド・ゼルの深部でトランスミューテーション・キューブを手に入れた。この秘宝はとても貴重なものだ。</Dest>
     </String>
     <String List="1">
       <Source>I've unlocked the ruins of Nchuand-Zel, and the Transmutation Cube should be somewhere inside. The journal mentioned using an old control room as a camp, so I should keep my eyes open for that area</Source>
-      <Dest>ヌチュアンド・ゼル遺跡へ入った。どこかにトランスミュート・キューブがあるはずだ。日記によれば古い制御室を野営地としていたようだ。その辺りを探索してみよう。</Dest>
+      <Dest>ヌチュアンド・ゼル遺跡へ入った。どこかにトランスミューテーション・キューブがあるはずだ。日記によれば古い制御室を野営地としていたようだ。その辺りを探索してみよう。</Dest>
     </String>
     <String List="1">
       <Source>Pickup or adjust position.</Source>
