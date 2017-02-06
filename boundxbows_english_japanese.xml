@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>boundxbows.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Spell Tome: Bound Crossbow</Source>
+      <Dest>呪文の書: 魔力のクロスボウ</Dest>
+    </String>
+    <String List="0">
+      <Source>Mystic Crossbow</Source>
+      <Dest>秘術のクロスボウ</Dest>
+    </String>
+    <String List="0">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+    <String List="0">
+      <Source>Bound Bolt</Source>
+      <Dest>魔力のボルト</Dest>
+    </String>
+    <String List="0">
+      <Source>Bound Crossbow</Source>
+      <Dest>魔力のクロスボウ</Dest>
+    </String>
+    <String List="0">
+      <Source>Bound Crossow FX</Source>
+      <Dest>魔力のクロスボウFX</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Dawnguard</Source>
+      <Dest>ドーンガード砦</Dest>
+    </String>
+    <String List="0">
+      <Source>Creates a magic crossbow for &lt;dur&gt; seconds. Sheathe it to dispel.</Source>
+      <Dest>魔力のクロスボウを &lt;dur&gt; 秒間出現させる。しまうと消失する。</Dest>
+    </String>
+    <String List="1">
+      <Source>&lt;font face'$HandwrittenFont'&gt;&lt;font size='40'&gt;&lt;p align='center'&gt;
+Bound Crossbow</Source>
+      <Dest>&lt;font face'$HandwrittenFont'&gt;&lt;font size='40'&gt;&lt;p align='center'&gt;
+魔力のクロスボウ</Dest>
+    </String>
+    <String List="1">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+    <String List="1">
+      <Source>Attacks with this crossbow ignore 50% of armor.</Source>
+      <Dest>このクロスボウによる攻撃は、防御値の50%を無視する。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
