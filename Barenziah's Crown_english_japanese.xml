@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Barenziah's Crown.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Crown of Barenziah Replica</Source>
+      <Dest>バレンジアの王冠のレプリカ</Dest>
+    </String>
+    <String List="0">
+      <Source>Become a full member of the Thieves Guild</Source>
+      <Dest>盗賊ギルドの正式メンバーになる</Dest>
+    </String>
+    <String List="0">
+      <Source>Chest</Source>
+      <Dest>宝箱</Dest>
+    </String>
+    <String List="0">
+      <Source>Iron Dagger</Source>
+      <Dest>鉄のダガー</Dest>
+    </String>
+    <String List="0">
+      <Source>Letter From Vex</Source>
+      <Dest>ヴェックスからの手紙</Dest>
+    </String>
+    <String List="0">
+      <Source>Return to Vex</Source>
+      <Dest>ヴェックスのところに戻る</Dest>
+    </String>
+    <String List="0">
+      <Source>The Ragged Flagon - Cistern</Source>
+      <Dest>ラグド・フラゴン - 貯水池</Dest>
+    </String>
+    <String List="0">
+      <Source>Barenziahs Crown</Source>
+      <Dest>バレンジアの王冠</Dest>
+    </String>
+    <String List="0">
+      <Source>Bring the Unusual Gem to Vex in the Thieves Guild</Source>
+      <Dest>珍しい石を盗賊ギルドのヴェックスのところに持っていく</Dest>
+    </String>
+    <String List="0">
+      <Source>Recover the Stones of Barenziah  (&lt;Global=TGCrownGemsFound&gt;/&lt;Global=TGCrownGemsTotal&gt;)</Source>
+      <Dest>バレンジアの石を回収する(&lt;Global=TGCrownGemsFound&gt; / &lt;Global=TGCrownGemsTotal&gt;)</Dest>
+    </String>
+    <String List="0">
+      <Source>No Stone Unturned</Source>
+      <Dest>草の根分けても</Dest>
+    </String>
+    <String List="0">
+      <Source>Speak to Vex</Source>
+      <Dest>ヴェックスと話す</Dest>
+    </String>
+    <String List="0">
+      <Source>Recover the Crown of Barenziah</Source>
+      <Dest>バレンジアの王冠を回収する</Dest>
+    </String>
+    <String List="1">
+      <Source>     I figured you would like this, while reassembling the crown I learned a little about its construction. If you want to make a replica of the crown follow the included instructions (because you're not getting the real thing).
+
+P.S. The only items you will need for this are:
+ - 24 Garnet gems
+ - 2 Gold Ingots
+
+--Vex
+</Source>
+      <Dest>あんたがこれを気に入ったようだからね、 王冠を組み立て直しながらちょっと調べたんだ。あんたは本物の王冠を手に入れてないからね、王冠のレプリカが欲しいなら書いてある通りにするんだよ。
+
+追伸 必要な材料はこれだけだ:
+ - 24 ガーネット
+ - 2 金のインゴット
+
+--ヴェックス</Dest>
+    </String>
+    <String List="1">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+    <String List="1">
+      <Source>I've found an unusual gem which seems to exhibit magical properties. I should bring it to Vex at the Thieves Guild for an appraisal.</Source>
+      <Dest>魔法がかかっていそうな珍しい石を見つけた。鑑定のため、盗賊ギルドのヴェックスに見せるべきだろう。</Dest>
+    </String>
+    <String List="1">
+      <Source>It was suggested that I show my Unusual Gem to Vex, a member of the Thieves Guild in Riften. However, I'll need to wait until I'm full member of the Guild before she'll be able to assist me.</Source>
+      <Dest>リフテンの盗賊ギルドのひとり、ヴェックスに珍しい石を見せるよう提案された。しかし、彼女に助けてもらうには、ギルドの完全な一員にならねばならない。</Dest>
+    </String>
+    <String List="1">
+      <Source>The unusual gem has turned out to be one of twenty-four "Stones of Barenziah." According to Vex, they have little value unless the set is complete.</Source>
+      <Dest>珍しい石は24個ある " バレンジアの石 " の1つであることがわかった。ヴェックスによると、全てが揃わなければ、1つ1つにはそれほどの価値はないらしい。</Dest>
+    </String>
+    <String List="1">
+      <Source>Vex has revealed to me that the Crown of Barenziah is actually a paragon for the Thieves Guild. If I can recover the crown from Tolvald's Cave, she should be able to restore our paragon to its full strength.</Source>
+      <Dest>バレンジアの王冠は盗賊ギルドにとって実は鑑となるものだとヴェックスが教えてくれた。王冠をトルバルド洞窟から取り戻して、ヴェックスがバレンジアの石を取り付けられれば、元の完全な力を取り戻せる。</Dest>
+    </String>
+    <String List="1">
+      <Source>I've brought the Crown of Barenziah back to Vex, who has restored it to its original condition where it now serves as a paragon for the Thieves Guild.</Source>
+      <Dest>バレンジアの王冠をヴェックスのもとに持ち帰った。ヴェックスは王冠を本来の状態に戻し、王冠は今や盗賊ギルドの「パラゴン」となっている。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
