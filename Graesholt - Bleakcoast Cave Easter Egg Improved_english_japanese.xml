@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Graesholt - Bleakcoast Cave Easter Egg Improved.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Giant Frost Troll</Source>
+      <Dest>ジャイアント・フロスト・トロール</Dest>
+    </String>
+    <String List="0">
+      <Source>Burns the target for &lt;mag&gt; points over &lt;dur&gt; seconds. Targets on fire take extra damage.</Source>
+      <Dest>対象を焼き払い、 &lt;mag&gt; ポイントのダメージを &lt;dur&gt; 秒間与える。炎上した対象には追加ダメージ。</Dest>
+    </String>
+    <String List="0">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+    <String List="0">
+      <Source>Fire Damage</Source>
+      <Dest>炎ダメージ</Dest>
+    </String>
+    <String List="0">
+      <Source>Bleakcoast Cave</Source>
+      <Dest>ブリークコースト洞窟</Dest>
+    </String>
+    <String List="0">
+      <Source>Starblade</Source>
+      <Dest>スターブレード</Dest>
+    </String>
+    <String List="1">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
