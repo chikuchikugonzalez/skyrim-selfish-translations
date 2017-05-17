@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Enhanced Amulet of Talos.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>000TalosByPitchfork</EDID>
+      <REC>ENCH:FULL</REC>
+      <Source>Blessing of Talos</Source>
+      <Dest>タロスの祝福</Dest>
+    </String>
+    <String List="0">
+      <EDID>000AmuletofTalosByPitchfork</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Enhanced Amulet of Talos</Source>
+      <Dest>無敵のタロスのアミュレット</Dest>
+    </String>
+    <String List="0">
+      <EDID>WhiterunWorld</EDID>
+      <REC>WRLD:FULL</REC>
+      <Source>Whiterun</Source>
+      <Dest>ホワイトラン</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
