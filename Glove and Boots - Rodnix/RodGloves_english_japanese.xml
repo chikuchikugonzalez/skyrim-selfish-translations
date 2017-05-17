@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>RodGloves.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>GlovesRodYellow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Rod Gloves (Yellow)</Source>
+      <Dest>ロドニクスグローブ(黄)</Dest>
+    </String>
+    <String List="0">
+      <EDID>GlovesRodGreen</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Rod Gloves (Green)</Source>
+      <Dest>ロドニクスグローブ(緑)</Dest>
+    </String>
+    <String List="0">
+      <EDID>GlovesRodBlue</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Rod Gloves (Blue)</Source>
+      <Dest>ロドニクスグローブ(蒼)</Dest>
+    </String>
+    <String List="0">
+      <EDID>GlovesRodBlack</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Rod Gloves (Black)</Source>
+      <Dest>ロドニクスグローブ(黒)</Dest>
+    </String>
+    <String List="0">
+      <EDID>GlovesRodCrimson</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Rod Gloves (Crimson)</Source>
+      <Dest>ロドニクスグローブ(紅)</Dest>
+    </String>
+    <String List="0">
+      <EDID>GlovesRodWhite</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Rod Gloves (White)</Source>
+      <Dest>ロドニクスグローブ(白)</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

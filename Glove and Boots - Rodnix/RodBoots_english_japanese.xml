@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>RodBoots.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>BootsRodGreen</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Rod Boots (Green)</Source>
+      <Dest>ロドニクスブーツ(緑)</Dest>
+    </String>
+    <String List="0">
+      <EDID>BootsRodYellow</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Rod Boots (Yellow)</Source>
+      <Dest>ロドニクスブーツ(黄)</Dest>
+    </String>
+    <String List="0">
+      <EDID>BootsRodWhite</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Rod Boots (White)</Source>
+      <Dest>ロドニクスブーツ(白)</Dest>
+    </String>
+    <String List="0">
+      <EDID>BootsRodBlack</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Rod Boots (Black)</Source>
+      <Dest>ロドニクスブーツ(黒)</Dest>
+    </String>
+    <String List="0">
+      <EDID>BootsRodBlue</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Rod Boots (Blue)</Source>
+      <Dest>ロドニクスブーツ(蒼)</Dest>
+    </String>
+    <String List="0">
+      <EDID>BootsRodCrimson</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Rod Boots (Crimson)</Source>
+      <Dest>ロドニクスブーツ(紅)</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
