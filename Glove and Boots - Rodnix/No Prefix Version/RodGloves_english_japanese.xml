@@ -11,37 +11,37 @@
       <EDID>GlovesRodYellow</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Rod Gloves (Yellow)</Source>
-      <Dest>ロドニクスのグローブ(黄)</Dest>
+      <Dest>手袋</Dest>
     </String>
     <String List="0">
       <EDID>GlovesRodGreen</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Rod Gloves (Green)</Source>
-      <Dest>ロドニクスのグローブ(緑)</Dest>
+      <Dest>手袋</Dest>
     </String>
     <String List="0">
       <EDID>GlovesRodBlue</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Rod Gloves (Blue)</Source>
-      <Dest>ロドニクスのグローブ(蒼)</Dest>
+      <Dest>手袋</Dest>
     </String>
     <String List="0">
       <EDID>GlovesRodBlack</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Rod Gloves (Black)</Source>
-      <Dest>ロドニクスのグローブ(黒)</Dest>
+      <Dest>手袋</Dest>
     </String>
     <String List="0">
       <EDID>GlovesRodCrimson</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Rod Gloves (Crimson)</Source>
-      <Dest>ロドニクスのグローブ(紅)</Dest>
+      <Dest>手袋</Dest>
     </String>
     <String List="0">
       <EDID>GlovesRodWhite</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Rod Gloves (White)</Source>
-      <Dest>ロドニクスのグローブ(白)</Dest>
+      <Dest>手袋</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

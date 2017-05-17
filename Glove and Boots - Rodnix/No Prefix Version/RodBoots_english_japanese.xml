@@ -11,37 +11,37 @@
       <EDID>BootsRodGreen</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Rod Boots (Green)</Source>
-      <Dest>ロドニクスのブーツ(緑)</Dest>
+      <Dest>ブーツ</Dest>
     </String>
     <String List="0">
       <EDID>BootsRodYellow</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Rod Boots (Yellow)</Source>
-      <Dest>ロドニクスのブーツ(黄)</Dest>
+      <Dest>ブーツ</Dest>
     </String>
     <String List="0">
       <EDID>BootsRodWhite</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Rod Boots (White)</Source>
-      <Dest>ロドニクスのブーツ(白)</Dest>
+      <Dest>ブーツ</Dest>
     </String>
     <String List="0">
       <EDID>BootsRodBlack</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Rod Boots (Black)</Source>
-      <Dest>ロドニクスのブーツ(黒)</Dest>
+      <Dest>ブーツ</Dest>
     </String>
     <String List="0">
       <EDID>BootsRodBlue</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Rod Boots (Blue)</Source>
-      <Dest>ロドニクスのブーツ(蒼)</Dest>
+      <Dest>ブーツ</Dest>
     </String>
     <String List="0">
       <EDID>BootsRodCrimson</EDID>
       <REC>ARMO:FULL</REC>
       <Source>Rod Boots (Crimson)</Source>
-      <Dest>ロドニクスのブーツ(紅)</Dest>
+      <Dest>ブーツ</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
