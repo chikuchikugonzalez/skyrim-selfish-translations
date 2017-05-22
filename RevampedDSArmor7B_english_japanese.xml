@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>RevampedDSArmor7B.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>HighheelsScript</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>High heels Script</Source>
+      <Dest>ハイヒール</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaArmorDragonscaleCuirassAlt</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Dragonscale Hentai Light Armor</Source>
+      <Dest>ドラゴンスケールのあぶない軽装鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaDSdressAmulet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Dragonskull Amulet</Source>
+      <Dest>ドラゴンスカルのアミュレット</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaArmorDragonscaleBootsalt</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Dragonscale Hentai Light Boots</Source>
+      <Dest>ドラゴンスケールのあぶない軽装ブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBlackArmorDragonscaleCuirassH</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Black DS Heavy Armor</Source>
+      <Dest>ブラックドラゴンスケールの重装鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBlackArmorDragonscaleCuirassAltH</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Black DS Hentai Heavy Armor</Source>
+      <Dest>ブラックドラゴンスケールのあぶない重装鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBlackArmorDragonscaleCuirassAlt</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Black DS Hentai Light Armor</Source>
+      <Dest>ブラックドラゴンスケールのあぶない軽装鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBlackArmorDragonscaleCuirass</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Black DS Light Armor</Source>
+      <Dest>ブラックドラゴンスケールの軽装鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBlackArmorDragonscaleBootsH</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Black DS Heavy Boots</Source>
+      <Dest>ブラックドラゴンスケールの重装ブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBlackArmorDragonscaleBootsaltH</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Black DS Hentai Heavy Boots</Source>
+      <Dest>ブラックドラゴンスケールのあぶない重装ブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBlackArmorDragonscaleBootsalt</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Black DS Hentai Light Boots</Source>
+      <Dest>ブラックドラゴンスケールのあぶない軽装ブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBlackArmorDragonscaleBoots</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Black DS Light Boots</Source>
+      <Dest>ブラックドラゴンスケールの軽装ブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBlackArmorDragonscaleGauntletsH</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Black DS Heavy Gauntlets</Source>
+      <Dest>ブラックドラゴンスケールの重装篭手</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaArmorDragonscaleBoots</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Dragonscale Light Boots</Source>
+      <Dest>ドラゴンスケールの軽装ブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaArmorDragonscaleGauntlets</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Dragonscale Light Gauntlets</Source>
+      <Dest>ドラゴンスケールの軽装篭手</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaArmorDragonscaleBootsH</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Dragonscale Heavy Boots</Source>
+      <Dest>ドラゴンスケールの重装ブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaArmorDragonscaleBootsaltH</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Dragonscale Hentai Heavy Boots</Source>
+      <Dest>ドラゴンスケールのあぶない重装ブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaArmorDragonscaleCuirassH</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Dragonscale Heavy Armor</Source>
+      <Dest>ドラゴンスケールの重装鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaArmorDragonscaleCuirassAltH</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Dragonscale Hentai Heavy Armor</Source>
+      <Dest>ドラゴンスケールのあぶない重装鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaArmorDragonscaleGauntletsH</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Dragonscale Heavy Gauntlets</Source>
+      <Dest>ドラゴンスケールの重装篭手</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaArmorDragonscaleCuirass</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Dragonscale Light Armor</Source>
+      <Dest>ドラゴンスケールの軽装鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBlackArmorDragonscaleGauntlets</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Black DS Light Gauntlets</Source>
+      <Dest>ブラックドラゴンスケールの軽装篭手</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
