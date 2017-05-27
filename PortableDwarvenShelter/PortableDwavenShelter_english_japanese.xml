@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>PortableDwavenShelter.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>zzzM150PDSMrNordyRace</EDID>
+      <REC>RACE:FULL</REC>
+      <Source>Mr Nordy</Source>
+      <Dest>ミスター・ノルディ</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSDiboRace</EDID>
+      <REC>RACE:FULL</REC>
+      <Source>Dibo</Source>
+      <Dest>ダイボ</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSDwarvenRace</EDID>
+      <REC>RACE:FULL</REC>
+      <Source>Dwarven</Source>
+      <Dest>ドワーフ</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSDwarvenEyeBotRace</EDID>
+      <REC>RACE:FULL</REC>
+      <Source>Dwarven Eye Bot</Source>
+      <Dest>ドゥーマー・アイボット</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSProtectdonRace</EDID>
+      <REC>RACE:FULL</REC>
+      <Source>Protectdon</Source>
+      <Dest>プロテクドン</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSSummonTeleporterME</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Call Teleporter</Source>
+      <Dest>テレポーターを召喚する</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSSummonTeleporterEnch</EDID>
+      <REC>ENCH:FULL</REC>
+      <Source>Call Teleporter</Source>
+      <Dest>テレポーターを召喚する</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSAltarDwemerSpell</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Scientism</Source>
+      <Dest>科学主義</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSVMUnderDwkka</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>VendingMachine</Source>
+      <Dest>自動販売機</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSVMDwoni</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>VendingMachine</Source>
+      <Dest>自動販売機</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSVMDrDwpper</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>VendingMachine</Source>
+      <Dest>自動販売機</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSVMKemeldryMushAle</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>VendingMachine</Source>
+      <Dest>自動販売機</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSRadio</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Radio</Source>
+      <Dest>ラジオ</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSJukeBox</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>JukeBox</Source>
+      <Dest>ジュークボックス</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSAutoDoc</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>AutoDoc</Source>
+      <Dest>オートドクター</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSVMKingDumacCoffee</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>VendingMachine</Source>
+      <Dest>自動販売機</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSSoundplayer</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Soundplayer</Source>
+      <Dest>オーディオプレイヤー</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSTeleporter1Summon</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Teleporter</Source>
+      <Dest>テレポーター</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSHamburgermaker1</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Hamburger Maker</Source>
+      <Dest>ハンバーガー製造機</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSTeleporter1</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Teleporter</Source>
+      <Dest>テレポーター</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSVMMechanicalSpirit</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>VendingMachine</Source>
+      <Dest>自動販売機</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSSweetrollmakerMain</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Sweetroll Maker</Source>
+      <Dest>スイートロール製造機</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSContainerMekazawa</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Container</Source>
+      <Dest>収納</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSdustbox1</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Dustbox</Source>
+      <Dest>ゴミ箱</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSRefrigerator1</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Refrigerator</Source>
+      <Dest>冷蔵庫</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSContainer1</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Container</Source>
+      <Dest>収納</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSChest1</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Chest</Source>
+      <Dest>宝箱</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSDoor01</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>扉</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSDoor02</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Door</Source>
+      <Dest>扉</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSPlate01</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Plate</Source>
+      <Dest>皿</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSBobblehead</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Bobblehead</Source>
+      <Dest>首振り人形</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSashtray</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Ashtray</Source>
+      <Dest>灰皿</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSFloraCabbage</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Cabbage</Source>
+      <Dest>キャベツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSFloraCabbage</EDID>
+      <REC>FLOR:RNAM</REC>
+      <Source>take</Source>
+      <Dest>取る</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSFloraThistle</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>Thistle</Source>
+      <Dest>シッスル</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSFloraThistle</EDID>
+      <REC>FLOR:RNAM</REC>
+      <Source>take</Source>
+      <Dest>取る</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSFloraMushroom</EDID>
+      <REC>FLOR:FULL</REC>
+      <Source>GlowingMushroom</Source>
+      <Dest>光るキノコ</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSFloraMushroom</EDID>
+      <REC>FLOR:RNAM</REC>
+      <Source>take</Source>
+      <Dest>取る</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSCraftingEnchanting1</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>EnchantKit</Source>
+      <Dest>付呪装置</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSCraftingEnchanting2</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>EnchantTerminal</Source>
+      <Dest>付呪端末</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSCraftingAlchemy1</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>AlchemyLabware</Source>
+      <Dest>錬金器具</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSCraftingSmith1</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Replicator</Source>
+      <Dest>レプリケーター</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSCraftingCooking1</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>MicrowaveOven</Source>
+      <Dest>電子レンジ</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSToilet01F</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Toilet</Source>
+      <Dest>トイレ</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSTableTwoBenches</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Table</Source>
+      <Dest>テーブル</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSChair01R</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Chair</Source>
+      <Dest>椅子</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSChair01F</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Chair</Source>
+      <Dest>椅子</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSChair01L</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Chair</Source>
+      <Dest>椅子</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSBench02</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Bench</Source>
+      <Dest>長椅子</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSBench01</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Bench</Source>
+      <Dest>長椅子</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSTableOneBench</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Table</Source>
+      <Dest>テーブル</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSBed01L</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Bed</Source>
+      <Dest>ベッド</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSCraftingSmithArmor1</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>AutoWorkbench</Source>
+      <Dest>全自動作業台</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSStool01F</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Stool</Source>
+      <Dest>スツール</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150DPSDbanezRG7EX3</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Dbanez RG7EX</Source>
+      <Dest>ダイバニーズRG7EX</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150DPSDbanezRG7EX1</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Dbanez RG7EX</Source>
+      <Dest>ダイバニーズRG7EX</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150DPSDbanezRG7EX2</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Dbanez RG7EX</Source>
+      <Dest>ダイバニーズRG7EX</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSMudcrabMachine</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mudcrab Machine Mike</Source>
+      <Dest>マッドクラブ・マシンのマイク</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSDoomba</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Doomba</Source>
+      <Dest>ドゥンバ</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSMrNordy</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mr Nordy</Source>
+      <Dest>ミスター・ノルディ</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSProtectdon</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Protectdon</Source>
+      <Dest>プロテクドン</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSDEB</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Dwarven Eyebot</Source>
+      <Dest>ドゥーマー・アイボット</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSMiniBrain</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>MiniBrain</Source>
+      <Dest>ミニブレイン</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSDibo</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Dibo</Source>
+      <Dest>ダイボ</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSFoodDrDwpper</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Dr Dwpper</Source>
+      <Dest>ドクタードゥッパー</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSDwoni</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Dwoni</Source>
+      <Dest>ドゥオーニ</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSMechanicalSpirit</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Mechanical Spirit</Source>
+      <Dest>メカニカルスピリット</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSBeefBurger</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Beef Burger</Source>
+      <Dest>ビーフバーガー</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSFoodUnderDwkka</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Under Dwkka</Source>
+      <Dest>アンダー・ドゥッカ</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSFoodKingDumacCoffee</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>King Dumac Coffee</Source>
+      <Dest>デュマックコーヒー</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSFoodKemeldryMushAle</EDID>
+      <REC>ALCH:FULL</REC>
+      <Source>Kemeldry MushAle</Source>
+      <Dest>ケメルドライ・マッシュエール</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSPortableDwavenShelterCell</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Dwaven Shelter-123</Source>
+      <Dest>ドワーフ製核シェルター123</Dest>
+    </String>
+    <String List="0">
+      <EDID>Tamriel</EDID>
+      <REC>WRLD:FULL</REC>
+      <Source>ƒXƒJƒCƒŠƒ€</Source>
+      <Dest>スカイリム</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzM150PDSDwarvenShelterLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Dwarven Shelter-123</Source>
+      <Dest>ドワーフ製核シェルター123</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
