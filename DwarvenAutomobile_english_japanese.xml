@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>DwarvenAutomobile.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>000SummonDwarvenAutomobile2</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Summon Dwarven Automobile</Source>
+      <Dest>ドワーフ製自動車召喚</Dest>
+    </String>
+    <String List="0">
+      <EDID>000SummonDwarvenAutomobile2</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Summon Dwarven Automobile(Roof) &lt;dur&gt; s</Source>
+      <Dest>屋根付きのドワーフ製自動車を &lt;dur&gt; 秒間召喚する。</Dest>
+    </String>
+    <String List="0">
+      <EDID>000SummonDwarvenTractor</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Summon Dwarven Tractor</Source>
+      <Dest>ドワーフ製トラクター召喚</Dest>
+    </String>
+    <String List="0">
+      <EDID>000SummonDwarvenTractor</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Summon Dwarven Tractor &lt;dur&gt; s</Source>
+      <Dest>ドワーフ製トラクターを &lt;dur&gt; 秒間召喚する。</Dest>
+    </String>
+    <String List="0">
+      <EDID>000SummonDwarvenAutomobile</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Summon Dwarven Automobile</Source>
+      <Dest>ドワーフ製自動車召喚</Dest>
+    </String>
+    <String List="0">
+      <EDID>000SummonDwarvenAutomobile</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Summon Dwarven Automobile &lt;dur&gt; s</Source>
+      <Dest>ドワーフ製自動車を &lt;dur&gt; 秒間召喚する。</Dest>
+    </String>
+    <String List="0">
+      <EDID>000ConjureDwarvenAutomobile2</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Conjure Dwarven Automobile</Source>
+      <Dest>ドワーフ製自動車召喚</Dest>
+    </String>
+    <String List="0">
+      <EDID>000ConjureDwarvenTractor</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Conjure Dwarven Tractor</Source>
+      <Dest>ドワーフ製トラクター召喚</Dest>
+    </String>
+    <String List="0">
+      <EDID>000ConjureDwarvenAutomobile</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Conjure Dwarven Automobile</Source>
+      <Dest>ドワーフ製自動車召喚</Dest>
+    </String>
+    <String List="0">
+      <EDID>000SpellTomeConjureDwarvenAutomobile2</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Conjure Dwarven Automobile</Source>
+      <Dest>記憶装置: ドワーフ製自動車召喚</Dest>
+    </String>
+    <String List="0">
+      <EDID>000SpellTomeConjureDwarvenAutomobile</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Conjure Dwarven Automobile</Source>
+      <Dest>記憶装置: ドワーフ製自動車召喚</Dest>
+    </String>
+    <String List="0">
+      <EDID>000SpellTomeConjureDwarvenTractor</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Conjure Dwarven Tractor</Source>
+      <Dest>記憶装置: ドワーフ製トラクター召喚</Dest>
+    </String>
+    <String List="0">
+      <EDID>000DAMDweDresser01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>MemoryStick Box</Source>
+      <Dest>メモリースティックの箱</Dest>
+    </String>
+    <String List="0">
+      <EDID>000DwarvenAutomobile</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Dwarven Automobile</Source>
+      <Dest>ドワーフ製自動車</Dest>
+    </String>
+    <String List="0">
+      <EDID>000DwarvenTractor</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Dwarven Tractor</Source>
+      <Dest>ドワーフ製トラクター</Dest>
+    </String>
+    <String List="0">
+      <EDID>000DwarvenAutomobile2</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Dwarven Automobile</Source>
+      <Dest>ドワーフ製自動車</Dest>
+    </String>
+    <String List="0">
+      <EDID>000DwarvenAutomobile2Summon</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Dwarven Automobile</Source>
+      <Dest>ドワーフ製自動車</Dest>
+    </String>
+    <String List="0">
+      <EDID>000DwarvenAutomobileSummon</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Dwarven Automobile</Source>
+      <Dest>ドワーフ製自動車</Dest>
+    </String>
+    <String List="0">
+      <EDID>000DwarvenTractorSummon</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Dwarven Tractor</Source>
+      <Dest>ドワーフ製トラクター</Dest>
+    </String>
+    <String List="0">
+      <EDID>Tamriel</EDID>
+      <REC>WRLD:FULL</REC>
+      <Source>ƒXƒJƒCƒŠƒ€</Source>
+      <Dest>スカイリム</Dest>
+    </String>
+    <String List="0">
+      <EDID>[02001326]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Dwarven Parking</Source>
+      <Dest>ドワーフの駐車場</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
