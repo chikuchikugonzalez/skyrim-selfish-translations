@@ -1,0 +1,1025 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Solar&apos;s Portable Containers.esm</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>solar_mcont_satchel_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Satchel</Source>
+      <Dest>かばん</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_barrel_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Barrel</Source>
+      <Dest>樽</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_chest_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Chest</Source>
+      <Dest>宝箱</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_endtable_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>End Table</Source>
+      <Dest>エンド・テーブル</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_endtablenoble_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Fine End Table</Source>
+      <Dest>エンド・テーブル(優良)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_pot_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Pot</Source>
+      <Dest>壺</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_chestupper_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Fine Chest</Source>
+      <Dest>宝箱(優良)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_dwechest_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Dwemer Chest</Source>
+      <Dest>宝箱(ドワーフ)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_strongbox_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Strong Box</Source>
+      <Dest>金庫</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_safe_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Safe</Source>
+      <Dest>金庫</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_bookshelf_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Bookshelf</Source>
+      <Dest>本棚</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_wrburialurn_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Urn</Source>
+      <Dest>壷</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_dwedresser_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Dwemer Cabinet</Source>
+      <Dest>飾り棚(ドワーフ)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_chestlarge_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Large Chest</Source>
+      <Dest>大きな宝箱</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_cupboard_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Cupboard</Source>
+      <Dest>戸棚</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_dresser_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Dresser</Source>
+      <Dest>化粧台</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_miscpouch_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Pouch</Source>
+      <Dest>ポーチ</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_orcdresser_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Orcish Dresser</Source>
+      <Dest>化粧台(オーク)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_uppercupboard_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Fine Cupboard</Source>
+      <Dest>戸棚(優良)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_upperdresser_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Fine Dresser</Source>
+      <Dest>化粧台(優良)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_wardrobe_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Wardrobe</Source>
+      <Dest>タンス</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_upperwardrobe_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Fine Wardrobe</Source>
+      <Dest>タンス(優良)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_dwecontainer01_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Dwemer Container</Source>
+      <Dest>宝箱(ドワーフ)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_dlc01snowelfchest_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Snow Elf Chest</Source>
+      <Dest>宝箱(スノーエルフ)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_dlc02darkelfurn_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Urn</Source>
+      <Dest>壷</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_testchest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Chest</Source>
+      <Dest>宝箱</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_dwecontainer02_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Small Dwemer Chest</Source>
+      <Dest>小さな宝箱(ドワーフ)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_noblecabinet01_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Small Fine Table</Source>
+      <Dest>小さなテーブル(優良)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_noblecabinet02_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Fine Table</Source>
+      <Dest>テーブル(優良)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_byohlongtable_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Long Table</Source>
+      <Dest>大きなテーブル</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_dlc01soulcairnchest00_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Soul Cache</Source>
+      <Dest>宝箱(ソウルケルン)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_dlc01soulcairnchest01_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Soul Chest</Source>
+      <Dest>宝箱(ソウルケルン)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_dlc01soulcairnchest03_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Large Soul Cache</Source>
+      <Dest>大きな宝箱(ソウルケルン)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_falmerchest01_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Falmer Chest</Source>
+      <Dest>宝箱(ファルメル)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_falmerchest02_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Large Falmer Chest</Source>
+      <Dest>大きな宝箱(ファルメル)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_canopicjar01_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Large Canopic Jar</Source>
+      <Dest>大きな内臓の壷</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_canopicjar02_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Canopic Jar</Source>
+      <Dest>内臓の壷</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_ruinschest_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Ornate Chest</Source>
+      <Dest>飾り立てた宝箱</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_burialurn_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Burial Urn</Source>
+      <Dest>埋葬壷</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_ruinslargeurn01_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Large Urn</Source>
+      <Dest>大きな壺</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_ruinslargeurn02_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Large Urn with Stand</Source>
+      <Dest>大きな壺(台座付)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_miscsacksmall02_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Small Sack</Source>
+      <Dest>小さな袋</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_miscsacklarge01_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Sack</Source>
+      <Dest>袋</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_miscsacklarge03_cont</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Large Sack</Source>
+      <Dest>大きな袋</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_satchel_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Satchel</Source>
+      <Dest>組立式かばん</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_chest_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Chest</Source>
+      <Dest>組立式宝箱</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_barrel_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Barrel</Source>
+      <Dest>組立式樽</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_chestupper_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Fine Chest</Source>
+      <Dest>組立式宝箱(優良)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_endtable_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - End Table</Source>
+      <Dest>組立式エンド・テーブル</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_endtablenoble_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Fine End Table</Source>
+      <Dest>組立式エンド・テーブル(優良)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_pot_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Pot</Source>
+      <Dest>組立式鍋</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_strongbox_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Strongbox</Source>
+      <Dest>組立式金庫</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_dwechest_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Dwemer Chest</Source>
+      <Dest>組立式宝箱(ドワーフ)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_safe_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Safe</Source>
+      <Dest>組立式金庫</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_bookshelf_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Bookshelf</Source>
+      <Dest>組立式本棚</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_wrburialurn_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Silver Urn</Source>
+      <Dest>組立式銀の壺</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_dwedresser_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Dwemer Cabinet</Source>
+      <Dest>組立式飾り棚(ドワーフ)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_chestlarge_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Large Chest</Source>
+      <Dest>組立式大きな宝箱</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_cupboard_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Cupboard</Source>
+      <Dest>組立式戸棚</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_dwecontainer01_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Dwemer Container</Source>
+      <Dest>組立式宝箱(ドワーフ)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_miscpouch_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Pouch</Source>
+      <Dest>組立式ポーチ</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_orcdresser_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Orcish Dresser</Source>
+      <Dest>組立式化粧台(オーク)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_uppercupboard_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Fine Cupboard</Source>
+      <Dest>組立式戸棚(優良)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_upperdresser_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Fine Dresser</Source>
+      <Dest>組立式化粧台(優良)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_upperwardrobe_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Fine Wardrobe</Source>
+      <Dest>組立式タンス(優良)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_wardrobe_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Wardrobe</Source>
+      <Dest>組立式タンス</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_dresser_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Dresser</Source>
+      <Dest>組立式化粧台</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_dlc01snowelfchest_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Snow Elf Chest</Source>
+      <Dest>組立式宝箱(スノーエルフ)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_dlc02darkelfurn_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Urn</Source>
+      <Dest>組立式壷</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_dwecontainer02_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Small Dwemer Chest</Source>
+      <Dest>組立式小さな宝箱(ドワーフ)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_noblecabinet01_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Small Fine Table</Source>
+      <Dest>組立式小さなテーブル(優良)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_noblecabinet02_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Fine Table</Source>
+      <Dest>組立式テーブル(優良)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_byohlongtable_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Long Table</Source>
+      <Dest>組立式大きなテーブル</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_dlc01soulcairnchest00_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Soul Cairn Cache</Source>
+      <Dest>組立式宝箱(ソウルケルン)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_dlc01soulcairnchest01_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Soul Cairn Chest</Source>
+      <Dest>組立式宝箱(ソウルケルン)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_dlc01soulcairnchest02_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Large Soul Cairn Cache</Source>
+      <Dest>組立式大きな宝箱(ソウルケルン)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_falmerchest01_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Falmer Chest</Source>
+      <Dest>組立式宝箱(ファルメル)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_falmerchest02_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Large Falmer Chest</Source>
+      <Dest>組立式大きな宝箱(ファルメル)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_canopicjar01_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Large Canopic Jar</Source>
+      <Dest>組立式大きな内臓の壷</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_canopicjar02_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Canopic Jar</Source>
+      <Dest>組立式内臓の壷</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_ruinschest_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Ornate Chest</Source>
+      <Dest>組立式飾り立てた宝箱</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_ruinslargeurn01_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Large Urn</Source>
+      <Dest>組立式大きな壺</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_ruinslargeurn02_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Large Urn with Stand</Source>
+      <Dest>組立式大きな壺(台座付)</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_burialurn01_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Burial Urn</Source>
+      <Dest>組立式埋葬壷</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_miscsacksmall02_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Small Sack</Source>
+      <Dest>組立式小さな袋</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_miscsacklarge01_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Sack</Source>
+      <Dest>組立式袋</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcont_miscsacklarge03_move</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Furniture Kit - Large Sack</Source>
+      <Dest>組立式大きな袋</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>solar_mcontainer_menuangle</EDID>
+      <REC id="0">MESG:ITXT</REC>
+      <Source>-X</Source>
+      <Dest>-X</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>solar_mcontainer_menuangle</EDID>
+      <REC id="1">MESG:ITXT</REC>
+      <Source>+X</Source>
+      <Dest>+X</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>solar_mcontainer_menuangle</EDID>
+      <REC id="2">MESG:ITXT</REC>
+      <Source>-Y</Source>
+      <Dest>-Y</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>solar_mcontainer_menuangle</EDID>
+      <REC id="3">MESG:ITXT</REC>
+      <Source>+Y</Source>
+      <Dest>+Y</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>solar_mcontainer_menuangle</EDID>
+      <REC id="4">MESG:ITXT</REC>
+      <Source>-Z</Source>
+      <Dest>-Z</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>solar_mcontainer_menuangle</EDID>
+      <REC id="5">MESG:ITXT</REC>
+      <Source>+Z</Source>
+      <Dest>+Z</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuangle</EDID>
+      <REC id="6">MESG:ITXT</REC>
+      <Source>Reset</Source>
+      <Dest>リセット</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuangle</EDID>
+      <REC id="7">MESG:ITXT</REC>
+      <Source>Settings</Source>
+      <Dest>設定</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuangle</EDID>
+      <REC id="8">MESG:ITXT</REC>
+      <Source>Back</Source>
+      <Dest>戻る</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuangle</EDID>
+      <REC id="9">MESG:ITXT</REC>
+      <Source>Exit</Source>
+      <Dest>終了</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuscale</EDID>
+      <REC id="0">MESG:ITXT</REC>
+      <Source>Smaller</Source>
+      <Dest>小さく</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuscale</EDID>
+      <REC id="1">MESG:ITXT</REC>
+      <Source>Larger</Source>
+      <Dest>大きく</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuscale</EDID>
+      <REC id="2">MESG:ITXT</REC>
+      <Source>Reset</Source>
+      <Dest>リセット</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuscale</EDID>
+      <REC id="3">MESG:ITXT</REC>
+      <Source>Back</Source>
+      <Dest>戻る</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuscale</EDID>
+      <REC id="4">MESG:ITXT</REC>
+      <Source>Exit</Source>
+      <Dest>終了</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuconsume</EDID>
+      <REC id="0">MESG:ITXT</REC>
+      <Source>Potions</Source>
+      <Dest>薬</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuconsume</EDID>
+      <REC id="1">MESG:ITXT</REC>
+      <Source>Food</Source>
+      <Dest>食べ物</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuconsume</EDID>
+      <REC id="2">MESG:ITXT</REC>
+      <Source>Drink</Source>
+      <Dest>飲み物</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuconsume</EDID>
+      <REC id="3">MESG:ITXT</REC>
+      <Source>Back</Source>
+      <Dest>戻る</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuconsume</EDID>
+      <REC id="4">MESG:ITXT</REC>
+      <Source>Exit</Source>
+      <Dest>終了</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menusettings</EDID>
+      <REC id="6">MESG:ITXT</REC>
+      <Source>Back</Source>
+      <Dest>戻る</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menusettings</EDID>
+      <REC id="7">MESG:ITXT</REC>
+      <Source>Exit</Source>
+      <Dest>終了</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuoptions</EDID>
+      <REC id="0">MESG:ITXT</REC>
+      <Source>Pick Up</Source>
+      <Dest>拾う</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuoptions</EDID>
+      <REC id="1">MESG:ITXT</REC>
+      <Source>Move</Source>
+      <Dest>移動</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuoptions</EDID>
+      <REC id="2">MESG:ITXT</REC>
+      <Source>Angle</Source>
+      <Dest>角度</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuoptions</EDID>
+      <REC id="3">MESG:ITXT</REC>
+      <Source>Scale</Source>
+      <Dest>拡大</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuoptions</EDID>
+      <REC id="4">MESG:ITXT</REC>
+      <Source>Toggle Menu</Source>
+      <Dest>メニュー切替</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuoptions</EDID>
+      <REC id="5">MESG:ITXT</REC>
+      <Source>Return</Source>
+      <Dest>戻る</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuoptions</EDID>
+      <REC id="6">MESG:ITXT</REC>
+      <Source>Exit</Source>
+      <Dest>終了</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menubook</EDID>
+      <REC id="0">MESG:ITXT</REC>
+      <Source>Books</Source>
+      <Dest>本</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menubook</EDID>
+      <REC id="1">MESG:ITXT</REC>
+      <Source>Journals</Source>
+      <Dest>日記</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menubook</EDID>
+      <REC id="2">MESG:ITXT</REC>
+      <Source>Notes</Source>
+      <Dest>メモ</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menubook</EDID>
+      <REC id="3">MESG:ITXT</REC>
+      <Source>Tomes and Scrolls</Source>
+      <Dest>呪文の書と巻物</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menubook</EDID>
+      <REC id="4">MESG:ITXT</REC>
+      <Source>Back</Source>
+      <Dest>戻る</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menubook</EDID>
+      <REC id="5">MESG:ITXT</REC>
+      <Source>Exit</Source>
+      <Dest>終了</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuopen</EDID>
+      <REC id="0">MESG:ITXT</REC>
+      <Source>Open</Source>
+      <Dest>開ける</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuopen</EDID>
+      <REC id="1">MESG:ITXT</REC>
+      <Source>Ingredients</Source>
+      <Dest>錬金素材</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuopen</EDID>
+      <REC id="2">MESG:ITXT</REC>
+      <Source>Crafting</Source>
+      <Dest>鍛造素材</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuopen</EDID>
+      <REC id="3">MESG:ITXT</REC>
+      <Source>Soulgems</Source>
+      <Dest>魂石</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuopen</EDID>
+      <REC id="4">MESG:ITXT</REC>
+      <Source>Gear</Source>
+      <Dest>装備</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuopen</EDID>
+      <REC id="5">MESG:ITXT</REC>
+      <Source>Consume</Source>
+      <Dest>消耗品</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuopen</EDID>
+      <REC id="6">MESG:ITXT</REC>
+      <Source>Books</Source>
+      <Dest>本</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuopen</EDID>
+      <REC id="7">MESG:ITXT</REC>
+      <Source>Options</Source>
+      <Dest>オプション</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuopen</EDID>
+      <REC id="8">MESG:ITXT</REC>
+      <Source>Exit</Source>
+      <Dest>終了</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>solar_mcontainer_menumoving</EDID>
+      <REC id="0">MESG:ITXT</REC>
+      <Source>-X</Source>
+      <Dest>-X</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>solar_mcontainer_menumoving</EDID>
+      <REC id="1">MESG:ITXT</REC>
+      <Source>+X</Source>
+      <Dest>+X</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>solar_mcontainer_menumoving</EDID>
+      <REC id="2">MESG:ITXT</REC>
+      <Source>-Y</Source>
+      <Dest>-Y</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>solar_mcontainer_menumoving</EDID>
+      <REC id="3">MESG:ITXT</REC>
+      <Source>+Y</Source>
+      <Dest>+Y</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>solar_mcontainer_menumoving</EDID>
+      <REC id="4">MESG:ITXT</REC>
+      <Source>-Z</Source>
+      <Dest>-Z</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>solar_mcontainer_menumoving</EDID>
+      <REC id="5">MESG:ITXT</REC>
+      <Source>+Z</Source>
+      <Dest>+Z</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menumoving</EDID>
+      <REC id="6">MESG:ITXT</REC>
+      <Source>Settings</Source>
+      <Dest>設定</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menumoving</EDID>
+      <REC id="7">MESG:ITXT</REC>
+      <Source>Back</Source>
+      <Dest>戻る</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menumoving</EDID>
+      <REC id="8">MESG:ITXT</REC>
+      <Source>Exit</Source>
+      <Dest>終了</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuequip</EDID>
+      <REC id="0">MESG:ITXT</REC>
+      <Source>Weapons</Source>
+      <Dest>武器</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuequip</EDID>
+      <REC id="1">MESG:ITXT</REC>
+      <Source>Staves</Source>
+      <Dest>杖</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuequip</EDID>
+      <REC id="2">MESG:ITXT</REC>
+      <Source>Armor</Source>
+      <Dest>防御</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuequip</EDID>
+      <REC id="3">MESG:ITXT</REC>
+      <Source>Jewelry</Source>
+      <Dest>宝飾品</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuequip</EDID>
+      <REC id="4">MESG:ITXT</REC>
+      <Source>Clothes</Source>
+      <Dest>服</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuequip</EDID>
+      <REC id="5">MESG:ITXT</REC>
+      <Source>Daedric Artifacts</Source>
+      <Dest>デイドラの秘宝</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuequip</EDID>
+      <REC id="6">MESG:ITXT</REC>
+      <Source>Back</Source>
+      <Dest>戻る</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuequip</EDID>
+      <REC id="7">MESG:ITXT</REC>
+      <Source>Exit</Source>
+      <Dest>終了</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuplace</EDID>
+      <REC id="0">MESG:ITXT</REC>
+      <Source>Place Container</Source>
+      <Dest>設置</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuplace</EDID>
+      <REC id="1">MESG:ITXT</REC>
+      <Source>Pick Up</Source>
+      <Dest>拾う</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_mcontainer_menuplace</EDID>
+      <REC id="2">MESG:ITXT</REC>
+      <Source>Exit</Source>
+      <Dest>終了</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_mcontainer_menuangle</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Select the axis you want to change. To change how much or little you want the object to rotate on it&apos;s axis, open settings.
+
+Angle, in degrees, is set to: %.0f
+X Axis: %10.2f
+Y Axis: %10.2f
+Z Axis: %10.2f</Source>
+      <Dest>回転させたい方向を選択してください。単位回転角度を調整したい場合は設定を開いてください。
+
+単位回転量: %.0f 度
+ X軸回転角: %10.2f 度
+ Y軸回転角: %10.2f 度
+ Z軸回転角: %10.2f 度</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_mcontainer_menuscale</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Would you like to make your container larger or smaller? Reset will set the scale to 1
+
+Scale is: %10.2f</Source>
+      <Dest>どの程度コンテナを拡大もしくは縮小しますか？等倍に戻すにはリセットしてください。
+
+拡大率: %10.2f</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_mcontainer_menuconsume</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Select which consumable item you wish to sort</Source>
+      <Dest>並べ替えたい消耗品を選択してください。</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_mcontainer_menusettings</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>These settings will control how much the container will move or how many degrees it will turn when using the Move or Angle options.
+Current Movement, in units: %.0f
+Current Angle, in degrees: %.0f</Source>
+      <Dest>この設定はコンテナの移動時の移動量や回転操作時の角度を調整します。
+
+現在の移動幅: %.0f pt
+現在の回転量: %.0f 度</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_mcontainer_menuoptions</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Various options. Toggle Menu will turn on and off the main menu when activating the container. To access the menu while it&apos;s hidden, activate the container while sneaking.</Source>
+      <Dest>オプション
+
+「メニュー切替」によってコンテナをアクティベートしたときにメニューを表示するかを切り替えます。
+表示しない設定のときにこのメニューを開きたい場合は隠密状態でコンテナをアクティベートしてください。</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_mcontainer_menubook</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Select which type of literature you wish you put away.</Source>
+      <Dest>書物の種類を選択してください。</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_mcontainer_menuopen</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>1. Open Container
+2. Sort Ingredients
+3. Sort Crafting Materials
+4. Sort Soul Gems
+5. Sort Gear (weapons/armor/ect..)
+6. Sort Consumables
+7. Sort Books
+8. Options Menu</Source>
+      <Dest>1. コンテナを開く
+2. 錬金素材をソート
+3. 鍛造素材をソート
+4. 魂石をソート
+5. 装備をソート
+6. 消耗品をソート
+7. 書類をソート
+8. オプションメニュー</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_mcontainer_menumoving</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Select the axis you want to change. To change how much or little you want the object to move on it&apos;s axis, open settings.
+
+Movement, in whole units, is set to: %.0f
+X Position: %10.2f
+Y Position: %10.2f
+Z Position: %10.2f</Source>
+      <Dest>移動させたい方向を選択してください。移動量を調整したい場合は設定を開いてください。
+
+単位移動量： %.0f
+ X座標位置: %10.2f
+ Y座標位置: %10.2f
+ Z座標位置: %10.2f</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_mcontainer_menuequip</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Select what equipment you wish you put away.</Source>
+      <Dest>装備を選択してください。</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_mcontainer_menuplace</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Select an Option. Place Container will place lock Container in place and make it functional. Crouch and activate to access the options menu again. Pick Up puts the Container back in your inventory.</Source>
+      <Dest>以下のオプションから一つを選択してください。
+設置を選択するとコンテナを現在の場所に固定して使用できるようになります。隠密状態でアクティベートすれば再度オプションを選択できます。
+拾うを選択した場合はコンテナを回収してインベントリに戻します。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
