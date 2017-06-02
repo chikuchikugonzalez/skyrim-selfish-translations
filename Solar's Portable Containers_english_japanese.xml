@@ -35,7 +35,7 @@
       <EDID>solar_mcont_endtablenoble_cont</EDID>
       <REC>CONT:FULL</REC>
       <Source>Fine End Table</Source>
-      <Dest>エンド・テーブル(優良)</Dest>
+      <Dest>エンド・テーブル</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_pot_cont</EDID>
@@ -47,13 +47,13 @@
       <EDID>solar_mcont_chestupper_cont</EDID>
       <REC>CONT:FULL</REC>
       <Source>Fine Chest</Source>
-      <Dest>宝箱(優良)</Dest>
+      <Dest>宝箱</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_dwechest_cont</EDID>
       <REC>CONT:FULL</REC>
       <Source>Dwemer Chest</Source>
-      <Dest>宝箱(ドワーフ)</Dest>
+      <Dest>ドワーフの宝箱</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_strongbox_cont</EDID>
@@ -83,7 +83,7 @@
       <EDID>solar_mcont_dwedresser_cont</EDID>
       <REC>CONT:FULL</REC>
       <Source>Dwemer Cabinet</Source>
-      <Dest>飾り棚(ドワーフ)</Dest>
+      <Dest>ドワーフの飾り棚</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_chestlarge_cont</EDID>
@@ -113,19 +113,19 @@
       <EDID>solar_mcont_orcdresser_cont</EDID>
       <REC>CONT:FULL</REC>
       <Source>Orcish Dresser</Source>
-      <Dest>化粧台(オーク)</Dest>
+      <Dest>オークの化粧台</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_uppercupboard_cont</EDID>
       <REC>CONT:FULL</REC>
       <Source>Fine Cupboard</Source>
-      <Dest>戸棚(優良)</Dest>
+      <Dest>戸棚</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_upperdresser_cont</EDID>
       <REC>CONT:FULL</REC>
       <Source>Fine Dresser</Source>
-      <Dest>化粧台(優良)</Dest>
+      <Dest>化粧台</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_wardrobe_cont</EDID>
@@ -137,19 +137,19 @@
       <EDID>solar_mcont_upperwardrobe_cont</EDID>
       <REC>CONT:FULL</REC>
       <Source>Fine Wardrobe</Source>
-      <Dest>タンス(優良)</Dest>
+      <Dest>タンス</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_dwecontainer01_cont</EDID>
       <REC>CONT:FULL</REC>
       <Source>Dwemer Container</Source>
-      <Dest>宝箱(ドワーフ)</Dest>
+      <Dest>ドワーフの宝箱</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_dlc01snowelfchest_cont</EDID>
       <REC>CONT:FULL</REC>
       <Source>Snow Elf Chest</Source>
-      <Dest>宝箱(スノーエルフ)</Dest>
+      <Dest>スノーエルフの宝箱</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_dlc02darkelfurn_cont</EDID>
@@ -167,19 +167,19 @@
       <EDID>solar_mcont_dwecontainer02_cont</EDID>
       <REC>CONT:FULL</REC>
       <Source>Small Dwemer Chest</Source>
-      <Dest>小さな宝箱(ドワーフ)</Dest>
+      <Dest>小さなドワーフの宝箱</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_noblecabinet01_cont</EDID>
       <REC>CONT:FULL</REC>
       <Source>Small Fine Table</Source>
-      <Dest>小さなテーブル(優良)</Dest>
+      <Dest>小さなテーブル</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_noblecabinet02_cont</EDID>
       <REC>CONT:FULL</REC>
       <Source>Fine Table</Source>
-      <Dest>テーブル(優良)</Dest>
+      <Dest>テーブル</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_byohlongtable_cont</EDID>
@@ -191,43 +191,43 @@
       <EDID>solar_mcont_dlc01soulcairnchest00_cont</EDID>
       <REC>CONT:FULL</REC>
       <Source>Soul Cache</Source>
-      <Dest>宝箱(ソウルケルン)</Dest>
+      <Dest>ソウルケルンの宝箱</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_dlc01soulcairnchest01_cont</EDID>
       <REC>CONT:FULL</REC>
       <Source>Soul Chest</Source>
-      <Dest>宝箱(ソウルケルン)</Dest>
+      <Dest>ソウルケルンの宝箱</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_dlc01soulcairnchest03_cont</EDID>
       <REC>CONT:FULL</REC>
       <Source>Large Soul Cache</Source>
-      <Dest>大きな宝箱(ソウルケルン)</Dest>
+      <Dest>大きなソウルケルンの宝箱</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_falmerchest01_cont</EDID>
       <REC>CONT:FULL</REC>
       <Source>Falmer Chest</Source>
-      <Dest>宝箱(ファルメル)</Dest>
+      <Dest>ファルメルの宝箱</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_falmerchest02_cont</EDID>
       <REC>CONT:FULL</REC>
       <Source>Large Falmer Chest</Source>
-      <Dest>大きな宝箱(ファルメル)</Dest>
+      <Dest>大きなファルメルの宝箱</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_canopicjar01_cont</EDID>
       <REC>CONT:FULL</REC>
       <Source>Large Canopic Jar</Source>
-      <Dest>大きな内臓の壷</Dest>
+      <Dest>大きな埋葬壺</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_canopicjar02_cont</EDID>
       <REC>CONT:FULL</REC>
       <Source>Canopic Jar</Source>
-      <Dest>内臓の壷</Dest>
+      <Dest>埋葬壷</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_ruinschest_cont</EDID>
@@ -251,7 +251,7 @@
       <EDID>solar_mcont_ruinslargeurn02_cont</EDID>
       <REC>CONT:FULL</REC>
       <Source>Large Urn with Stand</Source>
-      <Dest>大きな壺(台座付)</Dest>
+      <Dest>大きな壺</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_miscsacksmall02_cont</EDID>
@@ -275,259 +275,265 @@
       <EDID>solar_mcont_satchel_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Satchel</Source>
-      <Dest>組立式かばん</Dest>
+      <Dest>組立式家具: かばん</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_chest_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Chest</Source>
-      <Dest>組立式宝箱</Dest>
+      <Dest>組立式家具: 宝箱</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_barrel_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Barrel</Source>
-      <Dest>組立式樽</Dest>
+      <Dest>組立式家具: 樽</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_chestupper_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Fine Chest</Source>
-      <Dest>組立式宝箱(優良)</Dest>
+      <Dest>組立式組立式家具: 宝箱</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_endtable_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - End Table</Source>
-      <Dest>組立式エンド・テーブル</Dest>
+      <Dest>組立式家具: エンド・テーブル</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_endtablenoble_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Fine End Table</Source>
-      <Dest>組立式エンド・テーブル(優良)</Dest>
+      <Dest>組立式家具: エンド・テーブル</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_pot_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Pot</Source>
-      <Dest>組立式鍋</Dest>
+      <Dest>組立式家具: 鍋</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_strongbox_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Strongbox</Source>
-      <Dest>組立式金庫</Dest>
+      <Dest>組立式家具: 金庫</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_dwechest_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Dwemer Chest</Source>
-      <Dest>組立式宝箱(ドワーフ)</Dest>
+      <Dest>組立式家具: ドワーフの宝箱</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_safe_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Safe</Source>
-      <Dest>組立式金庫</Dest>
+      <Dest>組立式家具: 金庫</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_bookshelf_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Bookshelf</Source>
-      <Dest>組立式本棚</Dest>
+      <Dest>組立式家具: 本棚</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_wrburialurn_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Silver Urn</Source>
-      <Dest>組立式銀の壺</Dest>
+      <Dest>組立式家具: 銀の壺</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_dwedresser_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Dwemer Cabinet</Source>
-      <Dest>組立式飾り棚(ドワーフ)</Dest>
+      <Dest>組立式家具: ドワーフの飾り棚</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_chestlarge_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Large Chest</Source>
-      <Dest>組立式大きな宝箱</Dest>
+      <Dest>組立式家具: 大きな宝箱</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_cupboard_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Cupboard</Source>
-      <Dest>組立式戸棚</Dest>
+      <Dest>組立式家具: 戸棚</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_dwecontainer01_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Dwemer Container</Source>
-      <Dest>組立式宝箱(ドワーフ)</Dest>
+      <Dest>組立式家具: ドワーフの宝箱</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_miscpouch_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Pouch</Source>
-      <Dest>組立式ポーチ</Dest>
+      <Dest>組立式家具: ポーチ</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_orcdresser_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Orcish Dresser</Source>
-      <Dest>組立式化粧台(オーク)</Dest>
+      <Dest>組立式家具: オークの化粧台</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_uppercupboard_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Fine Cupboard</Source>
-      <Dest>組立式戸棚(優良)</Dest>
+      <Dest>組立式家具: 戸棚</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_upperdresser_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Fine Dresser</Source>
-      <Dest>組立式化粧台(優良)</Dest>
+      <Dest>組立式家具: 化粧台</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_upperwardrobe_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Fine Wardrobe</Source>
-      <Dest>組立式タンス(優良)</Dest>
+      <Dest>組立式家具: タンス</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_wardrobe_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Wardrobe</Source>
-      <Dest>組立式タンス</Dest>
+      <Dest>組立式家具: タンス</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_dresser_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Dresser</Source>
-      <Dest>組立式化粧台</Dest>
+      <Dest>組立式家具: 化粧台</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_dlc01snowelfchest_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Snow Elf Chest</Source>
-      <Dest>組立式宝箱(スノーエルフ)</Dest>
+      <Dest>組立式家具: スノーエルフの宝箱</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_dlc02darkelfurn_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Urn</Source>
-      <Dest>組立式壷</Dest>
+      <Dest>組立式家具: 壷</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_dwecontainer02_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Small Dwemer Chest</Source>
-      <Dest>組立式小さな宝箱(ドワーフ)</Dest>
+      <Dest>組立式家具: 小さなドワーフの宝箱</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_noblecabinet01_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Small Fine Table</Source>
-      <Dest>組立式小さなテーブル(優良)</Dest>
+      <Dest>組立式家具: 小さなテーブル</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_noblecabinet02_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Fine Table</Source>
-      <Dest>組立式テーブル(優良)</Dest>
+      <Dest>組立式家具: テーブル</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_byohlongtable_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Long Table</Source>
-      <Dest>組立式大きなテーブル</Dest>
+      <Dest>組立式家具: 大きなテーブル</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_dlc01soulcairnchest00_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Soul Cairn Cache</Source>
-      <Dest>組立式宝箱(ソウルケルン)</Dest>
+      <Dest>組立式家具: ソウルケルンの宝箱</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_dlc01soulcairnchest01_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Soul Cairn Chest</Source>
-      <Dest>組立式宝箱(ソウルケルン)</Dest>
+      <Dest>組立式家具: ソウルケルンの宝箱</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_dlc01soulcairnchest02_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Large Soul Cairn Cache</Source>
-      <Dest>組立式大きな宝箱(ソウルケルン)</Dest>
+      <Dest>組立式家具: 大きなソウルケルンの宝箱</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_falmerchest01_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Falmer Chest</Source>
-      <Dest>組立式宝箱(ファルメル)</Dest>
+      <Dest>組立式家具: ファルメルの宝箱</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_falmerchest02_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Large Falmer Chest</Source>
-      <Dest>組立式大きな宝箱(ファルメル)</Dest>
+      <Dest>組立式家具: 大きなファルメルの宝箱</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_canopicjar01_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Large Canopic Jar</Source>
-      <Dest>組立式大きな内臓の壷</Dest>
+      <Dest>組立式家具: 大きな埋葬壺</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_canopicjar02_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Canopic Jar</Source>
-      <Dest>組立式内臓の壷</Dest>
+      <Dest>組立式家具: 埋葬壷</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_ruinschest_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Ornate Chest</Source>
-      <Dest>組立式飾り立てた宝箱</Dest>
+      <Dest>組立式家具: 飾り立てた宝箱</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_ruinslargeurn01_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Large Urn</Source>
-      <Dest>組立式大きな壺</Dest>
+      <Dest>組立式家具: 大きな壺</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_ruinslargeurn02_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Large Urn with Stand</Source>
-      <Dest>組立式大きな壺(台座付)</Dest>
+      <Dest>組立式家具: 大きな壺</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_burialurn01_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Burial Urn</Source>
-      <Dest>組立式埋葬壷</Dest>
+      <Dest>組立式家具: 埋葬壷</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_miscsacksmall02_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Small Sack</Source>
-      <Dest>組立式小さな袋</Dest>
+      <Dest>組立式家具: 小さな袋</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_miscsacklarge01_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Sack</Source>
-      <Dest>組立式袋</Dest>
+      <Dest>組立式家具: 袋</Dest>
     </String>
     <String List="0">
       <EDID>solar_mcont_miscsacklarge03_move</EDID>
       <REC>MISC:FULL</REC>
       <Source>Furniture Kit - Large Sack</Source>
-      <Dest>組立式大きな袋</Dest>
+      <Dest>組立式家具: 大きな袋</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>aaaSolarMcontCell</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Solar&apos;s Cell</Source>
+      <Dest>Solar&apos;s Cell</Dest>
     </String>
     <String List="0" Partial="2">
       <EDID>solar_mcontainer_menuangle</EDID>

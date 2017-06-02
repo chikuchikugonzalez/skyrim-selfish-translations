@@ -1,458 +1,1225 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <SSTXMLRessources>
   <Params>
-    <Addon>Solar's Portable Crafting.esp</Addon>
+    <Addon>Solar&apos;s Portable Crafting.esp</Addon>
     <Source>english</Source>
     <Dest>japanese</Dest>
+    <Version>2</Version>
   </Params>
   <Content>
     <String List="0">
-      <Source>Crafting Kit - Font of Disenchantment</Source>
-      <Dest>組立式解呪の泉</Dest>
-    </String>
-    <String List="0">
-      <Source>Enchanting Font</Source>
-      <Dest>付呪の泉</Dest>
-    </String>
-    <String List="0">
-      <Source>Crafting Kit - Arcane Enchanter Station</Source>
-      <Dest>組立式アルケイン付呪台</Dest>
-    </String>
-    <String List="0">
-      <Source>Reset</Source>
-      <Dest>リセット</Dest>
-    </String>
-    <String List="0">
-      <Source>Find and retrieve the stolen goods at &lt;Alias=Location&gt;</Source>
-      <Dest>盗まれた商品を &lt;Alias=Location&gt; から回収する</Dest>
-    </String>
-    <String List="0">
-      <Source>Crafting Kit - Tanning Rack</Source>
-      <Dest>組立式皮なめしの棚</Dest>
-    </String>
-    <String List="0">
-      <Source>TestTony</Source>
-      <Dest>TestTony</Dest>
-    </String>
-    <String List="0">
-      <Source>Orb of Dispulsion</Source>
-      <Dest>浄化の宝玉</Dest>
-    </String>
-    <String List="0">
-      <Source>Smelter</Source>
-      <Dest>溶鉱炉</Dest>
-    </String>
-    <String List="0">
-      <Source>Crafting Kit - Imbuing Chamber</Source>
-      <Dest>組立式浸透室</Dest>
-    </String>
-    <String List="0">
-      <Source>Tanning Rack</Source>
-      <Dest>皮なめしの棚</Dest>
-    </String>
-    <String List="0">
-      <Source>Imbuing Station</Source>
-      <Dest>浸透室</Dest>
-    </String>
-    <String List="0">
-      <Source>Exit</Source>
-      <Dest>終了</Dest>
-    </String>
-    <String List="0">
-      <Source>Options</Source>
-      <Dest>オプション</Dest>
-    </String>
-    <String List="0">
-      <Source>Find the ancient Enchanting Font somewhere in the College</Source>
-      <Dest>大学で古代の付呪の泉を見つける</Dest>
-    </String>
-    <String List="0">
-      <Source>Angle</Source>
-      <Dest>角度</Dest>
-    </String>
-    <String List="0">
-      <Source>Activate</Source>
-      <Dest>作動</Dest>
-    </String>
-    <String List="0">
-      <Source>Treasure Maps</Source>
-      <Dest>宝の地図全集</Dest>
-    </String>
-    <String List="0">
-      <Source>Crafting Kit - Anvil</Source>
-      <Dest>組立式金床</Dest>
-    </String>
-    <String List="0">
-      <Source>Scribe's Study</Source>
-      <Dest>書写台</Dest>
-    </String>
-    <String List="0">
-      <Source>Crafting Kit - Alchemy Lab</Source>
-      <Dest>組立式錬金器具</Dest>
-    </String>
-    <String List="0">
-      <Source>Open</Source>
-      <Dest>開ける</Dest>
-    </String>
-    <String List="0">
-      <Source>Font of Disenchantment</Source>
-      <Dest>解呪の泉</Dest>
-    </String>
-    <String List="0">
-      <Source>Weapons</Source>
-      <Dest>武器</Dest>
-    </String>
-    <String List="0">
-      <Source>Crafting Kit - Wood Chopping Block</Source>
-      <Dest>組立式薪割り台</Dest>
-    </String>
-    <String List="0">
-      <Source>Letter to the College of Winterhold</Source>
-      <Dest>ウィンターホールド大学への手紙</Dest>
-    </String>
-    <String List="0">
-      <Source>Meiyuri's Journal Fragments</Source>
-      <Dest>メイユリの日記の一部</Dest>
-    </String>
-    <String List="0">
-      <Source>Mixing Station</Source>
-      <Dest>蒸留台</Dest>
-    </String>
-    <String List="0">
-      <Source>Find the ancient city of Blackreach</Source>
-      <Dest>ブラックリーチで古代の街を見つける</Dest>
-    </String>
-    <String List="0">
-      <Source>Silent Ruin</Source>
-      <Dest>静かなる遺跡</Dest>
-    </String>
-    <String List="0">
-      <Source>Recipies: Atronach Forge Vol. II</Source>
-      <Dest>精霊の鋳造レシピ全集 第2巻</Dest>
-    </String>
-    <String List="0">
-      <Source>Crafting Kit - Alchemy Station</Source>
-      <Dest>組立式錬金台</Dest>
-    </String>
-    <String List="0">
-      <Source>Recipies: Spider Forge</Source>
-      <Dest>浸透レシピ全集</Dest>
-    </String>
-    <String List="0">
-      <Source>Gain access to Nchuand-Zel</Source>
-      <Dest>ヌチュアンド・ゼルに入る手段を見つける</Dest>
-    </String>
-    <String List="0">
-      <Source>Crafting Kit - Grinding Bowl</Source>
-      <Dest>組立式すり鉢</Dest>
-    </String>
-    <String List="0">
-      <Source>Crafting Kit - Oven</Source>
-      <Dest>組立式オーブン</Dest>
-    </String>
-    <String List="0">
-      <Source>The Lost Font</Source>
-      <Dest>失われた泉</Dest>
-    </String>
-    <String List="0">
-      <Source>Armor</Source>
-      <Dest>防御</Dest>
-    </String>
-    <String List="0">
-      <Source>Pickup</Source>
-      <Dest>回収</Dest>
-    </String>
-    <String List="0">
-      <Source>Crafting Kit - Workbench</Source>
-      <Dest>組立式作業台</Dest>
-    </String>
-    <String List="0">
-      <Source>Recipes Vol. III: Poisons</Source>
-      <Dest>調合レシピ全集 第3巻</Dest>
-    </String>
-    <String List="0">
-      <Source>Locate the Orb of Dispulsion in Blackreach</Source>
-      <Dest>ブラックリーチで浄化の宝玉を見つける</Dest>
-    </String>
-    <String List="0">
+      <EDID>solar_recipies_potions02</EDID>
+      <REC>BOOK:FULL</REC>
       <Source>Recipes Vol. II: Advanced</Source>
       <Dest>調合レシピ全集 第2巻</Dest>
     </String>
     <String List="0">
-      <Source>Alchemy Station</Source>
-      <Dest>錬金台</Dest>
-    </String>
-    <String List="0">
+      <EDID>solar_recipies_potions01</EDID>
+      <REC>BOOK:FULL</REC>
       <Source>Recipes Vol. I: Basics</Source>
       <Dest>調合レシピ全集 第1巻</Dest>
     </String>
     <String List="0">
+      <EDID>solar_maps00</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Treasure Maps</Source>
+      <Dest>宝の地図全集</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_dwecube_journal</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Gouka&apos;s Journal</Source>
+      <Dest>ゴウカの日記</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_dwecube_book</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Dwemer Transmutation Manual</Source>
+      <Dest>ドゥーマーの変性技術の手引き</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_recipies_atronach01</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipies: Atronach Forge Vol. II</Source>
+      <Dest>精霊の鋳造レシピ全集 第2巻</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_recipies_atronach00</EDID>
+      <REC>BOOK:FULL</REC>
       <Source>Recipies: Atronach Forge Vol. I</Source>
       <Dest>精霊の鋳造レシピ全集 第1巻</Dest>
     </String>
     <String List="0">
-      <Source>Alchemy Lab</Source>
-      <Dest>錬金器具</Dest>
+      <EDID>solar_recipies_potions03</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipes Vol. III: Poisons</Source>
+      <Dest>調合レシピ全集 第3巻</Dest>
     </String>
     <String List="0">
-      <Source>Understone Keep</Source>
-      <Dest>アンダーストーン砦</Dest>
+      <EDID>solar_recipies_spider00</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Recipies: Spider Forge</Source>
+      <Dest>浸透レシピ全集</Dest>
     </String>
     <String List="0">
-      <Source>Lost Dwemer Arts</Source>
-      <Dest>失われたドゥーマーの技術</Dest>
-    </String>
-    <String List="0">
-      <Source>Oven</Source>
-      <Dest>オーブン</Dest>
-    </String>
-    <String List="0">
-      <Source>Dwemer Transmutation Cube</Source>
-      <Dest>トランスミューテーション・キューブ</Dest>
-    </String>
-    <String List="0">
-      <Source>The Midden</Source>
-      <Dest>ミッデン</Dest>
-    </String>
-    <String List="0">
-      <Source>Crafting Kit - Dwemer Transmutation Cube</Source>
-      <Dest>組立式トランスミューテーション・キューブ</Dest>
-    </String>
-    <String List="0">
-      <Source>Disenchanting Arts</Source>
-      <Dest>解呪の技術</Dest>
-    </String>
-    <String List="0">
-      <Source>Read the anonymous letter</Source>
-      <Dest>匿名の手紙を読む</Dest>
-    </String>
-    <String List="0">
+      <EDID>solar_dispelorb_book</EDID>
+      <REC>BOOK:FULL</REC>
       <Source>Soul Gem Dispulsion</Source>
       <Dest>魂石の浄化</Dest>
     </String>
     <String List="0">
-      <Source>Anvil</Source>
-      <Dest>金床</Dest>
+      <EDID>solar_enchfont_journal</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Meiyuri&apos;s Journal Fragments</Source>
+      <Dest>メイユリの日記の一部</Dest>
     </String>
     <String List="0">
+      <EDID>solar_disenchant_letter</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Letter to the College of Winterhold</Source>
+      <Dest>ウィンターホールド大学への手紙</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_disench_CON</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Font of Disenchantment</Source>
+      <Dest>解呪の泉</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_RefChestWeapons</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Weapons</Source>
+      <Dest>武器</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_RefChestArmor</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Armor</Source>
+      <Dest>防御</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_spider_CON</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Imbuing Station</Source>
+      <Dest>浸透室</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_mixer_ITEM</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Crafting Kit - Mixing Station</Source>
+      <Dest>組立式道具: 蒸留台</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_transmute_ITEM</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Crafting Kit - Dwemer Transmutation Cube</Source>
+      <Dest>組立式道具: トランスミューテーション・キューブ</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_alch02_ITEM</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Crafting Kit - Alchemy Station</Source>
+      <Dest>組立式道具: 錬金台</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_spider_ITEM</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Crafting Kit - Imbuing Chamber</Source>
+      <Dest>組立式道具: 浸透室</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_ench02_ITEM</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Crafting Kit - Arcane Enchanter Station</Source>
+      <Dest>組立式道具: アルケイン付呪台</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_workbench_ITEM</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Crafting Kit - Workbench</Source>
+      <Dest>組立式道具: 作業台</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_woodblock_ITEM</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Crafting Kit - Wood Chopping Block</Source>
+      <Dest>組立式道具: 薪割り台</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_oven_ITEM</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Crafting Kit - Oven</Source>
+      <Dest>組立式道具: オーブン</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_ench03_ITEM</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Crafting Kit - Enchanting Font</Source>
+      <Dest>組立式道具: 付呪の泉</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_anvil_ITEM</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Crafting Kit - Anvil</Source>
+      <Dest>組立式道具: 金床</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_grindstone_ITEM</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Crafting Kit - Grindstone</Source>
+      <Dest>組立式道具: 砥石</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_disench_ITEM</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Crafting Kit - Font of Disenchantment</Source>
+      <Dest>組立式道具: 解呪の泉</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_alch01_ITEM</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Crafting Kit - Alchemy Lab</Source>
+      <Dest>組立式道具: 錬金器具</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_ench01_ITEM</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Crafting Kit - Arcane Enchanter</Source>
+      <Dest>組立式道具: アルケイン付呪器</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_staffench_ITEM</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Crafting Kit - Staff Enchanter</Source>
+      <Dest>組立式道具: 杖用の付呪器</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_smelter_ITEM</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Crafting Kit - Smelter</Source>
+      <Dest>組立式道具: 溶鉱炉</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_study_ITEM</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Crafting Kit - Scribe&apos;s Study</Source>
+      <Dest>組立式道具: 書写台</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_soulgem_ITEM</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Crafting Kit - Orb of Dispulsion</Source>
+      <Dest>組立式道具: 浄化の宝玉</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_grinder_ITEM</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Crafting Kit - Grinding Bowl</Source>
+      <Dest>組立式道具: すり鉢</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_tanner_ITEM</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Crafting Kit - Tanning Rack</Source>
+      <Dest>組立式道具: 皮なめしの棚</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_study_ACT</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Scribe&apos;s Study</Source>
+      <Dest>書写台</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_woodblock_ACT</EDID>
+      <REC>FURN:FULL</REC>
       <Source>Wood Chopping Block</Source>
       <Dest>薪割り台</Dest>
     </String>
     <String List="0">
-      <Source>Back</Source>
-      <Dest>戻る</Dest>
-    </String>
-    <String List="0">
-      <Source>Locate the Dwemer Cube somewhere in Nchuand-Zel</Source>
-      <Dest>ヌチュアンド・ゼルでドゥーマー・キューブを探す</Dest>
-    </String>
-    <String List="0">
-      <Source>Nchuand-Zel Control</Source>
-      <Dest>ヌチュアンド・ゼルの制御</Dest>
-    </String>
-    <String List="0">
-      <Source>Crafting Kit - Staff Enchanter</Source>
-      <Dest>組立式杖用の付呪器</Dest>
-    </String>
-    <String List="0">
-      <Source>Grindstone</Source>
-      <Dest>砥石</Dest>
-    </String>
-    <String List="0">
-      <Source>Grinding Bowl</Source>
-      <Dest>すり鉢</Dest>
-    </String>
-    <String List="0">
-      <Source>The Arcanaeum</Source>
-      <Dest>アルケイナエウム</Dest>
-    </String>
-    <String List="0">
-      <Source>Crafting Kit - Smelter</Source>
-      <Dest>組立式溶鉱炉</Dest>
-    </String>
-    <String List="0">
-      <Source>Staff Enchanter</Source>
-      <Dest>杖用の付呪器</Dest>
-    </String>
-    <String List="0">
-      <Source>Crafting Kit - Mixing Station</Source>
-      <Dest>組立式蒸留台</Dest>
-    </String>
-    <String List="0">
-      <Source>Movement</Source>
-      <Dest>移動</Dest>
-    </String>
-    <String List="0">
+      <EDID>solar_pcrafting_ench01_ACT</EDID>
+      <REC>FURN:FULL</REC>
       <Source>Arcane Enchanter</Source>
       <Dest>アルケイン付呪器</Dest>
     </String>
     <String List="0">
-      <Source>Crafting Kit - Grindstone</Source>
-      <Dest>組立式砥石</Dest>
+      <EDID>solar_pcrafting_oven_ACT</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Oven</Source>
+      <Dest>オーブン</Dest>
     </String>
     <String List="0">
-      <Source>Crafting Kit - Scribe's Study</Source>
-      <Dest>組立式書写台</Dest>
+      <EDID>solar_pcrafting_soulgem_ACT</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Orb of Dispulsion</Source>
+      <Dest>浄化の宝玉</Dest>
     </String>
     <String List="0">
-      <Source>Crafting Kit - Orb of Dispulsion</Source>
-      <Dest>組立式浄化の宝玉</Dest>
+      <EDID>solar_pcrafting_tanner_ACT</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Tanning Rack</Source>
+      <Dest>皮なめしの棚</Dest>
     </String>
     <String List="0">
+      <EDID>solar_pcrafting_ench03_ACT</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Enchanting Font</Source>
+      <Dest>付呪の泉</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_alch02_ACT</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Alchemy Station</Source>
+      <Dest>錬金台</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_ench02_ACT</EDID>
+      <REC>FURN:FULL</REC>
       <Source>Arcane Enchanter Station</Source>
       <Dest>アルケイン付呪台</Dest>
     </String>
     <String List="0">
+      <EDID>solar_pcrafting_grinder_ACT</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Grinding Bowl</Source>
+      <Dest>すり鉢</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_transmute_ACT</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Dwemer Transmutation Cube</Source>
+      <Dest>トランスミューテーション・キューブ</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_staffench_ACT</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Staff Enchanter</Source>
+      <Dest>杖用の付呪器</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_workbench_ACT</EDID>
+      <REC>FURN:FULL</REC>
       <Source>Workbench</Source>
       <Dest>作業台</Dest>
     </String>
     <String List="0">
-      <Source>Crafting Kit - Enchanting Font</Source>
-      <Dest>組立式付呪の泉</Dest>
+      <EDID>solar_pcrafting_smelter_ACT</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Smelter</Source>
+      <Dest>溶鉱炉</Dest>
     </String>
     <String List="0">
+      <EDID>solar_pcrafting_anvil_ACT</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Anvil</Source>
+      <Dest>金床</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_grindstone_ACT</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Grindstone</Source>
+      <Dest>砥石</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_mixer_ACT</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Mixing Station</Source>
+      <Dest>蒸留台</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_alch01_ACT</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Alchemy Lab</Source>
+      <Dest>錬金器具</Dest>
+    </String>
+    <String List="0">
+      <EDID>NchuandZel06</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Nchuand-Zel Control</Source>
+      <Dest>ヌチュアンド・ゼルの制御</Dest>
+    </String>
+    <String List="0">
+      <EDID>MarkarthUnderStoneKeep</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Understone Keep</Source>
+      <Dest>アンダーストーン砦</Dest>
+    </String>
+    <String List="0">
+      <EDID>WinterholdCollegeMidden01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>The Midden</Source>
+      <Dest>ミッデン</Dest>
+    </String>
+    <String List="0">
+      <EDID>AAASolarPcraftingCell</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>TestTony</Source>
+      <Dest>TestTony</Dest>
+    </String>
+    <String List="0">
+      <EDID>WinterholdCollegeArcanaeum</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>The Arcanaeum</Source>
+      <Dest>アルケイナエウム</Dest>
+    </String>
+    <String List="0">
+      <EDID>BlackreachZcell02</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Silent Ruin</Source>
+      <Dest>静かなる遺跡</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_sgde_quest</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Disenchanting Arts</Source>
+      <Dest>解呪の技術</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_sgde_quest</EDID>
+      <REC id="0">QUST:NNAM</REC>
+      <Source>Find the ancient city of Blackreach</Source>
+      <Dest>ブラックリーチで古代の街を見つける</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_sgde_quest</EDID>
+      <REC id="1">QUST:NNAM</REC>
+      <Source>Locate the Orb of Dispulsion in Blackreach</Source>
+      <Dest>ブラックリーチで浄化の宝玉を見つける</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_disenchant_quest</EDID>
+      <REC>QUST:FULL</REC>
       <Source>Some Disassembly Required</Source>
       <Dest>解体要求</Dest>
     </String>
     <String List="0">
-      <Source>Crafting Kit - Arcane Enchanter</Source>
-      <Dest>組立式アルケイン付呪器</Dest>
+      <EDID>solar_disenchant_quest</EDID>
+      <REC id="0">QUST:NNAM</REC>
+      <Source>Read the anonymous letter</Source>
+      <Dest>匿名の手紙を読む</Dest>
     </String>
     <String List="0">
-      <Source>Gouka's Journal</Source>
-      <Dest>ゴウカの日記</Dest>
+      <EDID>solar_disenchant_quest</EDID>
+      <REC id="1">QUST:NNAM</REC>
+      <Source>Find and retrieve the stolen goods at &lt;Alias=Location&gt;</Source>
+      <Dest>盗まれた商品を &lt;Alias=Location&gt; から回収する</Dest>
     </String>
     <String List="0">
-      <Source>Dwemer Transmutation Manual</Source>
-      <Dest>ドゥーマーの変性技術の手引き</Dest>
+      <EDID>solar_enchantfont_quest</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>The Lost Font</Source>
+      <Dest>失われた泉</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_enchantfont_quest</EDID>
+      <REC>QUST:NNAM</REC>
+      <Source>Find the ancient Enchanting Font somewhere in the College</Source>
+      <Dest>大学で古代の付呪の泉を見つける</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_dwecube_quest</EDID>
+      <REC>QUST:FULL</REC>
+      <Source>Lost Dwemer Arts</Source>
+      <Dest>失われたドゥーマーの技術</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_dwecube_quest</EDID>
+      <REC id="0">QUST:NNAM</REC>
+      <Source>Gain access to Nchuand-Zel</Source>
+      <Dest>ヌチュアンド・ゼルに入る手段を見つける</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_dwecube_quest</EDID>
+      <REC id="1">QUST:NNAM</REC>
+      <Source>Locate the Dwemer Cube somewhere in Nchuand-Zel</Source>
+      <Dest>ヌチュアンド・ゼルでドゥーマー・キューブを探す</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>solar_pcrafting_menumoving</EDID>
+      <REC id="0">MESG:ITXT</REC>
+      <Source>-X</Source>
+      <Dest>-X</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>solar_pcrafting_menumoving</EDID>
+      <REC id="1">MESG:ITXT</REC>
+      <Source>+X</Source>
+      <Dest>+X</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>solar_pcrafting_menumoving</EDID>
+      <REC id="2">MESG:ITXT</REC>
+      <Source>-Y</Source>
+      <Dest>-Y</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>solar_pcrafting_menumoving</EDID>
+      <REC id="3">MESG:ITXT</REC>
+      <Source>+Y</Source>
+      <Dest>+Y</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>solar_pcrafting_menumoving</EDID>
+      <REC id="4">MESG:ITXT</REC>
+      <Source>-Z</Source>
+      <Dest>-Z</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>solar_pcrafting_menumoving</EDID>
+      <REC id="5">MESG:ITXT</REC>
+      <Source>+Z</Source>
+      <Dest>+Z</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_menumoving</EDID>
+      <REC id="6">MESG:ITXT</REC>
+      <Source>Back</Source>
+      <Dest>戻る</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_menumoving</EDID>
+      <REC id="7">MESG:ITXT</REC>
+      <Source>Exit</Source>
+      <Dest>終了</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_menuoptions</EDID>
+      <REC id="0">MESG:ITXT</REC>
+      <Source>Pickup</Source>
+      <Dest>回収</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_menuoptions</EDID>
+      <REC id="1">MESG:ITXT</REC>
+      <Source>Movement</Source>
+      <Dest>移動</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_menuoptions</EDID>
+      <REC id="2">MESG:ITXT</REC>
+      <Source>Angle</Source>
+      <Dest>角度</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_menuoptions</EDID>
+      <REC id="3">MESG:ITXT</REC>
+      <Source>Exit</Source>
+      <Dest>終了</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>solar_pcrafting_menuangle</EDID>
+      <REC id="0">MESG:ITXT</REC>
+      <Source>-X</Source>
+      <Dest>-X</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>solar_pcrafting_menuangle</EDID>
+      <REC id="1">MESG:ITXT</REC>
+      <Source>+X</Source>
+      <Dest>+X</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>solar_pcrafting_menuangle</EDID>
+      <REC id="2">MESG:ITXT</REC>
+      <Source>-Y</Source>
+      <Dest>-Y</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>solar_pcrafting_menuangle</EDID>
+      <REC id="3">MESG:ITXT</REC>
+      <Source>+Y</Source>
+      <Dest>+Y</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>solar_pcrafting_menuangle</EDID>
+      <REC id="4">MESG:ITXT</REC>
+      <Source>-Z</Source>
+      <Dest>-Z</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>solar_pcrafting_menuangle</EDID>
+      <REC id="5">MESG:ITXT</REC>
+      <Source>+Z</Source>
+      <Dest>+Z</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_menuangle</EDID>
+      <REC id="6">MESG:ITXT</REC>
+      <Source>Reset</Source>
+      <Dest>リセット</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_menuangle</EDID>
+      <REC id="7">MESG:ITXT</REC>
+      <Source>Back</Source>
+      <Dest>戻る</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_menuangle</EDID>
+      <REC id="8">MESG:ITXT</REC>
+      <Source>Exit</Source>
+      <Dest>終了</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_menucontainer</EDID>
+      <REC id="0">MESG:ITXT</REC>
+      <Source>Open</Source>
+      <Dest>開ける</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_menucontainer</EDID>
+      <REC id="1">MESG:ITXT</REC>
+      <Source>Activate</Source>
+      <Dest>作動</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_menucontainer</EDID>
+      <REC id="2">MESG:ITXT</REC>
+      <Source>Options</Source>
+      <Dest>オプション</Dest>
+    </String>
+    <String List="0">
+      <EDID>solar_pcrafting_menucontainer</EDID>
+      <REC id="3">MESG:ITXT</REC>
+      <Source>Exit</Source>
+      <Dest>終了</Dest>
     </String>
     <String List="1">
-      <Source>A courier approached me in town and handed me a letter. He had no information on who sent it, but it seems to be addressed to anyone within the College of Winterhold.</Source>
-      <Dest>配達人が手紙を届けてきた。差出人は不明だが、ウィンターホールド大学宛てのようだ。</Dest>
-    </String>
-    <String List="1">
-      <Source>Activate the Imbuing Chamber?</Source>
-      <Dest>浸透室を作動させますか？</Dest>
-    </String>
-    <String List="1">
+      <EDID>solar_recipies_potions02</EDID>
+      <REC>BOOK:DESC</REC>
       <Source>[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="26"&gt;
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;28&quot;&gt;
 Recipes
-Volume: III Poisons
+Volume: II Advanced
 &lt;/font&gt;
 &lt;/p&gt;
 
 [pagebreak]
-&lt;font face="$HandwrittenFont" size="18"&gt;
-Damage Health poison:
-~Skeever Tail
-~Void Salts
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+Resist Fire potion:
+~Bonemeal
+~Frost Salts
 
 
-Damage Health poison:
-~Skeever Tail
-~Small Antlers
+Resist Fire potion:
+~Elves Ear
+~Mudcrab Chitin
 
 
-Damage Health poison:
-~Ectoplasm
-~Troll Fat
-
-
-[pagebreak]
-Fear poison:
-~Namira's Rot
-~Blue Dragonfly Wing
-
-
-Fear poison:
-~Powdered Mammoth Tusk
-~Daedra Heart
-
-
-Paralysis poison:
-~Briar Heart
-~Swamp Fungal Pod
+Resist Frost potion:
+~Snowberry
+~Purple Mountain Flower
 
 
 [pagebreak]
-Paralysis poison:
-~Canis Root
-~Swamp Fungal Pod
+Resist Frost potion:
+~Gourd
+~Fire Salts
+
+
+Resist Poison potion:
+~Thistle
+~Falmer Ear
+
+
+Resist Shock potion:
+~Pine Thrush Egg
+~Snowberry
+
+
+[pagebreak]
+Resist Shock potion:
+~Glowdust
+~Pearl
+
+
+Fortify Carry Weight potion:
+~Creep Cluster Root
+~Giant&apos;s Toe
+
+
+Fortify Carry Weight potion:
+~Wisp Wrappings
+~Scaly Pholiota
+
+
+[pagebreak]
+Invisibility potion:
+~Luna Moth Wing
+~Chaurus Eggs
+
+
+Invisibility potion:
+~Ice Wraith Teeth
+~Chaurus Eggs
 
 &lt;/font&gt;</Source>
       <Dest>[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="26"&gt;
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;28&quot;&gt;
 調合レシピ全集
-第3巻 毒薬
+第2巻 強化薬
 &lt;/font&gt;
 &lt;/p&gt;
 
 [pagebreak]
-&lt;font face="$HandwrittenFont" size="18"&gt;
-体力減退の毒:
-・スキーヴァーの尻尾
-・虚無の塩
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+炎耐性アップの薬:
+・骨の粉
+・氷の塩鉱石
 
 
-体力減退の毒:
-・スキーヴァーの尻尾
-・小さな枝角
+炎耐性アップの薬:
+・エルフイヤー・リーフ
+・マッドクラブの殻
 
 
-体力減退の毒:
-・エクトプラズム
-・トロールの脂肪
-
-
-[pagebreak]
-恐怖の毒:
-・ナミラキノコ
-・青いトンボの羽
-
-
-恐怖の毒:
-・マンモスの牙粉
-・デイドラの心臓
-
-
-麻痺の毒:
-・ブライア・ハート
-・沼の群生キノコ
+冷気耐性アップの薬:
+・スノーベリー
+・山の紫の花
 
 
 [pagebreak]
-麻痺の毒:
-・カニスの根
-・沼の群生キノコ
+冷気耐性アップの薬:
+・ウリ
+・炎の塩鉱石
+
+
+毒耐性アップの薬:
+・シッスル
+・ファルメルの耳
+
+
+雷撃耐性の薬:
+・パイン・スラッシュの卵
+・スノーベリー
+
+
+[pagebreak]
+雷撃耐性の薬:
+・発光する塵
+・パール
+
+
+持ち運び重量上昇の薬:
+・クリープ・クラスターの根
+・巨人のつま先
+
+
+持ち運び重量上昇の薬:
+・ウィスプ・ラッピング
+・スギタケ
+
+
+[pagebreak]
+透明化の薬:
+・ルナ・モスの羽
+・シャウラスの卵
+
+
+透明化の薬:
+・氷の生霊の歯
+・シャウラスの卵
 
 &lt;/font&gt;</Dest>
     </String>
     <String List="1">
-      <Source>The letter mentioned a caravan that was sacked by a group of bandits along the road and an artifact they had been transporting to the college before the attack. The letter also stated the artifact is a gift to the college, if the bandits at &lt;Alias=Location&gt; are dealt with in the recovery process.</Source>
-      <Dest>手紙にはキャラバンが大学へ輸送中に盗賊に奪われた秘法について記されていた。さらに、&lt;Alias=Location&gt; の盗賊を退治して秘法を奪還した暁には、秘法を大学へ寄贈するとも書かれていた。</Dest>
-    </String>
-    <String List="1">
-      <Source>I found a book in the College of Winterhold's library, which made reference to some old enchanting equipment that may still be stored somewhere here in the College. It may be the last style of it's kind, and it'd be a shame to let it just collect dust in some old storage room.</Source>
-      <Dest>ウィンターホールド大学の図書室である本を見つけた。大学のどこかにある古い付呪設備について書かれているようだ。最後に確認されたときは倉庫で埃を被っていたようだ。</Dest>
-    </String>
-    <String List="1">
-      <Source>I came across an old journal by Calcelmo's workstation in Markarth that talked about a Transmutation Cube that could transmute similar items into greater quality counterparts. Such as improving the purity of gems. It should be somewhere in Nchuand-Zel, but first I need to gain entry into the old Dwemer Ruin</Source>
-      <Dest>カルセルモの作業場で古い日記を見つけた。その日記にはトランスミューテーション・キューブと呼ばれるアイテムをより質の良いもに変化させるアイテムについて書かれていた。それはヌチュアンド・ゼルにあるようだが、まずはドゥーマーの遺跡に入れるか交渉してみなければ。</Dest>
-    </String>
-    <String List="1">
+      <EDID>solar_recipies_potions01</EDID>
+      <REC>BOOK:DESC</REC>
       <Source>[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$SkyrimBooks" size="28"&gt;
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;28&quot;&gt;
+Recipes
+Volume: I Basics
+&lt;/font&gt;
+&lt;/p&gt;
+
+[pagebreak]
+&lt;font face=&apos;$HandwrittenFont&apos; size=&quot;18&quot;&gt;
+Cure Disease potion:
+~Charred Skeever Hide
+~Mudcrab Chitin
+
+
+Cure Disease potion:
+~Mudcrab Chitin
+~Vampire Dust
+
+
+Restore Health potion:
+~Blue Mountain Flower
+~Sabre Cat Eyeball
+
+
+[pagebreak]
+Restore Health potion:
+~Imp Stool
+~Wheat
+
+
+Restore Health potion:
+~Blue Dragonfly Wing
+~Charred Skeever Hide
+
+
+Restore Health potion:
+~Monarch Butterfly Wing
+~Blisterwort
+
+
+[pagebreak]
+Restore Magicka potion:
+~White Cap Mushroom
+~Taproot
+
+
+Restore Magicka potion:
+~Giant Lichen
+~Pearl
+
+
+Restore Magicka potion:
+~Grass Pod
+~Red Mountain Flower
+&lt;/font&gt;</Source>
+      <Dest>[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;28&quot;&gt;
+調合レシピ全集
+第1巻 回復薬
+&lt;/font&gt;
+&lt;/p&gt;
+
+[pagebreak]
+&lt;font face=&apos;$HandwrittenFont&apos; size=&quot;18&quot;&gt;
+疾病退散薬:
+・焼け焦げたスキーヴァーの皮
+・マッドクラブの殻
+
+
+疾病退散薬:
+・マッドクラブの殻
+・吸血鬼の遺灰
+
+
+体力回復の薬:
+・山の青い花
+・サーベルキャットの目
+
+
+[pagebreak]
+体力回復の薬:
+・木椅子キノコ
+・小麦
+
+
+体力回復の薬:
+・青いトンボの羽
+・焼け焦げたスキーヴァーの皮
+
+
+体力回復の薬:
+・蝶の羽
+・ブリスターワート
+
+
+[pagebreak]
+マジカ回復の薬:
+・白かさキノコ
+・主根
+
+
+マジカ回復の薬:
+・巨大地衣類
+・パール
+
+
+マジカ回復の薬:
+・グラス・ポッド
+・山の赤い花
+&lt;/font&gt;</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_maps00</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;36&quot;&gt;
+
+Treasure Maps
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+
+Treasure Map I
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+
+    &lt;img src=&apos;img://Textures/Interface/Books/dunRiverwoodTreasMap.png&apos; width=&apos;290&apos; height=&apos;389&apos;&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+
+Treasure Map II
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+
+    &lt;img src=&apos;img://Textures/Interface/Books/dunValtheimTreasMap.png&apos; width=&apos;290&apos; height=&apos;389&apos;&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+
+Treasure Map III
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+
+    &lt;img src=&apos;img://Textures/Interface/Books/dunSolLighthouseTreasMap.png&apos; width=&apos;290&apos; height=&apos;389&apos;&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+
+Treasure Map IV
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+
+    &lt;img src=&apos;img://Textures/Interface/Books/dunWhiterunTreasMap.png&apos; width=&apos;290&apos; height=&apos;389&apos;&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+
+Treasure Map V
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+
+    &lt;img src=&apos;img://Textures/Interface/Books/dunLostValleyRedoubtTreasMap.png&apos; width=&apos;290&apos; height=&apos;389&apos;&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+
+Treasure Map VI
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+
+    &lt;img src=&apos;img://Textures/Interface/Books/dunKorvanjundTreasMap.png&apos; width=&apos;290&apos; height=&apos;389&apos;&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+
+Treasure Map VII
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+
+    &lt;img src=&apos;img://Textures/Interface/Books/dunGallowsRockTreasMap.png&apos; width=&apos;290&apos; height=&apos;389&apos;&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+
+Treasure Map VIII
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+
+    &lt;img src=&apos;img://Textures/Interface/Books/dunDragonBridgeTreasMap.png&apos; width=&apos;290&apos; height=&apos;389&apos;&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+
+Treasure Map IX
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+
+    &lt;img src=&apos;img://Textures/Interface/Books/dunBrokenHelmTreasMap.png&apos; width=&apos;290&apos; height=&apos;389&apos;&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+
+Treasure Map X
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+
+    &lt;img src=&apos;img://Textures/Interface/Books/dunIlinaltasDeepTreasMap.png&apos; width=&apos;290&apos; height=&apos;389&apos;&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+
+Fort Neugrad Treasure Map
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+
+    &lt;img src=&apos;img://Textures/Interface/Books/dunFortNeugradTreasMap.png&apos; width=&apos;290&apos; height=&apos;389&apos;&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+
+Velehk Sain&apos;s Treasure Map
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+
+
+&lt;img src=&apos;img://Textures/Interface/Books/dunMiddenTreasureMap.png&apos; height=&apos;272&apos; width=&apos;355&apos;&gt;
+[pagebreak]</Source>
+      <Dest>[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;36&quot;&gt;
+
+宝の地図全集
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+
+宝の地図 1
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+
+    &lt;img src=&apos;img://Textures/Interface/Books/dunRiverwoodTreasMap.png&apos; width=&apos;290&apos; height=&apos;389&apos;&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+
+宝の地図 2
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+
+    &lt;img src=&apos;img://Textures/Interface/Books/dunValtheimTreasMap.png&apos; width=&apos;290&apos; height=&apos;389&apos;&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+
+宝の地図 3
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+
+    &lt;img src=&apos;img://Textures/Interface/Books/dunSolLighthouseTreasMap.png&apos; width=&apos;290&apos; height=&apos;389&apos;&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+
+宝の地図 4
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+
+    &lt;img src=&apos;img://Textures/Interface/Books/dunWhiterunTreasMap.png&apos; width=&apos;290&apos; height=&apos;389&apos;&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+
+宝の地図 5
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+
+    &lt;img src=&apos;img://Textures/Interface/Books/dunLostValleyRedoubtTreasMap.png&apos; width=&apos;290&apos; height=&apos;389&apos;&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+
+宝の地図 6
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+
+    &lt;img src=&apos;img://Textures/Interface/Books/dunKorvanjundTreasMap.png&apos; width=&apos;290&apos; height=&apos;389&apos;&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+
+宝の地図 7
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+
+    &lt;img src=&apos;img://Textures/Interface/Books/dunGallowsRockTreasMap.png&apos; width=&apos;290&apos; height=&apos;389&apos;&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+
+宝の地図 8
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+
+    &lt;img src=&apos;img://Textures/Interface/Books/dunDragonBridgeTreasMap.png&apos; width=&apos;290&apos; height=&apos;389&apos;&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+
+宝の地図 9
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+
+    &lt;img src=&apos;img://Textures/Interface/Books/dunBrokenHelmTreasMap.png&apos; width=&apos;290&apos; height=&apos;389&apos;&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+
+宝の地図 10
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+
+    &lt;img src=&apos;img://Textures/Interface/Books/dunIlinaltasDeepTreasMap.png&apos; width=&apos;290&apos; height=&apos;389&apos;&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+
+ニューグラド砦の宝の地図
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+
+    &lt;img src=&apos;img://Textures/Interface/Books/dunFortNeugradTreasMap.png&apos; width=&apos;290&apos; height=&apos;389&apos;&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+
+ヴェレーク・セインの宝の地図
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+
+
+&lt;img src=&apos;img://Textures/Interface/Books/dunMiddenTreasureMap.png&apos; height=&apos;272&apos; width=&apos;355&apos;&gt;
+[pagebreak]</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_dwecube_journal</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>[pagebreak]
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+Background
+Years ago, in Cyrodiil, I had spent a lot of time within Ayleid ruins. Primarily, a nameless ruin simply known as the Mystic Halls.
+
+During the time of the Ayleid, this location was a sort of research facility focusing on the art of Transmutation. They had constructed a crude, yet working device they simply called the Cask.
+
+The Cask was a blend of both Ayleid and Dwemer technologies. I suspect the Ayleid were working with Dwemer engineers on this project. The Cask is able to merge or break down matter in specific ways. Such as melting down Silver items down into purified silver ore, without the need of a Smelter. Or, taking several flawed gemstones to create a more pure, flawless stone.
+
+I spent many years studying the Cask, using trial and error to decipher what the Cask was capable of, as well as potential ways to improve on it&apos;s abilities. In the end, the answers I needed weren&apos;t there in the Ayleid ruins, but far north-east, in Vvardenfell&apos;s Dwemer ruins.
+
+I spent several more years within Red Mountain&apos;s ruins, unearthing what I could before Red Mountain&apos;s eruption and destruction of the immediate area. Thankfully I got just about everything I could from the area and moved on to Skyrim&apos;s Dwemer Ruins, where I was able to complete the Cube.
+
+The Cube is based on a similar principle as the Cask, only with a greater focus on Dwemer technology. The major benefit of the Cube over the Cask, is it&apos;s size and weight. The Cask was a large device, about the size of a horse. Impossible to transport.
+
+One drawback is, due to it&apos;s size compared to the Cask, the Cube is less suited for breaking down items, and more focused on the merging and improving of matter of mostly smaller items.
+
+While the Cube is still limited, so is my knowledge of Ayleid, Dwemer and Transmutation. No matter how much we know, there&apos;s always more to know out there. So I will continue to travel and study, refining my device and further unlocking the alchemic mysteries of the world.
+
+[pagebreak]
+Morndas 4th, Morning Star
+Well, after misplacing another journal, here I am to start ye another. I&apos;ve outlined the information from previous volumes in the first few pages.
+
+I&apos;ve arrived back  in Cyrodiil, hoping to revisit the Mystic Ruins and look into ways of transporting the Cask and related materials somewhere more accessible and safer from all the current troubles in Cyrodiil with the Aldmeri Dominion, but things are far worse than I realized.
+
+With everything going on, there&apos;s too much risk moving it right now. Even just traveling alone to the site is too dangerous. Well, dangerous for the secrecy of the location and the delicate artifacts. You don&apos;t live as long as I have without learning to protect yourself.
+
+I&apos;ll just relax here in the Imperial City while and soak up the local taverns.
+
+[pagebreak]
+Sundas, 25th of Mid Year
+Things are getting out of control here in Cyrodiil, so it&apos;s time I go elsewhere. I&apos;m a Dunmer, an Elf, and damn proud of it, but these Altmer bastards are really starting to piss me off. Things weren&apos;t perfect with the Empire in full control.. FAR from it, but these self absorbed Aldmeri idiots are making Tamriel as a whole unbearable!
+
+I&apos;ll head to Solstheim for a while. Besides hearing there may be a Dwemer Ruin there, I hear Thirsk has some of the best damn Nord mead around! Should help me unwind a bit.
+
+[pagebreak]
+Fredas, 12th of Frostfall
+Any day now, I should arrive in Markarth. There, I hope to study the ruins Nchuand-Zel and see what I can learn.
+
+I&apos;ve heard these ruins are quite large and large ruins usually have at least some useful information for me to use. I just hope this time I don&apos;t lose my supplies again..
+
+I still can&apos;t believe I left my last cube prototype in Vvardenfell! Oh well. The look on the face of that drunk at the tavern in Mournhold when I accused him of stealing my things was priceless.. Especially when I  put him through a table.
+
+[pagebreak]
+Fredas, 26th of Frostfall
+I&apos;ve arrived in Nchuand-Zel, and setup camp in the old master control room. That wizard, Calcelmo let me in once I told him I was a researcher and promised to share my findings. I&apos;ll share my findings alright, but only if it&apos;s unrelated to my cube. He strikes me as the type that would take credit for other people&apos;s work.
+
+Sneaking past the Falmer wasn&apos;t easy, but I pulled it off. Using the gates and doors, I have myself pretty well protected here, and I should be able to carry to my research in relative peace, as long as I keep quiet.
+
+After I finish up here in a couple of weeks, I can start working my way east through other dwemer ruins in the area.
+&lt;/font&gt;</Source>
+      <Dest>[pagebreak]
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+背景
+数年前、私はシロディールのアイレイドの遺跡で多くの時を過ごした。神秘の広間と呼ばれる名もない遺跡だ。
+
+アイレイドの時代においてこの場所は、変容技術の研究施設だったようだ。彼らはキャスクと呼ばれる、未完成ながら機能する装置を作ったのだ。
+
+キャスクはアイレイドとドゥーマーの技術の融合だ。アイレイドはドゥーマーの技術者と協力していたようだ。キャスクは特殊な方法で物質の融合と分解を可能にするものだ。例えば溶鉱炉を使わずに銀製品を銀鉱石にしたり、いくつかの宝石から上質な宝石を生み出したりできるのだ。
+
+私は何年もキャスクを研究し、試行錯誤の末に機能を解明し、完全なものにした。結局のところ、私の求めた答えは遥かヴァーデンフェルのドゥーマーの遺跡にあった。
+
+さらにレッドマウンテンで数年を費やし、レッドマウンテンの噴火によって破壊される前に掘り出すことができた。ありがたいことに、すべてを持ってスカイリムのドゥーマーの遺跡に移ることができ、そこでキューブを完成させたのだ。
+
+キューブはキャスクと同じ原理に基づいているが、よりドゥーマーの技術を重視している。最も大きな利点は大きさと重量であろう。キャスクはとても大きな装置で、馬ほどのサイズがあった。とても運べるものではなかったのだ。
+
+欠点はキャスクよりも小さいために、アイテムの分解には向いていないということだ。その分融合と品質を重視している。
+
+キューブはまだ私の持つアイレイド、ドゥーマー、そして変容技術の知識に制限されている。まだ知るべきことは山ほどあるのだ。だから私は探求の旅を続け、キューブの改良とともに錬金術の秘密を解き明かそうとするのだ。
+
+[pagebreak]
+暁星の月4日 モーンダス
+日記を無くしてしまったため、新しく書き始めるとする。以前の内容は最初の数ページに記しておいた。
+
+シロディールに戻ってきた。シロディールで起きているアルドメリ自治領とのもんだからキャスクに関する資料を守るために移動しよう考えているが、思ったよりも状況は深刻なようだ。
+
+今動くにはリスクが高すぎること、一人で旅をするのも危険なこともある。秘密の場所と繊細な秘宝であることも危険性を増している。自身を守る手段を考えなければそう長く生きられないだろう。
+
+一旦インペリアルシティの酒場で落ち着こうと思う。
+
+[pagebreak]
+真央の月25日 サンダス
+もはやシロディールは無法地帯だ。ここを離れる時が来た。私はダンマーであり、エルフであることに誇りを持っているが、アルトマーの連中にはうんざりだ。帝国の支配は完璧ではなかったが、アルドメリの馬鹿どもはタムリエル全体をおかしくしちまってやがる！
+
+しばらくソルスセイムに居るつもりだ。ドゥーマーの遺跡があるかもしれないし、シリスクというノルドの集会所もあると聞いた。少し手伝ってもらおう。
+
+[pagebreak]
+降霜の月12日 フレダス
+マルカルスに行くべきだと考えている。ヌチュアンド・ゼルの遺跡を研究し何を学べるかを見たいからだ。
+
+聞いたところによるとその遺跡はだいぶ広いようだ。また道具を無くさなけばいいのだが。
+
+ヴァーデンフェルで見つけた試作品が最後の一つではないと思いたい。まあともかく、モルンホールドの酒場で私が荷物を盗んだなどと突っかかって来た酔っ払いの表情は貴重だった。特に彼をテーブルに置いたときのはな。
+
+[pagebreak]
+降霜の月26日 フレダス
+ヌチュアンド・ゼルに到着し、中央制御室にキャンプを設営した。王宮魔術師のカルセルモに研究成果を共有すると話したら入れてくれたのだ。キューブに関係ないことなら共有してやろうと思う。彼はどうも、他人の功績自分の手柄にするような人物に思えるのだ。
+
+ファルマーをやり過ごすのは簡単ではなかったが、なんとかなった。門と扉を使って守りながら静かにしていれば、研究を続けられるはずだ。
+
+ここで数週間過ごしたら、東のドゥーマーの遺跡に行けるようになるだろ。
+&lt;/font&gt;</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_dwecube_book</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$SkyrimBooks&quot; size=&quot;28&quot;&gt;
 Transmutation Cube
 By Gouka
 &lt;/font&gt;
 &lt;/p&gt;
 
 [pagebreak]
-&lt;font face="$SkyrimBooks" size="18"&gt;
+&lt;font face=&quot;$SkyrimBooks&quot; size=&quot;18&quot;&gt;
 Gems
 
 Taking three gems (the same kind, of course) will wield a Flawless Gem. Example:
@@ -464,7 +1231,7 @@ Soul Gem Creation
 Normal methods of Soul Gem creation are far from portable. Unless you have a habit of carrying all the necessary tools with you. The Cube is capable of limited Alchemic abilities. One of those abilities is the creation of new Soul Gems.
 
 [pagebreak]
-Examples:&lt;font face="$SkyrimBooks" size="12"&gt;
+Examples:&lt;font face=&quot;$SkyrimBooks&quot; size=&quot;12&quot;&gt;
 1 Salt Pile, 1 Amethyst = Petty Soul Gem
 2 Salt Pile, 1 Amethyst = Lesser Soul Gem
 1 Fire Salt, 1 Amethyst = Common Soul Gem
@@ -472,15 +1239,15 @@ Examples:&lt;font face="$SkyrimBooks" size="12"&gt;
 1 Void Salts, 1 Amethyst = Grand Soul Gem
 1 Daedra Heart, 1 Grand Soul Gem = Black Soul Gem&lt;/font&gt;
 
-Brief explanation of the process. Many would argue that this is far from cost effective, as the end resulting Soul Gem, market wise, is worth far less than the gemstones used to create them. This is primarily due to the Cube's limitations.
+Brief explanation of the process. Many would argue that this is far from cost effective, as the end resulting Soul Gem, market wise, is worth far less than the gemstones used to create them. This is primarily due to the Cube&apos;s limitations.
 
-Normal Soul Gem's are created from a type of crystal, often a type of geode. However, the Cube is currently unable to create a stable, viable crystal for storing a Soul using cheaper materials. As a result, I had to look toward transmuting a similar gem stone that would be strong enough to safely contain soul energy.
+Normal Soul Gem&apos;s are created from a type of crystal, often a type of geode. However, the Cube is currently unable to create a stable, viable crystal for storing a Soul using cheaper materials. As a result, I had to look toward transmuting a similar gem stone that would be strong enough to safely contain soul energy.
 
 [pagebreak]
 Soul Gems Transmutes
 
 Like normal gems, three of the same type will wield a Soul Gem of higher quality. Empty Soul Gems will only be improved to a higher grade of Empty Soul Gem. However, if three filled gems were merged, the soul energy within each gem would be placed within the new higher grade gemstone, giving you a more powerful, charged, soul gem. Example:
-&lt;font face="$SkyrimBooks" size="12"&gt;
+&lt;font face=&quot;$SkyrimBooks&quot; size=&quot;12&quot;&gt;
 3 Empty Petty Gems = 1 Empty Lesser Gem
 3 Filled Petty Gems = 1 Filled Petty Gem&lt;/font&gt;
 
@@ -488,18 +1255,18 @@ Like normal gems, three of the same type will wield a Soul Gem of higher quality
 Soul Gem Fragments
 
 Overall, Soul Gem fragments are useless junk. Broken remnants of used Soul Gems. These remnants are too impure and fractured to house a soul, however, the Cube can cleanse remnant soul residue from the pieces and transmute them into Petty stones with enough fragments.
-(There's 4 different Fragment items. The cube will convert fragments 2-4 into Fragment 1. Then three of fragment 1 can be used to construct a Soul Gem)
+(There&apos;s 4 different Fragment items. The cube will convert fragments 2-4 into Fragment 1. Then three of fragment 1 can be used to construct a Soul Gem)
 &lt;/font&gt;</Source>
       <Dest>[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$SkyrimBooks" size="28"&gt;
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$SkyrimBooks&quot; size=&quot;28&quot;&gt;
 トランスミューテーション・キューブ
 ゴウカ 著
 &lt;/font&gt;
 &lt;/p&gt;
 
 [pagebreak]
-&lt;font face="$SkyrimBooks" size="18"&gt;
+&lt;font face=&quot;$SkyrimBooks&quot; size=&quot;18&quot;&gt;
 宝石
 
 3つの宝石 (もちろん同じ種類の宝石) で上質な宝石になる
@@ -511,7 +1278,7 @@ Overall, Soul Gem fragments are useless junk. Broken remnants of used Soul Gems.
 通常の魂石作成方法はとてもじゃないが持ち運べる設備でできるようなものではない。キューブは限定的だが錬金機能があり、その一つが魂石作成だ。
 
 [pagebreak]
-例:&lt;font face="$SkyrimBooks" size="12"&gt;
+例:&lt;font face=&quot;$SkyrimBooks&quot; size=&quot;12&quot;&gt;
 1 塩の山, 1 アメジスト = 極小魂石
 2 塩の山, 1 アメジスト = 小魂石
 1 炎の塩鉱石, 1 アメジスト = 中魂石
@@ -527,7 +1294,7 @@ Overall, Soul Gem fragments are useless junk. Broken remnants of used Soul Gems.
 魂石変成
 
 宝石と同様に3つの同じ魂石は上位の魂石へと変容できる。空の魂石であれば上位の空の魂石に変化する。だが満ちた魂石の場合は魂が融合され、強力な魂によって満たされた魂石へと変化する。
-例:&lt;font face="$SkyrimBooks" size="12"&gt;
+例:&lt;font face=&quot;$SkyrimBooks&quot; size=&quot;12&quot;&gt;
 3 空の極小魂石 = 1 空の小魂石
 3 満ちた極小魂石 = 1 満ちた極小魂石&lt;/font&gt;
 
@@ -539,16 +1306,18 @@ Overall, Soul Gem fragments are useless junk. Broken remnants of used Soul Gems.
 &lt;/font&gt;</Dest>
     </String>
     <String List="1">
+      <EDID>solar_recipies_atronach01</EDID>
+      <REC>BOOK:DESC</REC>
       <Source>[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="28"&gt;
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;28&quot;&gt;
 Atronach Forge Recipes
 Volume II
 &lt;/font&gt;
 &lt;/p&gt;
 
 [pagebreak]
-&lt;font face='$HandwrittenFont' size="18"&gt;
+&lt;font face=&apos;$HandwrittenFont&apos; size=&quot;18&quot;&gt;
 Daedric Helm
 ~Ebony Helm
 ~Daedra Heart
@@ -658,15 +1427,15 @@ Daedra Heart
 ~Black Soul Gem
 &lt;/font&gt;</Source>
       <Dest>[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="28"&gt;
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;28&quot;&gt;
 精霊の鋳造レシピ全集
 第2巻
 &lt;/font&gt;
 &lt;/p&gt;
 
 [pagebreak]
-&lt;font face='$HandwrittenFont' size="18"&gt;
+&lt;font face=&apos;$HandwrittenFont&apos; size=&quot;18&quot;&gt;
 デイドラの兜
 ・黒檀の兜
 ・デイドラの心臓
@@ -777,16 +1546,18 @@ Daedra Heart
 &lt;/font&gt;</Dest>
     </String>
     <String List="1">
+      <EDID>solar_recipies_atronach00</EDID>
+      <REC>BOOK:DESC</REC>
       <Source>[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="28"&gt;
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;28&quot;&gt;
 Atronach Forge Recipes
 Volume I
 &lt;/font&gt;
 &lt;/p&gt;
 
 [pagebreak]
-&lt;font face='$HandwrittenFont' size="18"&gt;
+&lt;font face=&apos;$HandwrittenFont&apos; size=&quot;18&quot;&gt;
 Flame Atronach Staff
 ~Fire Salts
 ~Greater Soul Gem
@@ -809,7 +1580,7 @@ Storm Atronach Staff
 Flame Atronach Tome
 ~Fire Salts
 ~Ruined Book
-~Dragon's Tongue Flower
+~Dragon&apos;s Tongue Flower
 ~Bear Pelt
 
 [pagebreak]
@@ -842,7 +1613,7 @@ Scroll - Storm Atronach
 ~Charcoal
 ~Paper Roll
 
-Conjurer's Elixr
+Conjurer&apos;s Elixr
 ~Empty Wine Bottle
 ~Ectoplasm
 ~Soul Gem
@@ -871,15 +1642,15 @@ Tome - Soul Trap
 ~Torchbug Thorax
 &lt;/font&gt;</Source>
       <Dest>[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="28"&gt;
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;28&quot;&gt;
 精霊の鋳造レシピ全集
 第1巻
 &lt;/font&gt;
 &lt;/p&gt;
 
 [pagebreak]
-&lt;font face='$HandwrittenFont' size="18"&gt;
+&lt;font face=&apos;$HandwrittenFont&apos; size=&quot;18&quot;&gt;
 炎の精霊の杖:
 ・炎の塩鉱石
 ・大魂石
@@ -965,782 +1736,122 @@ Tome - Soul Trap
 &lt;/font&gt;</Dest>
     </String>
     <String List="1">
-      <Source>Select which axis you wish to move</Source>
-      <Dest>移動させたい方向を選択してください</Dest>
-    </String>
-    <String List="1">
-      <Source>I found a book in the College of Winterhold's library, which made reference to a special orb that could dispel Soul Gems to wipe them clean without destroying them. It mentioned a Dwemer city of Blackreach. If I could find this city, the Orb may still be inside</Source>
-      <Dest>ウィンターホールド大学の図書室で魂石を破壊せずに浄化することができる特殊な宝玉について書かれた本を見つけた。ブラックリーチというドゥーマーの街について記されていた。その街にはまだ宝玉が眠っているかもしれない。</Dest>
-    </String>
-    <String List="1">
-      <Source>Now that I've found Blackreach, I should check the various ruins in the city for signs of the Orb of Dispulsion. I have a lot of ground to cover, but if that Orb is anywhere in Blackreach, I will find it</Source>
-      <Dest>ついにブラックリーチを見つけたからには、浄化の宝玉の魂石を探すべきだろう。ここはとても広いが、宝玉がブラックリーチにあるのなら見つかると思う。</Dest>
-    </String>
-    <String List="1">
-      <Source>&lt;font face="$HandwrittenFont" size="18"&gt;
-The Evolution of Enchanting Tools
-
-Ever since I started my studies on enchanting, I have always found myself looking back at the various generations of tools and methods used in enchanting.
-
-Enchanting has evolved a lot over time, and no matter how far back I trace the history of enchantments, I always find myself looking even further back with no clear indication on where or when Enchanting as we know it originated from.
-[pagebreak]
-
-Enchanting has evolved and even devolved over time, as seems evident in old documents I have uncovered over time.
-
-At one point, the Mages Guild had the ability to enchant armor and clothing with a spell known as Chameleon. While wearing an artifact with this enchant, the individual would blend into their surroundings to varying degrees based off the enchant's power. One could even be entirely invisible, if the enchanter's skill and materials were powerful enough!
-
-Naturally, this ability has been lost for quite some time, but makes me wonder what else has been lost.
-[pagebreak]
-
-What is even harder than tracing the history of enchantment, is finding enchanting stations and altars from the past. I am unsure why it is nigh impossible to find remnants, let alone complete artifacts from the past in this field, though I have my suspicions.
-
-What little information I have uncovered are cases of destruction or disposal of anything related to Magicka. A good example is the events following the Oblivion Crisis, where magick and magick users were blamed for the events, rather than where blame belonged. Mehrunes Dagon and his followers.
-
-That said, I suspect that over time, and especially after the Oblivion Crisis, many of these priceless and ancient artifacts were either hidden well, or simply destroyed out of misdirected fear.
-[pagebreak]
-
-Thankfully, I have located one intact tool, known as an Enchanting Font. Though the method of enchantment is different, the end result is similar to modern day enchantments.
-
-The Font seems to imbue the item with its energy by using a liquid conduit. You essentially soak both the item and a filled Soul Stone in the font, and from there conduct the enchantment like you would on modern day stations.
-[pagebreak]
-
-I have stored the Font at the College of Winterhold for safe keeping, where I can be sure of its safety in a world so ready to destroy knowledge out of fear. To keep students from tampering with or damaging it, I have made sure it is safely packed away in a dusty corner of the school where students seldom, if ever, go.
-
-As much as I would love to keep this discovery with me, my travels prevent me from such luxuries. The only person I told about the Font was Arch-Mage Deneth, seeing how he is about the only person I trust with such a priceless artifact. He assured me that he would place the Font in a more proper location where it could be studied and kept safe once he handled other more important matters. I assume he means the current raging storms coming in from the Sea of Ghosts.
-[pagebreak]
-&lt;/font&gt;
-
-&lt;font face="$SkyrimBooks" size="28"&gt;
-[ Much of the rest of the journal is weathered or missing ]
-&lt;/font&gt;</Source>
-      <Dest>&lt;font face="$HandwrittenFont" size="18"&gt;
-付呪装置の進化
-
-付呪の研究を始めて以来、いくつもの付呪の方法や道具を発見してきた。
-
-長い年月をかけて付呪は進歩してきたが、どんなに歴史を研究したとしてもその起源ははっきりとはしていない。
-[pagebreak]
-
-付呪というものは長い年月をかけて進歩してきた。そのことは見つかった古文書からも明らかだ。
-
-かつてメイジギルドは透明化として知られる魔法を鎧や衣服に付呪する技術を持っていた。それを身につけていれば風景に溶け込むことができ、技能次第では完全に見えなくなることも可能にしたのだ！
-
-もちろん現在ではこの技術は失われている。しかし、ほかにも失われているものがあるのではいだろうか。
-[pagebreak]
-
-付呪の歴史を探るよりも難しいことは、それら付呪の祭壇を見つけることだ。なぜ見つからないのだろう。
-
-見つかったものといえば破壊または廃棄する場合のわずかな情報だけだ。オブリビオンの動乱の後糾弾された魔術師達、すなわちメエルーンズ・デイゴンとその信者達によるものだ。
-
-おそらくだが、オブリビオンの動乱以後そういった貴重な秘宝は隠されてしまったか、あるいは恐怖から破壊されてしまったのだろう。
-[pagebreak]
-
-幸いなことに、無傷な状態の付呪の泉として知られている秘宝を見つけることができた。方法は異なるが、現在の付呪と同じ結果をもたらすものだ。
-
-この泉はどうやら液体を使ってエネルギーをアイテムに込めるようだ。対象のアイテムと魂石を一緒に泉に沈めてから、通常の付呪と同じ手順を踏むのだ。
-[pagebreak]
-
-私はその泉を保護するために、ウィンターホールド大学へと持ち帰った。未知への恐怖から破壊されないようにするためだ。学生が触ったり壊したりしないよう、大学の隅にある倉庫に保管してある。
-
-しかしこの発見を保護しようと思うと、そう簡単には外出できない。そこでこの泉のことをアークメイジのデネスと相談した。彼はとても信頼できるからな。彼は快く、より安全で研究に適した場所に保管しておくと約束してくれた。まるで亡霊の海から嵐が来るような気分だ。
-[pagebreak]
-&lt;/font&gt;
-
-&lt;font face="$SkyrimBooks" size="28"&gt;
-[ あとはボロボロになっていて読めない ]
-&lt;/font&gt;</Dest>
-    </String>
-    <String List="1">
+      <EDID>solar_recipies_potions03</EDID>
+      <REC>BOOK:DESC</REC>
       <Source>[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="28"&gt;
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;26&quot;&gt;
 Recipes
-Volume: I Basics
+Volume: III Poisons
 &lt;/font&gt;
 &lt;/p&gt;
 
 [pagebreak]
-&lt;font face='$HandwrittenFont' size="18"&gt;
-Cure Disease potion:
-~Charred Skeever Hide
-~Mudcrab Chitin
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+Damage Health poison:
+~Skeever Tail
+~Void Salts
 
 
-Cure Disease potion:
-~Mudcrab Chitin
-~Vampire Dust
+Damage Health poison:
+~Skeever Tail
+~Small Antlers
 
 
-Restore Health potion:
-~Blue Mountain Flower
-~Sabre Cat Eyeball
+Damage Health poison:
+~Ectoplasm
+~Troll Fat
 
 
 [pagebreak]
-Restore Health potion:
-~Imp Stool
-~Wheat
-
-
-Restore Health potion:
+Fear poison:
+~Namira&apos;s Rot
 ~Blue Dragonfly Wing
-~Charred Skeever Hide
 
 
-Restore Health potion:
-~Monarch Butterfly Wing
-~Blisterwort
+Fear poison:
+~Powdered Mammoth Tusk
+~Daedra Heart
+
+
+Paralysis poison:
+~Briar Heart
+~Swamp Fungal Pod
 
 
 [pagebreak]
-Restore Magicka potion:
-~White Cap Mushroom
-~Taproot
+Paralysis poison:
+~Canis Root
+~Swamp Fungal Pod
 
-
-Restore Magicka potion:
-~Giant Lichen
-~Pearl
-
-
-Restore Magicka potion:
-~Grass Pod
-~Red Mountain Flower
 &lt;/font&gt;</Source>
       <Dest>[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="28"&gt;
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;26&quot;&gt;
 調合レシピ全集
-第1巻 回復薬
+第3巻 毒薬
 &lt;/font&gt;
 &lt;/p&gt;
 
 [pagebreak]
-&lt;font face='$HandwrittenFont' size="18"&gt;
-疾病退散薬:
-・焼け焦げたスキーヴァーの皮
-・マッドクラブの殻
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+体力減退の毒:
+・スキーヴァーの尻尾
+・虚無の塩
 
 
-疾病退散薬:
-・マッドクラブの殻
-・吸血鬼の遺灰
+体力減退の毒:
+・スキーヴァーの尻尾
+・小さな枝角
 
 
-体力回復の薬:
-・山の青い花
-・サーベルキャットの目
+体力減退の毒:
+・エクトプラズム
+・トロールの脂肪
 
 
 [pagebreak]
-体力回復の薬:
-・木椅子キノコ
-・小麦
-
-
-体力回復の薬:
+恐怖の毒:
+・ナミラキノコ
 ・青いトンボの羽
-・焼け焦げたスキーヴァーの皮
 
 
-体力回復の薬:
-・蝶の羽
-・ブリスターワート
+恐怖の毒:
+・マンモスの牙粉
+・デイドラの心臓
 
 
-[pagebreak]
-マジカ回復の薬:
-・白かさキノコ
-・主根
-
-
-マジカ回復の薬:
-・巨大地衣類
-・パール
-
-
-マジカ回復の薬:
-・グラス・ポッド
-・山の赤い花
-&lt;/font&gt;</Dest>
-    </String>
-    <String List="1">
-      <Source></Source>
-      <Dest></Dest>
-    </String>
-    <String List="1">
-      <Source>After a long, extensive search of the ancient underground city of Blackreach, I finally found the Orb of Dispulsion. A shame so much of the Dwemer's secrets are lost to the ages. Perhaps in time, and after I get my fair use out of it, this Orb can be studied and it's secrets unlocked.</Source>
-      <Dest>ブラックリーチの地下古代都市を探索して、ついに浄化の宝玉を見つけた。残念なことにドゥーマーの秘密の多くは失われてしまっている。いつか宝玉は研究され秘密は解き明かされるだろう。</Dest>
-    </String>
-    <String List="1">
-      <Source>Adjust the selected axis by 5 degrees</Source>
-      <Dest>選択した方向へ5度ずつ回転させます</Dest>
-    </String>
-    <String List="1">
-      <Source>&lt;font face="$HandwrittenFont"&gt;
-College of Winterhold,
-
-I have information related to a magickal device that I feel your college would be greatly interested in. A device that can cleanse magicka or alterations from items.
-
-I was part of a caravan that was transporting it and other merchandise north out of Cyrodiil, when we were assaulted by bandits.
-
-We were going to try and sell the artifact to your college once we got further north, but I figure if you kill those bandits in the recovery process, then the item is yours.
-
-Map information is enclosed.
-
---A Friend</Source>
-      <Dest>&lt;font face="$HandwrittenFont"&gt;
-ウィンターホールド大学
-
-私はあなた方が大いに興味を持つであろう魔術装置の情報を知っています。その装置は付呪されたアイテムを浄化したり変換することができるのです。
-
-私はキャラバンの一員で、それらの商品をシロディールから北方へと輸送している時に盗賊に襲われてしまったのです。
-
-もともと私達はさらに北へ進みこれらの商品を大学へ販売するつもりでしたが、盗賊を退治して取り戻してくれるのならばそれらのアイテムはお譲りします。
-
-場所の情報も添えておきます。
-
-――友より</Dest>
-    </String>
-    <String List="1">
-      <Source>Hidden and nearly forgotten in the Midden, I located the old Enchantment Font. It seems to have the same capabilities as modern enchanting stations, but uses a different and seemingly forgotten method of enchanting items.</Source>
-      <Dest>ミッデンの忘れ去られ用とする場所で付呪の泉を見つけた。現在の付呪と同じ機能があるようだが、異なる失われた技法を使うようだ。</Dest>
-    </String>
-    <String List="1">
-      <Source>[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="36"&gt;
-
-Treasure Maps
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="18"&gt;
-
-Treasure Map I
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-
-    &lt;img src='img://Textures/Interface/Books/dunRiverwoodTreasMap.png' width='290' height='389'&gt;
-[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="18"&gt;
-
-Treasure Map II
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-
-    &lt;img src='img://Textures/Interface/Books/dunValtheimTreasMap.png' width='290' height='389'&gt;
-[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="18"&gt;
-
-Treasure Map III
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-
-    &lt;img src='img://Textures/Interface/Books/dunSolLighthouseTreasMap.png' width='290' height='389'&gt;
-[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="18"&gt;
-
-Treasure Map IV
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-
-    &lt;img src='img://Textures/Interface/Books/dunWhiterunTreasMap.png' width='290' height='389'&gt;
-[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="18"&gt;
-
-Treasure Map V
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-
-    &lt;img src='img://Textures/Interface/Books/dunLostValleyRedoubtTreasMap.png' width='290' height='389'&gt;
-[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="18"&gt;
-
-Treasure Map VI
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-
-    &lt;img src='img://Textures/Interface/Books/dunKorvanjundTreasMap.png' width='290' height='389'&gt;
-[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="18"&gt;
-
-Treasure Map VII
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-
-    &lt;img src='img://Textures/Interface/Books/dunGallowsRockTreasMap.png' width='290' height='389'&gt;
-[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="18"&gt;
-
-Treasure Map VIII
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-
-    &lt;img src='img://Textures/Interface/Books/dunDragonBridgeTreasMap.png' width='290' height='389'&gt;
-[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="18"&gt;
-
-Treasure Map IX
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-
-    &lt;img src='img://Textures/Interface/Books/dunBrokenHelmTreasMap.png' width='290' height='389'&gt;
-[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="18"&gt;
-
-Treasure Map X
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-
-    &lt;img src='img://Textures/Interface/Books/dunIlinaltasDeepTreasMap.png' width='290' height='389'&gt;
-[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="18"&gt;
-
-Fort Neugrad Treasure Map
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-
-    &lt;img src='img://Textures/Interface/Books/dunFortNeugradTreasMap.png' width='290' height='389'&gt;
-[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="18"&gt;
-
-Velehk Sain's Treasure Map
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-
-
-&lt;img src='img://Textures/Interface/Books/dunMiddenTreasureMap.png' height='272' width='355'&gt;
-[pagebreak]</Source>
-      <Dest>[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="36"&gt;
-
-宝の地図全集
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="18"&gt;
-
-宝の地図 1
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-
-    &lt;img src='img://Textures/Interface/Books/dunRiverwoodTreasMap.png' width='290' height='389'&gt;
-[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="18"&gt;
-
-宝の地図 2
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-
-    &lt;img src='img://Textures/Interface/Books/dunValtheimTreasMap.png' width='290' height='389'&gt;
-[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="18"&gt;
-
-宝の地図 3
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-
-    &lt;img src='img://Textures/Interface/Books/dunSolLighthouseTreasMap.png' width='290' height='389'&gt;
-[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="18"&gt;
-
-宝の地図 4
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-
-    &lt;img src='img://Textures/Interface/Books/dunWhiterunTreasMap.png' width='290' height='389'&gt;
-[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="18"&gt;
-
-宝の地図 5
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-
-    &lt;img src='img://Textures/Interface/Books/dunLostValleyRedoubtTreasMap.png' width='290' height='389'&gt;
-[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="18"&gt;
-
-宝の地図 6
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-
-    &lt;img src='img://Textures/Interface/Books/dunKorvanjundTreasMap.png' width='290' height='389'&gt;
-[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="18"&gt;
-
-宝の地図 7
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-
-    &lt;img src='img://Textures/Interface/Books/dunGallowsRockTreasMap.png' width='290' height='389'&gt;
-[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="18"&gt;
-
-宝の地図 8
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-
-    &lt;img src='img://Textures/Interface/Books/dunDragonBridgeTreasMap.png' width='290' height='389'&gt;
-[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="18"&gt;
-
-宝の地図 9
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-
-    &lt;img src='img://Textures/Interface/Books/dunBrokenHelmTreasMap.png' width='290' height='389'&gt;
-[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="18"&gt;
-
-宝の地図 10
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-
-    &lt;img src='img://Textures/Interface/Books/dunIlinaltasDeepTreasMap.png' width='290' height='389'&gt;
-[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="18"&gt;
-
-ニューグラド砦の宝の地図
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-
-    &lt;img src='img://Textures/Interface/Books/dunFortNeugradTreasMap.png' width='290' height='389'&gt;
-[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="18"&gt;
-
-ヴェレーク・セインの宝の地図
-&lt;/font&gt;
-&lt;/p&gt;
-[pagebreak]
-
-
-&lt;img src='img://Textures/Interface/Books/dunMiddenTreasureMap.png' height='272' width='355'&gt;
-[pagebreak]</Dest>
-    </String>
-    <String List="1">
-      <Source>[pagebreak]
-&lt;font face="$HandwrittenFont" size="18"&gt;
-Background
-Years ago, in Cyrodiil, I had spent a lot of time within Ayleid ruins. Primarily, a nameless ruin simply known as the Mystic Halls.
-
-During the time of the Ayleid, this location was a sort of research facility focusing on the art of Transmutation. They had constructed a crude, yet working device they simply called the Cask.
-
-The Cask was a blend of both Ayleid and Dwemer technologies. I suspect the Ayleid were working with Dwemer engineers on this project. The Cask is able to merge or break down matter in specific ways. Such as melting down Silver items down into purified silver ore, without the need of a Smelter. Or, taking several flawed gemstones to create a more pure, flawless stone.
-
-I spent many years studying the Cask, using trial and error to decipher what the Cask was capable of, as well as potential ways to improve on it's abilities. In the end, the answers I needed weren't there in the Ayleid ruins, but far north-east, in Vvardenfell's Dwemer ruins.
-
-I spent several more years within Red Mountain's ruins, unearthing what I could before Red Mountain's eruption and destruction of the immediate area. Thankfully I got just about everything I could from the area and moved on to Skyrim's Dwemer Ruins, where I was able to complete the Cube.
-
-The Cube is based on a similar principle as the Cask, only with a greater focus on Dwemer technology. The major benefit of the Cube over the Cask, is it's size and weight. The Cask was a large device, about the size of a horse. Impossible to transport.
-
-One drawback is, due to it's size compared to the Cask, the Cube is less suited for breaking down items, and more focused on the merging and improving of matter of mostly smaller items.
-
-While the Cube is still limited, so is my knowledge of Ayleid, Dwemer and Transmutation. No matter how much we know, there's always more to know out there. So I will continue to travel and study, refining my device and further unlocking the alchemic mysteries of the world.
-
-[pagebreak]
-Morndas 4th, Morning Star
-Well, after misplacing another journal, here I am to start ye another. I've outlined the information from previous volumes in the first few pages.
-
-I've arrived back  in Cyrodiil, hoping to revisit the Mystic Ruins and look into ways of transporting the Cask and related materials somewhere more accessible and safer from all the current troubles in Cyrodiil with the Aldmeri Dominion, but things are far worse than I realized.
-
-With everything going on, there's too much risk moving it right now. Even just traveling alone to the site is too dangerous. Well, dangerous for the secrecy of the location and the delicate artifacts. You don't live as long as I have without learning to protect yourself.
-
-I'll just relax here in the Imperial City while and soak up the local taverns.
-
-[pagebreak]
-Sundas, 25th of Mid Year
-Things are getting out of control here in Cyrodiil, so it's time I go elsewhere. I'm a Dunmer, an Elf, and damn proud of it, but these Altmer bastards are really starting to piss me off. Things weren't perfect with the Empire in full control.. FAR from it, but these self absorbed Aldmeri idiots are making Tamriel as a whole unbearable!
-
-I'll head to Solstheim for a while. Besides hearing there may be a Dwemer Ruin there, I hear Thirsk has some of the best damn Nord mead around! Should help me unwind a bit.
-
-[pagebreak]
-Fredas, 12th of Frostfall
-Any day now, I should arrive in Markarth. There, I hope to study the ruins Nchuand-Zel and see what I can learn.
-
-I've heard these ruins are quite large and large ruins usually have at least some useful information for me to use. I just hope this time I don't lose my supplies again..
-
-I still can't believe I left my last cube prototype in Vvardenfell! Oh well. The look on the face of that drunk at the tavern in Mournhold when I accused him of stealing my things was priceless.. Especially when I  put him through a table.
-
-[pagebreak]
-Fredas, 26th of Frostfall
-I've arrived in Nchuand-Zel, and setup camp in the old master control room. That wizard, Calcelmo let me in once I told him I was a researcher and promised to share my findings. I'll share my findings alright, but only if it's unrelated to my cube. He strikes me as the type that would take credit for other people's work.
-
-Sneaking past the Falmer wasn't easy, but I pulled it off. Using the gates and doors, I have myself pretty well protected here, and I should be able to carry to my research in relative peace, as long as I keep quiet.
-
-After I finish up here in a couple of weeks, I can start working my way east through other dwemer ruins in the area.
-&lt;/font&gt;</Source>
-      <Dest>[pagebreak]
-&lt;font face="$HandwrittenFont" size="18"&gt;
-背景
-数年前、私はシロディールのアイレイドの遺跡で多くの時を過ごした。神秘の広間と呼ばれる名もない遺跡だ。
-
-アイレイドの時代においてこの場所は、変容技術の研究施設だったようだ。彼らはキャスクと呼ばれる、未完成ながら機能する装置を作ったのだ。
-
-キャスクはアイレイドとドゥーマーの技術の融合だ。アイレイドはドゥーマーの技術者と協力していたようだ。キャスクは特殊な方法で物質の融合と分解を可能にするものだ。例えば溶鉱炉を使わずに銀製品を銀鉱石にしたり、いくつかの宝石から上質な宝石を生み出したりできるのだ。
-
-私は何年もキャスクを研究し、試行錯誤の末に機能を解明し、完全なものにした。結局のところ、私の求めた答えは遥かヴァーデンフェルのドゥーマーの遺跡にあった。
-
-さらにレッドマウンテンで数年を費やし、レッドマウンテンの噴火によって破壊される前に掘り出すことができた。ありがたいことに、すべてを持ってスカイリムのドゥーマーの遺跡に移ることができ、そこでキューブを完成させたのだ。
-
-キューブはキャスクと同じ原理に基づいているが、よりドゥーマーの技術を重視している。最も大きな利点は大きさと重量であろう。キャスクはとても大きな装置で、馬ほどのサイズがあった。とても運べるものではなかったのだ。
-
-欠点はキャスクよりも小さいために、アイテムの分解には向いていないということだ。その分融合と品質を重視している。
-
-キューブはまだ私の持つアイレイド、ドゥーマー、そして変容技術の知識に制限されている。まだ知るべきことは山ほどあるのだ。だから私は探求の旅を続け、キューブの改良とともに錬金術の秘密を解き明かそうとするのだ。
-
-[pagebreak]
-暁星の月4日 モーンダス
-日記を無くしてしまったため、新しく書き始めるとする。以前の内容は最初の数ページに記しておいた。
-
-シロディールに戻ってきた。シロディールで起きているアルドメリ自治領とのもんだからキャスクに関する資料を守るために移動しよう考えているが、思ったよりも状況は深刻なようだ。
-
-今動くにはリスクが高すぎること、一人で旅をするのも危険なこともある。秘密の場所と繊細な秘宝であることも危険性を増している。自身を守る手段を考えなければそう長く生きられないだろう。
-
-一旦インペリアルシティの酒場で落ち着こうと思う。
-
-[pagebreak]
-真央の月25日 サンダス
-もはやシロディールは無法地帯だ。ここを離れる時が来た。私はダンマーであり、エルフであることに誇りを持っているが、アルトマーの連中にはうんざりだ。帝国の支配は完璧ではなかったが、アルドメリの馬鹿どもはタムリエル全体をおかしくしちまってやがる！
-
-しばらくソルスセイムに居るつもりだ。ドゥーマーの遺跡があるかもしれないし、シリスクというノルドの集会所もあると聞いた。少し手伝ってもらおう。
-
-[pagebreak]
-降霜の月12日 フレダス
-マルカルスに行くべきだと考えている。ヌチュアンド・ゼルの遺跡を研究し何を学べるかを見たいからだ。
-
-聞いたところによるとその遺跡はだいぶ広いようだ。また道具を無くさなけばいいのだが。
+麻痺の毒:
+・ブライア・ハート
+・沼の群生キノコ
 
-ヴァーデンフェルで見つけた試作品が最後の一つではないと思いたい。まあともかく、モルンホールドの酒場で私が荷物を盗んだなどと突っかかって来た酔っ払いの表情は貴重だった。特に彼をテーブルに置いたときのはな。
 
 [pagebreak]
-降霜の月26日 フレダス
-ヌチュアンド・ゼルに到着し、中央制御室にキャンプを設営した。王宮魔術師のカルセルモに研究成果を共有すると話したら入れてくれたのだ。キューブに関係ないことなら共有してやろうと思う。彼はどうも、他人の功績自分の手柄にするような人物に思えるのだ。
-
-ファルマーをやり過ごすのは簡単ではなかったが、なんとかなった。門と扉を使って守りながら静かにしていれば、研究を続けられるはずだ。
-
-ここで数週間過ごしたら、東のドゥーマーの遺跡に行けるようになるだろ。
-&lt;/font&gt;</Dest>
-    </String>
-    <String List="1">
-      <Source>After delving the depths of Nchuand-Zel, I've recovered the Transmutation Cube. This artifact should prove invaluable to me.</Source>
-      <Dest>ヌチュアンド・ゼルの深部でトランスミューテーション・キューブを手に入れた。この秘宝はとても貴重なものだ。</Dest>
-    </String>
-    <String List="1">
-      <Source>I've unlocked the ruins of Nchuand-Zel, and the Transmutation Cube should be somewhere inside. The journal mentioned using an old control room as a camp, so I should keep my eyes open for that area</Source>
-      <Dest>ヌチュアンド・ゼル遺跡へ入った。どこかにトランスミューテーション・キューブがあるはずだ。日記によれば古い制御室を野営地としていたようだ。その辺りを探索してみよう。</Dest>
-    </String>
-    <String List="1">
-      <Source>Pickup or adjust position.</Source>
-      <Dest>回収または位置調整</Dest>
-    </String>
-    <String List="1">
-      <Source>[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="28"&gt;
-Recipes
-Volume: II Advanced
-&lt;/font&gt;
-&lt;/p&gt;
-
-[pagebreak]
-&lt;font face="$HandwrittenFont" size="18"&gt;
-Resist Fire potion:
-~Bonemeal
-~Frost Salts
-
-
-Resist Fire potion:
-~Elves Ear
-~Mudcrab Chitin
-
-
-Resist Frost potion:
-~Snowberry
-~Purple Mountain Flower
-
-
-[pagebreak]
-Resist Frost potion:
-~Gourd
-~Fire Salts
-
-
-Resist Poison potion:
-~Thistle
-~Falmer Ear
-
-
-Resist Shock potion:
-~Pine Thrush Egg
-~Snowberry
-
-
-[pagebreak]
-Resist Shock potion:
-~Glowdust
-~Pearl
-
-
-Fortify Carry Weight potion:
-~Creep Cluster Root
-~Giant's Toe
-
-
-Fortify Carry Weight potion:
-~Wisp Wrappings
-~Scaly Pholiota
-
-
-[pagebreak]
-Invisibility potion:
-~Luna Moth Wing
-~Chaurus Eggs
-
-
-Invisibility potion:
-~Ice Wraith Teeth
-~Chaurus Eggs
-
-&lt;/font&gt;</Source>
-      <Dest>[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="28"&gt;
-調合レシピ全集
-第2巻 強化薬
-&lt;/font&gt;
-&lt;/p&gt;
-
-[pagebreak]
-&lt;font face="$HandwrittenFont" size="18"&gt;
-炎耐性アップの薬:
-・骨の粉
-・氷の塩鉱石
-
-
-炎耐性アップの薬:
-・エルフイヤー・リーフ
-・マッドクラブの殻
-
-
-冷気耐性アップの薬:
-・スノーベリー
-・山の紫の花
-
-
-[pagebreak]
-冷気耐性アップの薬:
-・ウリ
-・炎の塩鉱石
-
-
-毒耐性アップの薬:
-・シッスル
-・ファルメルの耳
-
-
-雷撃耐性の薬:
-・パイン・スラッシュの卵
-・スノーベリー
-
-
-[pagebreak]
-雷撃耐性の薬:
-・発光する塵
-・パール
-
-
-持ち運び重量上昇の薬:
-・クリープ・クラスターの根
-・巨人のつま先
-
-
-持ち運び重量上昇の薬:
-・ウィスプ・ラッピング
-・スギタケ
-
-
-[pagebreak]
-透明化の薬:
-・ルナ・モスの羽
-・シャウラスの卵
-
-
-透明化の薬:
-・氷の生霊の歯
-・シャウラスの卵
+麻痺の毒:
+・カニスの根
+・沼の群生キノコ
 
 &lt;/font&gt;</Dest>
     </String>
     <String List="1">
-      <Source>The bandits have been dealt with and the Font of Disenchantment has been recovered. Hopefully the souls of their victims can now find peace.</Source>
-      <Dest>盗賊を退治して解呪の泉を取り戻した。これで犠牲となった者も安らげるだろう。</Dest>
-    </String>
-    <String List="1">
+      <EDID>solar_recipies_spider00</EDID>
+      <REC>BOOK:DESC</REC>
       <Source>[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="28"&gt;
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;28&quot;&gt;
 Spider Forge Recipes
 &lt;/font&gt;
 &lt;/p&gt;
 
 [pagebreak]
-&lt;font face='$HandwrittenFont' size="18"&gt;
+&lt;font face=&apos;$HandwrittenFont&apos; size=&quot;18&quot;&gt;
 With all recipes involving gemstones, not including Soul Gems, using a Flawless stone over a regular cut gem will yield two Spiders instead of one.
 
-Thusfar, the Mind Control and Oil spiders do not seem to have an upgraded recipe that yields two or more in one creation. At least, nothing I've found yet.
+Thusfar, the Mind Control and Oil spiders do not seem to have an upgraded recipe that yields two or more in one creation. At least, nothing I&apos;ve found yet.
 
-Judging from what I've seen, it should be possible to create some sort of glowing spider and a spider capable of carrying limited supplies around. While a Pack Spider's benefits are obvious, a Glowing Spider may seem useless. However, when you have been through enough caves and dark ruins as I have, a portable torch you don't need to cast or carry does come in handy.
+Judging from what I&apos;ve seen, it should be possible to create some sort of glowing spider and a spider capable of carrying limited supplies around. While a Pack Spider&apos;s benefits are obvious, a Glowing Spider may seem useless. However, when you have been through enough caves and dark ruins as I have, a portable torch you don&apos;t need to cast or carry does come in handy.
 
-In addition to the spider Pod, a Glowing Spider would likely need some sort of glowing ingredient, where a Pack Spider would need a bony resin material to reinforce it's body to handle transporting supplies. I will have to keep my eyes open for such ingredients.
+In addition to the spider Pod, a Glowing Spider would likely need some sort of glowing ingredient, where a Pack Spider would need a bony resin material to reinforce it&apos;s body to handle transporting supplies. I will have to keep my eyes open for such ingredients.
 
 [pagebreak]
 Exploding Flame Spider
@@ -1808,14 +1919,14 @@ Oil Spider
 ~Albino Spider Pod
 &lt;/font&gt;</Source>
       <Dest>[pagebreak]
-&lt;p align="center"&gt;
-&lt;font face="$HandwrittenFont" size="28"&gt;
+&lt;p align=&quot;center&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;28&quot;&gt;
 浸透レシピ全集
 &lt;/font&gt;
 &lt;/p&gt;
 
 [pagebreak]
-&lt;font face='$HandwrittenFont' size="18"&gt;
+&lt;font face=&apos;$HandwrittenFont&apos; size=&quot;18&quot;&gt;
 魂石以外の宝石を含むレシピでは、上質な宝石を使うことで2匹の浸透したスパイダーが生み出されます。
 
 なお、マインドコントロールスパイダーとオイルスパイダーに関しては、一回に2匹以上を生み出すレシピは未だ見つかっていません。
@@ -1891,9 +2002,11 @@ Oil Spider
 &lt;/font&gt;</Dest>
     </String>
     <String List="1">
-      <Source>&lt;font face="$HandwrittenFont" size="18"&gt;
+      <EDID>solar_dispelorb_book</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
 [pagebreak]
-&lt;p align="center"&gt;
+&lt;p align=&quot;center&quot;&gt;
 
 
 Soul Gem Dispulsion
@@ -1908,19 +2021,19 @@ Shira Takashi
 
 
 [pagebreak]
-&lt;p align="center"&gt;
+&lt;p align=&quot;center&quot;&gt;
 Chapter I: Background
 &lt;/p&gt;
 For generations, people have studied Soul Gems, trying to not only unlock their secrets, but determine ways to make them stronger or reusable. Surprisingly, after all these years and countless scholars and researchers hard work, Soul Gems are almost exactly there they were a millennia ago.
 
-This raises the question.. "Can Soul Gems be altered at all?" The answer is yes, however it seems to have become a lost art. The proof is in where you find yourself when you look for people who can alter Soul Gems in any manner.. The Dwemer.
+This raises the question.. &quot;Can Soul Gems be altered at all?&quot; The answer is yes, however it seems to have become a lost art. The proof is in where you find yourself when you look for people who can alter Soul Gems in any manner.. The Dwemer.
 
-The long lost Dwemer race were master enchanters, master engineers and also, they were Tonal Architects. They had devices, known as Convectors, that could modify the shapes and properties of specifically manufactured crystals. What these crystals were used for is anyone's guess, however what is a Soul Gem at it's core? A type of crystal.
+The long lost Dwemer race were master enchanters, master engineers and also, they were Tonal Architects. They had devices, known as Convectors, that could modify the shapes and properties of specifically manufactured crystals. What these crystals were used for is anyone&apos;s guess, however what is a Soul Gem at it&apos;s core? A type of crystal.
 
 Right here, we see the Dwemer had the right technology to reshape Soul Gems. Possibly even creating larger gems than we see today. Imagine it. A perfect Soul Gem with no flaws. It could theoretically hold far more powerful soul energy than the gems we use today, which, naturally, have varying degrees of impurities. A Grand Soul Gem, which is roughly the most powerful we have today, is still riddled with some level of impurities, although far less than a Petty Gem.
 
 [pagebreak]
-&lt;p align="center"&gt;
+&lt;p align=&quot;center&quot;&gt;
 Chapter II: Dispulsion
 &lt;/p&gt;
 
@@ -1936,9 +2049,9 @@ While most stories only speak briefly and vaguely about such a device, leaving y
 
 Most of the document was badly damaged, eroded and many parts just dust in the wind, but it did make reference to a structure and some tie with an Orb that could dispel Gems. Perhaps a research center or workshop?
 &lt;/font&gt;</Source>
-      <Dest>&lt;font face="$HandwrittenFont" size="18"&gt;
+      <Dest>&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
 [pagebreak]
-&lt;p align="center"&gt;
+&lt;p align=&quot;center&quot;&gt;
 
 
 魂石の浄化
@@ -1952,19 +2065,19 @@ Most of the document was badly damaged, eroded and many parts just dust in the w
 
 
 [pagebreak]
-&lt;p align="center"&gt;
+&lt;p align=&quot;center&quot;&gt;
 第1章: 背景
 &lt;/p&gt;
 何世代もの間、人々は魂石を研究し、その秘密を暴くだけでなくより強く、または再利用する手段を確立してきた。驚くべきことに、膨大な年月と無数の研究者による調査の結果、魂石は千年前から存在しているのである。
 
-ここで "魂石は作り変えることができるか？" という疑問が生じる。答えはできる。だがそれはもやは失われた技術だ。証拠は魂石を作り変えることができる人々をを探すとおのずと見つかる。ドゥーマーである。
+ここで &quot;魂石は作り変えることができるか？&quot; という疑問が生じる。答えはできる。だがそれはもやは失われた技術だ。証拠は魂石を作り変えることができる人々をを探すとおのずと見つかる。ドゥーマーである。
 
 消えたドゥーマーという種族は優れた付呪師であり、技術者であり、色彩の建築家であった。彼らは暖房機として知られる装置を持ち、製造した結晶体の形状や特性を修正することができた。それらの結晶体がどう使われたかは不明だが、魂石の核として使われていたかもしれない。結晶体の一種だからだ。
 
 そして我々はドゥーマーが魂石を再構築する技術を持っていたこと確認できる。我々が知るよりも大きな魂石すら製造できるのだ。欠陥のない完璧な魂石想像してもらいたい。それは今日使用されている魂石よりもはるかに強力なエネルギーを持ち、当然ながらわずかな不純物を含んではいたであろう。現在知られている最も強力な極大魂石も極小魂石よりも少ないが、不純物を含んでいる。
 
 [pagebreak]
-&lt;p align="center"&gt;
+&lt;p align=&quot;center&quot;&gt;
 第2章: 浄化
 &lt;/p&gt;
 
@@ -1980,6 +2093,200 @@ Most of the document was badly damaged, eroded and many parts just dust in the w
 
 古文書のほとんどは損傷して風化していたが、魂石を浄化できる宝玉と関係した建造物について書かれたものであるようだった。おそらく研究所や工場ではないだろうか？
 &lt;/font&gt;</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_enchfont_journal</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+The Evolution of Enchanting Tools
+
+Ever since I started my studies on enchanting, I have always found myself looking back at the various generations of tools and methods used in enchanting.
+
+Enchanting has evolved a lot over time, and no matter how far back I trace the history of enchantments, I always find myself looking even further back with no clear indication on where or when Enchanting as we know it originated from.
+[pagebreak]
+
+Enchanting has evolved and even devolved over time, as seems evident in old documents I have uncovered over time.
+
+At one point, the Mages Guild had the ability to enchant armor and clothing with a spell known as Chameleon. While wearing an artifact with this enchant, the individual would blend into their surroundings to varying degrees based off the enchant&apos;s power. One could even be entirely invisible, if the enchanter&apos;s skill and materials were powerful enough!
+
+Naturally, this ability has been lost for quite some time, but makes me wonder what else has been lost.
+[pagebreak]
+
+What is even harder than tracing the history of enchantment, is finding enchanting stations and altars from the past. I am unsure why it is nigh impossible to find remnants, let alone complete artifacts from the past in this field, though I have my suspicions.
+
+What little information I have uncovered are cases of destruction or disposal of anything related to Magicka. A good example is the events following the Oblivion Crisis, where magick and magick users were blamed for the events, rather than where blame belonged. Mehrunes Dagon and his followers.
+
+That said, I suspect that over time, and especially after the Oblivion Crisis, many of these priceless and ancient artifacts were either hidden well, or simply destroyed out of misdirected fear.
+[pagebreak]
+
+Thankfully, I have located one intact tool, known as an Enchanting Font. Though the method of enchantment is different, the end result is similar to modern day enchantments.
+
+The Font seems to imbue the item with its energy by using a liquid conduit. You essentially soak both the item and a filled Soul Stone in the font, and from there conduct the enchantment like you would on modern day stations.
+[pagebreak]
+
+I have stored the Font at the College of Winterhold for safe keeping, where I can be sure of its safety in a world so ready to destroy knowledge out of fear. To keep students from tampering with or damaging it, I have made sure it is safely packed away in a dusty corner of the school where students seldom, if ever, go.
+
+As much as I would love to keep this discovery with me, my travels prevent me from such luxuries. The only person I told about the Font was Arch-Mage Deneth, seeing how he is about the only person I trust with such a priceless artifact. He assured me that he would place the Font in a more proper location where it could be studied and kept safe once he handled other more important matters. I assume he means the current raging storms coming in from the Sea of Ghosts.
+[pagebreak]
+&lt;/font&gt;
+
+&lt;font face=&quot;$SkyrimBooks&quot; size=&quot;28&quot;&gt;
+[ Much of the rest of the journal is weathered or missing ]
+&lt;/font&gt;</Source>
+      <Dest>&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+付呪装置の進化
+
+付呪の研究を始めて以来、いくつもの付呪の方法や道具を発見してきた。
+
+長い年月をかけて付呪は進歩してきたが、どんなに歴史を研究したとしてもその起源ははっきりとはしていない。
+[pagebreak]
+
+付呪というものは長い年月をかけて進歩してきた。そのことは見つかった古文書からも明らかだ。
+
+かつてメイジギルドは透明化として知られる魔法を鎧や衣服に付呪する技術を持っていた。それを身につけていれば風景に溶け込むことができ、技能次第では完全に見えなくなることも可能にしたのだ！
+
+もちろん現在ではこの技術は失われている。しかし、ほかにも失われているものがあるのではいだろうか。
+[pagebreak]
+
+付呪の歴史を探るよりも難しいことは、それら付呪の祭壇を見つけることだ。なぜ見つからないのだろう。
+
+見つかったものといえば破壊または廃棄する場合のわずかな情報だけだ。オブリビオンの動乱の後糾弾された魔術師達、すなわちメエルーンズ・デイゴンとその信者達によるものだ。
+
+おそらくだが、オブリビオンの動乱以後そういった貴重な秘宝は隠されてしまったか、あるいは恐怖から破壊されてしまったのだろう。
+[pagebreak]
+
+幸いなことに、無傷な状態の付呪の泉として知られている秘宝を見つけることができた。方法は異なるが、現在の付呪と同じ結果をもたらすものだ。
+
+この泉はどうやら液体を使ってエネルギーをアイテムに込めるようだ。対象のアイテムと魂石を一緒に泉に沈めてから、通常の付呪と同じ手順を踏むのだ。
+[pagebreak]
+
+私はその泉を保護するために、ウィンターホールド大学へと持ち帰った。未知への恐怖から破壊されないようにするためだ。学生が触ったり壊したりしないよう、大学の隅にある倉庫に保管してある。
+
+しかしこの発見を保護しようと思うと、そう簡単には外出できない。そこでこの泉のことをアークメイジのデネスと相談した。彼はとても信頼できるからな。彼は快く、より安全で研究に適した場所に保管しておくと約束してくれた。まるで亡霊の海から嵐が来るような気分だ。
+[pagebreak]
+&lt;/font&gt;
+
+&lt;font face=&quot;$SkyrimBooks&quot; size=&quot;28&quot;&gt;
+[ あとはボロボロになっていて読めない ]
+&lt;/font&gt;</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_disenchant_letter</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>&lt;font face=&quot;$HandwrittenFont&quot;&gt;
+College of Winterhold,
+
+I have information related to a magickal device that I feel your college would be greatly interested in. A device that can cleanse magicka or alterations from items.
+
+I was part of a caravan that was transporting it and other merchandise north out of Cyrodiil, when we were assaulted by bandits.
+
+We were going to try and sell the artifact to your college once we got further north, but I figure if you kill those bandits in the recovery process, then the item is yours.
+
+Map information is enclosed.
+
+--A Friend</Source>
+      <Dest>&lt;font face=&quot;$HandwrittenFont&quot;&gt;
+ウィンターホールド大学
+
+私はあなた方が大いに興味を持つであろう魔術装置の情報を知っています。その装置は付呪されたアイテムを浄化したり変換することができるのです。
+
+私はキャラバンの一員で、それらの商品をシロディールから北方へと輸送している時に盗賊に襲われてしまったのです。
+
+もともと私達はさらに北へ進みこれらの商品を大学へ販売するつもりでしたが、盗賊を退治して取り戻してくれるのならばそれらのアイテムはお譲りします。
+
+場所の情報も添えておきます。
+
+――友より</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_sgde_quest</EDID>
+      <REC id="0">QUST:CNAM</REC>
+      <Source>I found a book in the College of Winterhold&apos;s library, which made reference to a special orb that could dispel Soul Gems to wipe them clean without destroying them. It mentioned a Dwemer city of Blackreach. If I could find this city, the Orb may still be inside</Source>
+      <Dest>ウィンターホールド大学の図書室で魂石を破壊せずに浄化することができる特殊な宝玉について書かれた本を見つけた。ブラックリーチというドゥーマーの街について記されていた。その街にはまだ宝玉が眠っているかもしれない。</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_sgde_quest</EDID>
+      <REC id="1">QUST:CNAM</REC>
+      <Source>Now that I&apos;ve found Blackreach, I should check the various ruins in the city for signs of the Orb of Dispulsion. I have a lot of ground to cover, but if that Orb is anywhere in Blackreach, I will find it</Source>
+      <Dest>ついにブラックリーチを見つけたからには、浄化の宝玉の魂石を探すべきだろう。ここはとても広いが、宝玉がブラックリーチにあるのなら見つかると思う。</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_sgde_quest</EDID>
+      <REC id="2">QUST:CNAM</REC>
+      <Source>After a long, extensive search of the ancient underground city of Blackreach, I finally found the Orb of Dispulsion. A shame so much of the Dwemer&apos;s secrets are lost to the ages. Perhaps in time, and after I get my fair use out of it, this Orb can be studied and it&apos;s secrets unlocked.</Source>
+      <Dest>ブラックリーチの地下古代都市を探索して、ついに浄化の宝玉を見つけた。残念なことにドゥーマーの秘密の多くは失われてしまっている。いつか宝玉は研究され秘密は解き明かされるだろう。</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_disenchant_quest</EDID>
+      <REC id="0">QUST:CNAM</REC>
+      <Source>A courier approached me in town and handed me a letter. He had no information on who sent it, but it seems to be addressed to anyone within the College of Winterhold.</Source>
+      <Dest>配達人が手紙を届けてきた。差出人は不明だが、ウィンターホールド大学宛てのようだ。</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_disenchant_quest</EDID>
+      <REC id="1">QUST:CNAM</REC>
+      <Source>The letter mentioned a caravan that was sacked by a group of bandits along the road and an artifact they had been transporting to the college before the attack. The letter also stated the artifact is a gift to the college, if the bandits at &lt;Alias=Location&gt; are dealt with in the recovery process.</Source>
+      <Dest>手紙にはキャラバンが大学へ輸送中に盗賊に奪われた秘法について記されていた。さらに、&lt;Alias=Location&gt; の盗賊を退治して秘法を奪還した暁には、秘法を大学へ寄贈するとも書かれていた。</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_disenchant_quest</EDID>
+      <REC id="2">QUST:CNAM</REC>
+      <Source>The bandits have been dealt with and the Font of Disenchantment has been recovered. Hopefully the souls of their victims can now find peace.</Source>
+      <Dest>盗賊を退治して解呪の泉を取り戻した。これで犠牲となった者も安らげるだろう。</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_enchantfont_quest</EDID>
+      <REC id="0">QUST:CNAM</REC>
+      <Source>I found a book in the College of Winterhold&apos;s library, which made reference to some old enchanting equipment that may still be stored somewhere here in the College. It may be the last style of it&apos;s kind, and it&apos;d be a shame to let it just collect dust in some old storage room.</Source>
+      <Dest>ウィンターホールド大学の図書室である本を見つけた。大学のどこかにある古い付呪設備について書かれているようだ。最後に確認されたときは倉庫で埃を被っていたようだ。</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_enchantfont_quest</EDID>
+      <REC id="1">QUST:CNAM</REC>
+      <Source>Hidden and nearly forgotten in the Midden, I located the old Enchantment Font. It seems to have the same capabilities as modern enchanting stations, but uses a different and seemingly forgotten method of enchanting items.</Source>
+      <Dest>ミッデンの忘れ去られ用とする場所で付呪の泉を見つけた。現在の付呪と同じ機能があるようだが、異なる失われた技法を使うようだ。</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_dwecube_quest</EDID>
+      <REC id="0">QUST:CNAM</REC>
+      <Source>I came across an old journal by Calcelmo&apos;s workstation in Markarth that talked about a Transmutation Cube that could transmute similar items into greater quality counterparts. Such as improving the purity of gems. It should be somewhere in Nchuand-Zel, but first I need to gain entry into the old Dwemer Ruin</Source>
+      <Dest>カルセルモの作業場で古い日記を見つけた。その日記にはトランスミューテーション・キューブと呼ばれるアイテムをより質の良いもに変化させるアイテムについて書かれていた。それはヌチュアンド・ゼルにあるようだが、まずはドゥーマーの遺跡に入れるか交渉してみなければ。</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_dwecube_quest</EDID>
+      <REC id="1">QUST:CNAM</REC>
+      <Source>I&apos;ve unlocked the ruins of Nchuand-Zel, and the Transmutation Cube should be somewhere inside. The journal mentioned using an old control room as a camp, so I should keep my eyes open for that area</Source>
+      <Dest>ヌチュアンド・ゼル遺跡へ入った。どこかにトランスミューテーション・キューブがあるはずだ。日記によれば古い制御室を野営地としていたようだ。その辺りを探索してみよう。</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_dwecube_quest</EDID>
+      <REC id="2">QUST:CNAM</REC>
+      <Source>After delving the depths of Nchuand-Zel, I&apos;ve recovered the Transmutation Cube. This artifact should prove invaluable to me.</Source>
+      <Dest>ヌチュアンド・ゼルの深部でトランスミューテーション・キューブを手に入れた。この秘宝はとても貴重なものだ。</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_pcrafting_menumoving</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Select which axis you wish to move</Source>
+      <Dest>移動させたい方向を選択してください</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_pcrafting_menuoptions</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Pickup or adjust position.</Source>
+      <Dest>回収または位置調整</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_pcrafting_menuangle</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Adjust the selected axis by 5 degrees</Source>
+      <Dest>選択した方向へ5度ずつ回転させます</Dest>
+    </String>
+    <String List="1">
+      <EDID>solar_pcrafting_menucontainer</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Activate the Imbuing Chamber?</Source>
+      <Dest>浸透室を作動させますか？</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
