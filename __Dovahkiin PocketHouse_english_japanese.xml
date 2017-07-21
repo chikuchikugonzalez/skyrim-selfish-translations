@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>__Dovahkiin PocketHouse.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>zzzPocketHouseTeleport</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Pocket House</Source>
+      <Dest>ポケットハウス</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzPocketHouseITM</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Pocket House</Source>
+      <Dest>ポケットハウス</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzPocketHousePeltContainer</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Pelt</Source>
+      <Dest>毛皮</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzPocketHouseWeaponContainer</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Weapon</Source>
+      <Dest>武器</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzPocketHouseAlchBox</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Ingredient</Source>
+      <Dest>材料</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzPockethouseFoodContainer</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Food</Source>
+      <Dest>食料</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzPocketHouseFoodBascket</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Bascket</Source>
+      <Dest>かご</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzPocketHouseSoulgemChest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Soulgem</Source>
+      <Dest>魂石</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzPocketHouseSmithContainer</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Smithing</Source>
+      <Dest>鍛冶</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzPockethouseNobleChest01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Chest</Source>
+      <Dest>宝箱</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzPocketHouseSackLarge</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Large Sack</Source>
+      <Dest>大きな袋</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzPocketHouseKnapsack</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Knapsack</Source>
+      <Dest>ナップサック</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzPocketHouseUpperChest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Chest</Source>
+      <Dest>宝箱</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzPockethouseBookCase01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Bookcase</Source>
+      <Dest>書棚</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzPocketHouseNightTable01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>End Table</Source>
+      <Dest>エンド・テーブル</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzPocketHouseLargeChest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Chest</Source>
+      <Dest>宝箱</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzCraftingBlacksmithAnvilSkyForge</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Anvil</Source>
+      <Dest>金床</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSitCrossLegged</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Sit</Source>
+      <Dest>座る</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzPocketHouse</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Pocket House</Source>
+      <Dest>ポケットハウス</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
