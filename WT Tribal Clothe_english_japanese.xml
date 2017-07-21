@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>WT Tribal Clothe.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>Tribal Clothe Top</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tribal Clothe Top</Source>
+      <Dest>トライバルトップス</Dest>
+    </String>
+    <String List="0">
+      <EDID>Tribal Clothe Skirt</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tribal Clothe Skirt</Source>
+      <Dest>トライバルスカート</Dest>
+    </String>
+    <String List="0">
+      <EDID>Tribal Barrel</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Tribal Barrel</Source>
+      <Dest>民族の樽</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
