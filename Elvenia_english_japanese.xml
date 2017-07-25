@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Elvenia.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>00ElveniaGauntlets</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Elvenia - Gauntlets</Source>
+      <Dest>エルフニアの篭手</Dest>
+    </String>
+    <String List="0">
+      <EDID>00ElveniaBoots</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Elvenia - Boots</Source>
+      <Dest>エルフニアのブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>00ElveniaBody</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Elvenia - Body</Source>
+      <Dest>エルフニアの鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>00ElveniaEarrings</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Elvenia - Earrings</Source>
+      <Dest>エルフニアの耳飾り</Dest>
+    </String>
+    <String List="0">
+      <EDID>00ElveniaCirclet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Elvenia - Circlet</Source>
+      <Dest>エルフニアのサークレット</Dest>
+    </String>
+    <String List="0">
+      <EDID>0ElveniaBow</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Elvenia - Bow</Source>
+      <Dest>エルフニアの弓</Dest>
+    </String>
+    <String List="0">
+      <EDID>0ElveniaArrowQuiver</EDID>
+      <REC>AMMO:FULL</REC>
+      <Source>Elvenia - Arrow</Source>
+      <Dest>エルフニアの矢</Dest>
+    </String>
+    <String List="0">
+      <EDID>0ElveniaArrowProjectile</EDID>
+      <REC>PROJ:FULL</REC>
+      <Source>Elvenia - Arrow</Source>
+      <Dest>エルフニアの矢</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
