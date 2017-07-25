@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Ebokini.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>00EBoots</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Ebokini - Boots</Source>
+      <Dest>エボキニのブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>00EScarf</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Ebokini - Scarf</Source>
+      <Dest>エボキニのスカーフ</Dest>
+    </String>
+    <String List="0">
+      <EDID>00EMask</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Ebokini - Mask</Source>
+      <Dest>エボキニのマスク</Dest>
+    </String>
+    <String List="0">
+      <EDID>00EBody</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Ebokini - Body</Source>
+      <Dest>エボキニの鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>00EGauntlets</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Ebokini - Gauntlets</Source>
+      <Dest>エボキニの篭手</Dest>
+    </String>
+    <String List="0">
+      <EDID>00EEarrings</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Ebokini - Earrings</Source>
+      <Dest>エボキニの耳飾り</Dest>
+    </String>
+    <String List="0">
+      <EDID>0EbokiniCrossbow</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Crossbow of Ebokini</Source>
+      <Dest>エボキニのクロスボウ</Dest>
+    </String>
+    <String List="0">
+      <EDID>0EbokiniBolt</EDID>
+      <REC>AMMO:FULL</REC>
+      <Source>Bolt of Ebokini</Source>
+      <Dest>エボキニのボルト</Dest>
+    </String>
+    <String List="1">
+      <EDID>0EbokiniBolt</EDID>
+      <REC>AMMO:DESC</REC>
+      <Source>Bolt made by Alduin Sperm.</Source>
+      <Dest>アルドゥインのスペルマから作られたボルト</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
