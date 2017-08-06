@@ -1,0 +1,431 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Gwelda Dawnguard Armor.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>DX_MAC_GweldaDawnguardHDT</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>DX_MAC_GweldaDawnguardHDT</Source>
+      <Dest>Gwelda Dawnguard HDT</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaDawnguardGauntlets</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gwelda Dawnguard Gauntlets</Source>
+      <Dest>ドーンガードの篭手</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaDawnguardTrousers</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gwelda Dawnguard Trousers</Source>
+      <Dest>ドーンガードのズボン</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaDawnguardArmlets</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gwelda Dawnguard Armlets</Source>
+      <Dest>ドーンガードの腕輪</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaDawnguardCloak</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gwelda Dawnguard Cloak</Source>
+      <Dest>ドーンガードのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaDawnguardArmor</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gwelda Dawnguard Cuirass</Source>
+      <Dest>ドーンガードのキュイラス</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaDawnguardBoots</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gwelda Dawnguard Boots</Source>
+      <Dest>ドーンガードのブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaDawnguardChoker</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gwelda Dawnguard Choker</Source>
+      <Dest>ドーンガードの首飾り</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaDawnguardUnderwear</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gwelda Dawnguard Underwear</Source>
+      <Dest>ドーンガードの下着</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaDawnguardCuisse</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gwelda Dawnguard Cuisse</Source>
+      <Dest>ドーンガードの佩楯</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaDawnguardHelmet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gwelda Dawnguard Helmet</Source>
+      <Dest>ドーンガードの兜</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaDawnguardManual</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Gwelda Dawnguard Crafting Manual</Source>
+      <Dest>ドーンガード装備製作の手引書</Dest>
+    </String>
+    <String List="0">
+      <EDID>RiftenBlacksmith</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>The Scorched Hammer</Source>
+      <Dest>灼熱の戦鎚</Dest>
+    </String>
+    <String List="1">
+      <EDID>DX_MAC_GweldaDawnguardManual</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page00.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+[pagebreak]
+
+
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;28&quot;&gt;Gwelda Dawnguard
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;Crafting Manual
+
+by
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;20&quot;&gt;Elsweyr Exotic Designs
+&amp;
+Caravan Association
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page01.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/H_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;elmet&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Corundum Ingot
+1 x Leather Strips
+1 x Steel Ingot
+1 x Leather
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Steel
+Armor: 9
+Weight: 3
+Value: 150
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page02.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;hoker&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Leather Strips
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Steel
+Armor: -
+Weight: 1
+Value: 75
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page03.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;uirass&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+2 x Corundum Ingot
+3 x Leather Strips
+2 x Steel Ingot
+1 x Leather
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Steel
+Armor: 30
+Weight: 15
+Value: 300
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page04.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;loak&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+2 x Leather Strips
+4 x Leather
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Steel
+Armor: 4
+Weight: 3
+Value: 100
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page05.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/A_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;rmlets&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Corundum Ingot
+1 x Leather Strips
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Steel
+Armor: 2
+Weight: 2
+Value: 75
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page06.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/G_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;auntlets&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Corundum Ingot
+1 x Leather Strips
+2 x Steel Ingot
+1 x Leather
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Steel
+Armor: 9
+Weight: 3
+Value: 150
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page07.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/T_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;rousers&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Leather Strips
+1 x Steel Ingot
+2 x Leather
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Steel
+Armor: 2
+Weight: 2
+Value: 75
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page08.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;uisse&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Leather Strips
+1 x Steel Ingot
+2 x Leather
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Steel
+Armor: 2
+Weight: 2
+Value: 75
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page09.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/U_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ndrewear&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Leather Strips
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Steel
+Armor: -
+Weight: -
+Value: 50
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page10.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;oots&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Corundum Ingot
+2 x Leather Strips
+2 x Steel Ingot
+2 x Leather
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Steel
+Armor: 9
+Weight: 3
+Value: 150
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page11.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page12.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page13.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page14.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page15.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page16.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;</Source>
+      <Dest>&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page00.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+[pagebreak]
+
+
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;28&quot;&gt;ドーンガード装備
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;製作の手引書
+
+著
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;20&quot;&gt;エルスウェーア・エキゾチック・デザイン
+&amp;
+キャラバン協会
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page01.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/H_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;elmet&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 鋼玉のインゴット
+1 x 革ひも
+1 x 鋼鉄のインゴット
+1 x 革
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: 鋼鉄
+防御: 9
+重量: 3
+金額: 150
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page02.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;hoker&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 革ひも
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: 鋼鉄
+防御: -
+重量: 1
+金額: 75
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page03.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;uirass&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+2 x 鋼玉のインゴット
+3 x 革ひも
+2 x 鋼鉄のインゴット
+1 x 革
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: 鋼鉄
+防御: 30
+重量: 15
+金額: 300
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page04.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;loak&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+2 x 革ひも
+4 x 革
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: 鋼鉄
+防御: 4
+重量: 3
+金額: 100
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page05.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/A_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;rmlets&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 鋼玉のインゴット
+1 x 革ひも
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: 鋼鉄
+防御: 2
+重量: 2
+金額: 75
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page06.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/G_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;auntlets&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 鋼玉のインゴット
+1 x 革ひも
+2 x 鋼鉄のインゴット
+1 x 革
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: 鋼鉄
+防御: 9
+重量: 3
+金額: 150
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page07.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/T_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;rousers&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 革ひも
+1 x 鋼鉄のインゴット
+2 x 革
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: 鋼鉄
+防御: 2
+重量: 2
+金額: 75
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page08.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;uisse&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 革ひも
+1 x 鋼鉄のインゴット
+2 x 革
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: 鋼鉄
+防御: 2
+重量: 2
+金額: 75
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page09.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/U_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ndrewear&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 革ひも
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: 鋼鉄
+防御: -
+重量: -
+金額: 50
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page10.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;oots&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 鋼玉のインゴット
+2 x 革ひも
+2 x 鋼鉄のインゴット
+2 x 革
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: Steel
+防御: 9
+重量: 3
+金額: 150
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page11.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page12.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page13.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page14.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page15.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaDawnguard/page16.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

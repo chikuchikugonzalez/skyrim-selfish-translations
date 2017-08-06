@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Gwelda Red Riding Hood.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" Partial="2">
+      <EDID>DX_MAC_GweldaRedHood04</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Gwelda Red Hood HDT</Source>
+      <Dest>Gwelda Red Hood HDT</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaRedHoodPantyWhite</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gwelda Red Riding Hood Panty White</Source>
+      <Dest>赤ずきんのパンティ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaRedHoodDress</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gwelda Red Riding Hood Dress</Source>
+      <Dest>赤ずきんのドレス</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaRedHoodPantyRed</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gwelda Red Riding Hood Panty Red</Source>
+      <Dest>赤ずきんのパンティ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaRedHoodPantyBlack</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gwelda Red Riding Hood Panty Black</Source>
+      <Dest>赤ずきんのパンティ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaRedHoodBoots</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gwelda Red Riding Hood Boots</Source>
+      <Dest>赤ずきんのブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaRedHoodBracers</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gwelda Red Riding Hood Bracers</Source>
+      <Dest>赤ずきんの腕当て</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaRedHoodHoodEmpty</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gwelda Red Riding Hood Empty</Source>
+      <Dest>赤ずきんのフード</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaRedHoodHoodNightShade</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gwelda Red Riding Hood Nightshade</Source>
+      <Dest>赤ずきんのフード</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaRedHoodHoodDragonsTongue</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gwelda Red Riding Hood Dragon&apos;s Tongue</Source>
+      <Dest>赤ずきんのフード</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaRedHoodHoodSnowberry</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gwelda Red Riding Hood Snowberry</Source>
+      <Dest>赤ずきんのフード</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaRedHoodSocksBlack</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gwelda Red Riding Hood Socks Black</Source>
+      <Dest>赤ずきんの靴下</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaRedHoodSocksRed</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gwelda Red Riding Hood Socks Red</Source>
+      <Dest>赤ずきんの靴下</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaRedHoodCloak</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gwelda Red Riding Hood Cloak</Source>
+      <Dest>赤ずきんのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaRedHoodPantyhose</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Gwelda Red Riding Hood Pantyhose</Source>
+      <Dest>赤ずきんのパンティストッキング</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_GweldaRedHoodManual</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Gwelda Red Riding Hood Crafting Manual</Source>
+      <Dest>赤ずきんの衣装製作の手引書</Dest>
+    </String>
+    <String List="0">
+      <EDID>WhiterunArcadiasCauldron</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Arcadia&apos;s Cauldron</Source>
+      <Dest>アルカディアの大ガマ</Dest>
+    </String>
+    <String List="1">
+      <EDID>DX_MAC_GweldaRedHoodManual</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page00.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+[pagebreak]
+
+
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;28&quot;&gt;Gwelda (Little) Red Riding Hood
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;Crafting Manual
+
+by
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;20&quot;&gt;Elsweyr Exotic Designs
+&amp;
+Caravan Association
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page01.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/H_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;oods&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Dragon&apos;s Tongue (Blonde)
+1 x Snowberries (Redhair)
+1 x Nightshade (Brunette)
+1 x Tundra Cotton
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Elven
+Armor: 12
+Weight: 1
+Value: 60
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page02.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;loak&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+2 x Tundra Cotton
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Elven
+Armor: 3
+Weight: 1
+Value: 20
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page03.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/D_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ress&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+8 x Red Mountain Flowers
+4 x Tundra Cotton
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Elven
+Armor: 26
+Weight: 4
+Value: 125
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page04.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;racers&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+2 x Red Mountain Flowers
+2 x Tundra Cotton
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Elven
+Armor: 7
+Weight: 1
+Value: 25
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page05.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/P_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;anties&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Tundra Cotton
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Elven
+Armor: 0
+Weight: 0
+Value: 10
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page06.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ocks &amp; Pantyhose&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+18 x Red Mountain Flowers (Red Socks)
+2 x Tundra Cotton
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Elven
+Armor: 0
+Weight: 0
+Value: 15
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page07.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;oots&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+2 x Leather
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Elven
+Armor: 7
+Weight: 1
+Value: 25
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page08.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page09.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page10.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page11.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page12.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page13.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page14.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page15.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page16.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page17.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page18.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page19.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page20.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page21.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page22.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page23.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+</Source>
+      <Dest>&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page00.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+[pagebreak]
+
+
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;28&quot;&gt;赤ずきん(ちゃん)の衣装
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;製作の手引書
+
+著
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;20&quot;&gt;エルスウェーア・エキゾチック・デザイン
+&amp;
+キャラバン協会
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page01.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/H_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;oods&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x リュウノシタ (ブロンド)
+1 x スノーベリー (赤毛)
+1 x ベラドンナ (ブルネット)
+1 x ツンドラの綿
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: エルフ
+防御: 12
+重量: 1
+金額: 60
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page02.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;loak&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+2 x ツンドラの綿
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: エルフ
+防御: 3
+重量: 1
+金額: 20
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page03.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/D_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ress&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+8 x 山の赤い花
+4 x ツンドラの綿
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+文類: エルフ
+防御: 26
+重量: 4
+金額: 125
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page04.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;racers&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+2 x 山の赤い花
+2 x ツンドラの綿
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: エルフ
+防御: 7
+重量: 1
+金額: 25
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page05.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/P_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;anties&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x ツンドラの綿
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: エルフ
+防御: 0
+重量: 0
+金額: 10
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page06.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ocks &amp; Pantyhose&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+18 x 山の赤い花 (赤染の靴下)
+2 x ツンドラの綿
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: エルフ
+防御: 0
+重量: 0
+金額: 15
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page07.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;oots&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+2 x 革
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: エルフ
+防御: 7
+重量: 1
+金額: 25
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page08.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page09.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page10.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page11.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page12.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page13.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page14.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page15.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page16.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page17.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page18.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page19.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page20.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page21.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page22.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/GweldaRedHood/page23.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
