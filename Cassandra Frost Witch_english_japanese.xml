@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Cassandra Frost Witch.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" Partial="2">
+      <EDID>DX_MAC_CassandraWitch04</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Cassandra Frost Witch HDT</Source>
+      <Dest>Cassandra Frost Witch HDT</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CassandraWitchHatMedium</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cassandra Frost Witch Hat Medium</Source>
+      <Dest>氷の魔女の帽子</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CassandraWitchHatSmall</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cassandra Frost Witch Hat Small</Source>
+      <Dest>氷の魔女の小さな帽子</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CassandraWitchLegWraps2</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cassandra Frost Witch Leg Wraps</Source>
+      <Dest>氷の魔女のストッキング</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CassandraWitchLegWraps1</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cassandra Frost Witch Leg Wraps</Source>
+      <Dest>氷の魔女のストッキング</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CassandraWitchAmulet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cassandra Frost Witch Amulet</Source>
+      <Dest>氷の魔女のアミュレット</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CassandraWitchCloak</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cassandra Frost Witch Cloak</Source>
+      <Dest>氷の魔女のマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CassandraWitchRobe</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cassandra Frost Witch Robe</Source>
+      <Dest>氷の魔女のローブ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CassandraWitchBoots</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cassandra Frost Witch Boots</Source>
+      <Dest>氷の魔女のブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CassandraWitchBracers</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cassandra Frost Witch Bracers</Source>
+      <Dest>氷の魔女の腕当て</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CassandraWitchHatLarge</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cassandra Frost Witch Hat Large</Source>
+      <Dest>氷の魔女の大きな帽子</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CassandraWitchBody</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cassandra Frost Witch Body</Source>
+      <Dest>氷の魔女の肢体</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CassandraWitchSkirt</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cassandra Frost Witch Skirt</Source>
+      <Dest>氷の魔女のスカート</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CassandraWitchManual</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Cassandra Frost Witch Crafting Manual</Source>
+      <Dest>氷の魔女の衣装製作の手引書</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CassandraWitchSack</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Small Sack</Source>
+      <Dest>小さな袋</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CassandraWitchStaffIce</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Cassandra Frost Witch Staff</Source>
+      <Dest>氷の魔女の杖</Dest>
+    </String>
+    <String List="0">
+      <EDID>WinterholdCollegeMidden01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>The Midden</Source>
+      <Dest>ミッデン</Dest>
+    </String>
+    <String List="1">
+      <EDID>DX_MAC_CassandraWitchManual</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page00.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+[pagebreak]
+
+
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;28&quot;&gt;Cassandra Frost Witch
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;Crafting Manual
+
+by
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;20&quot;&gt;Elsweyr Exotic Designs
+&amp;
+Caravan Association
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page01.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;taff&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+2 x Ice Wraith Teeth
+1 x Human Skull
+3 x Firewood
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Elven
+Enchant: Ice Storm
+Weight: 4
+Value: 666
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page02.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/H_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;at&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+2 x Tundra Cotton
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Elven
+Armor: 12
+Weight: 1
+Value: 25
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page03.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/A_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;mulet&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Leather Strips
+1 x Silver Ingot
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Elven
+Weight: 0.3
+Value: 40
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page04.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;loak&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+4 x Tundra Cotton
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Elven
+Armor: 3
+Weight: 2
+Value: 25
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page05.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/R_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;obe&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+4 x Tundra Cotton
+8 x Leather Strips
+1 x Gold Ingot
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Elven
+Armor: 26
+Weight: 4
+Value: 125
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page06.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;racers&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+2 x Tundra Cotton
+1 x Gold Ingot
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Elven
+Armor: 7
+Weight: 1
+Value: 50
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page07.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;kirt&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+4 x Tundra Cotton
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Elven
+Armor: 3
+Weight: 2
+Value: 25
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page08.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/L_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;egwraps&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Leather Strips
+1 x Silver Ingot
+1 x Gold Ingot
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Elven
+Weight: 1
+Value: 75
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page09.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;oots&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+2 x Tundra Cotton
+1 x Ice Wraith Teeth
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Elven
+Armor: 7
+Weight: 1
+Value: 50
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page10.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page11.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page12.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page13.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page14.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page15.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page16.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page17.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page18.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page19.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page20.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page21.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page22.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page23.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page24.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page25.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page26.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page27.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page28.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page29.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page30.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page31.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page32.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page33.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page34.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page35.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page36.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page37.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page38.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page39.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page40.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page41.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page42.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page43.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page44.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page45.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;</Source>
+      <Dest>&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page00.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+[pagebreak]
+
+
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;28&quot;&gt;氷の魔女の衣装
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;製作の手引書
+
+著
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;20&quot;&gt;エルスウェーア・エキゾチック・デザイン
+&amp;
+キャラバン協会
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page01.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;taff&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+2 x 氷の生霊の歯
+1 x 頭蓋骨
+3 x 薪
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: エルフ
+付呪: アイスストーム
+重量: 4
+金額: 666
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page02.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/H_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;at&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+2 x ツンドラの綿
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: エルフ
+防御: 12
+重量: 1
+金額: 25
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page03.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/A_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;mulet&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 革ひも
+1 x 銀のインゴット
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: エルフ
+重量: 0.3
+金額: 40
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page04.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;loak&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+4 x ツンドラの綿
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: エルフ
+防御: 3
+重量: 2
+金額: 25
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page05.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/R_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;obe&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+4 x ツンドラの綿
+8 x 革ひも
+1 x 金のインゴット
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: エルフ
+防御: 26
+重量: 4
+金額: 125
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page06.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;racers&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+2 x ツンドラの綿
+1 x 金のインゴット
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: エルフ
+防御: 7
+重量: 1
+金額: 50
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page07.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;kirt&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+4 x ツンドラの綿
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: エルフ
+防御: 3
+重量: 2
+金額: 25
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page08.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/L_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;egwraps&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 革ひも
+1 x 銀のインゴット
+1 x 金のインゴット
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: エルフ
+重量: 1
+金額: 75
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page09.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;oots&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+2 x ツンドラの綿
+1 x 氷の生霊の歯
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: エルフ
+防御: 7
+重量: 1
+金額: 50
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page10.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page11.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page12.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page13.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page14.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page15.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page16.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page17.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page18.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page19.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page20.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page21.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page22.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page23.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page24.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page25.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page26.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page27.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page28.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page29.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page30.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page31.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page32.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page33.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page34.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page35.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page36.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page37.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page38.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page39.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page40.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page41.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page42.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page43.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page44.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CassandraWitch/page45.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

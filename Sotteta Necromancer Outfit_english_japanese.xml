@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Sotteta Necromancer Outfit.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>DX_SottetaNecro</EDID>
+      <REC>ENCH:FULL</REC>
+      <Source>Necromancer&apos;s Grip</Source>
+      <Dest>死霊魔術師の手</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaNecromancer04</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>DX_MAC_SottetaHDT</Source>
+      <Dest>Sotteta Necromancer HDT</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaNecromancerBootsHDTLight</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Necromancer Boots</Source>
+      <Dest>死霊魔術師のブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaNecromancerStockingsLight</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Necromancer Stockings</Source>
+      <Dest>死霊魔術師のストッキング</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaNecromancerGlovesLight</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Necromancer Gloves</Source>
+      <Dest>死霊魔術師の手袋</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaNecromancerScarfLight</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Necromancer Scarf</Source>
+      <Dest>死霊魔術師のスカーフ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaNecromancerDressLight</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Necromancer Dress</Source>
+      <Dest>死霊魔術師のドレス</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaNecromancerStockingsCloth</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Necromancer Stockings</Source>
+      <Dest>死霊魔術師のストッキング</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaNecromancerScarfCloth</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Necromancer Scarf</Source>
+      <Dest>死霊魔術師のスカーフ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaNecromancerGlovesCloth</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Necromancer Gloves</Source>
+      <Dest>死霊魔術師の手袋</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaNecromancerDressCloth</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Necromancer Dress</Source>
+      <Dest>死霊魔術師のドレス</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaNecromancerDressLightNE</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Necromancer Dress</Source>
+      <Dest>死霊魔術師のドレス</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaNecromancerDressClothNE</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Necromancer Dress</Source>
+      <Dest>死霊魔術師のドレス</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaNecromancerBootsHDTCloth</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Necromancer Boots</Source>
+      <Dest>死霊魔術師のブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaNecromancerManual</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Sotteta Necromancer Crafting Manual</Source>
+      <Dest>死霊魔術装束製作の手引書</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaNecromancerCraftingSupplies</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Sotteta Necromancer Crafting Supplies</Source>
+      <Dest>死霊魔術装束製作の資材</Dest>
+    </String>
+    <String List="0">
+      <EDID>AnisesCabin01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Cellar</Source>
+      <Dest>地下</Dest>
+    </String>
+    <String List="1">
+      <EDID>DX_MAC_SottetaNecromancerManual</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaNecromancer/page00.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+[pagebreak]
+
+
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;28&quot;&gt;Sotteta Necromancer
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;Crafting Manual
+
+by
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;20&quot;&gt;Elsweyr Exotic Designs
+&amp;
+Caravan Association
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaNecromancer/page01.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;carf&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Linen Wrap
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Weight: 1
+Base Value: 25
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaNecromancer/page02.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/D_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ress&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Linen Wrap
+4 x Leather Strips
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Weight: 4
+Base Value: 125
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaNecromancer/page03.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/G_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;loves&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Linen Wrap
+2 x Leather Strips
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Weight: 0.2
+Base Value: 25
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaNecromancer/page04.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;tockings&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Linen Wrap
+3 x Leather Strips
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Weight: 3
+Base Value: 25
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaNecromancer/page05.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;oots&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Linen Wrap
+2 x Leather Strips
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Weight: 2
+Base Value: 25
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaNecromancer/page06.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaNecromancer/page07.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+</Source>
+      <Dest>&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaNecromancer/page00.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+[pagebreak]
+
+
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;28&quot;&gt;死霊魔術装束
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;製作の手引書
+
+著
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;20&quot;&gt;エルスウェーア・エキゾチック・デザイン
+&amp;
+キャラバン協会
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaNecromancer/page01.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;carf&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x リネン・ラップ
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+重量: 1
+金額: 25
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaNecromancer/page02.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/D_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ress&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x リネン・ラップ
+4 x 革ひも
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+重量: 4
+金額: 125
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaNecromancer/page03.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/G_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;loves&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x リネン・ラップ
+2 x 革ひも
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+重量: 0.2
+金額: 25
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaNecromancer/page04.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;tockings&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x リネン・ラップ
+3 x 革ひも
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+重量: 3
+金額: 25
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaNecromancer/page05.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;oots&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x リネン・ラップ
+2 x 革ひも
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+重量: 2
+金額: 25
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaNecromancer/page06.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaNecromancer/page07.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
