@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Merta Black Rose Armor.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>DX_MAC_MertaBlackRose04</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>DX_MAC_MertaBlackRoseHDT</Source>
+      <Dest>Merta Black Rose HDT</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_MertaBlackRoseHelmet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Merta Black Rose Helmet</Source>
+      <Dest>黒き薔薇の兜</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_MertaBlackRoseBootsHDT</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Merta Black Rose Boots</Source>
+      <Dest>黒き薔薇のブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_MertaBlackRoseGloves</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Merta Black Rose Gauntlets</Source>
+      <Dest>黒き薔薇の篭手</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_MertaBlackRoseShoulders</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Merta Black Rose Shoulders</Source>
+      <Dest>黒き薔薇の肩当て</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_MertaBlackRoseStockings</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Merta Black Rose Socks</Source>
+      <Dest>黒き薔薇の靴下</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_MertaBlackRoseArmlets</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Merta Black Rose Armlets</Source>
+      <Dest>黒き薔薇の腕輪</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_MertaBlackRoseChoker</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Merta Black Rose Choker</Source>
+      <Dest>黒き薔薇の首輪</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_MertaBlackRoseTunic</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Merta Black Rose Cuirass</Source>
+      <Dest>黒き薔薇のキュイラス</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_MertaBlackRoseManual</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Merta Black Rose Crafting Manual</Source>
+      <Dest>黒き薔薇製作の手引書</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_MertaBlackRoseStaff</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Merta Black Rose Staff</Source>
+      <Dest>黒き薔薇の杖</Dest>
+    </String>
+    <String List="0">
+      <EDID>WinterholdCollegeHallofAttainment</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Hall of Attainment</Source>
+      <Dest>達成の間</Dest>
+    </String>
+    <String List="1">
+      <EDID>DX_MAC_MertaBlackRoseManual</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page00.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+[pagebreak]
+
+
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;28&quot;&gt;Merta Black Rose
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;Crafting Manual
+
+by
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;20&quot;&gt;Elsweyr Exotic Designs
+&amp;
+Caravan Association
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page01.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;taff&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+12 x Red Mountain Flower
+1 x Ebony Ingot
+3 x Firewood
+1 x Nirnroot
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Ebony
+Weight: 6
+Value: 2500
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page02.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/H_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;elmet&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Ebony Ingot
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Ebony
+Armor: 16
+Weight: 1
+Value: 100
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page03.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;hoker&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Ebony Ingot
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Jewelry
+Weight: 1
+Value: 100
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page04.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;uirass&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+3 x Leather Strips
+3 x Ebony Ingot
+1 x Leather
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Ebony
+Armor: 32
+Weight: 10
+Value: 1500
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page05.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;houlders&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+2 x Ebony Ingot
+2 x Leather Strips
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Ebony
+Armor: 8
+Weight: 3
+Value: 150
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page06.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/A_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;rmlets&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+2 x Leather Strips
+1 x Ebony Ingot
+1 x Leather
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Ebony
+Armor: 8
+Weight: 3
+Value: 150
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page07.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/G_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;auntlets&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+2 x Leather Strips
+2 x  Ebony Ingot
+1 x Leather
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Ebony
+Armor: 16
+Weight: 6
+Value: 275
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page08.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ocks&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Amulet of Mara
+2 x Leather Strips
+1 x Ebony Ingot
+2 x Leather
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Ebony
+Armor: 8
+Weight: 3
+Value: 150
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page09.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;oots&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+2 x Leather Strips
+2 x Ebony Ingot
+2 x Leather
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Ebony
+Armor: 16
+Weight: 6
+Value: 275
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page10.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page11.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page12.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page13.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page14.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page15.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page16.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page17.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page18.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page19.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page20.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page21.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page22.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page23.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page24.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page25.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;</Source>
+      <Dest>&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page00.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+[pagebreak]
+
+
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;28&quot;&gt;黒き薔薇
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;製作の手引書
+
+著
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;20&quot;&gt;エルスウェーア・エキゾチック・デザイン
+&amp;
+キャラバン協会
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page01.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;taff&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+12 x 山の赤い花
+1 x 黒檀のインゴット
+3 x 薪
+1 x ニルンルート
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: 黒檀
+重量: 6
+金額: 2500
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page02.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/H_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;elmet&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 黒檀のインゴット
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: 黒檀
+防御: 16
+重量: 1
+金額: 100
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page03.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;hoker&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 黒檀のインゴット
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: 宝飾品
+重量: 1
+金額: 100
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page04.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;uirass&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+3 x 革ひも
+3 x 黒檀のインゴット
+1 x 革
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: 黒檀
+防御: 32
+重量: 10
+金額: 1500
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page05.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;houlders&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+2 x 黒檀のインゴット
+2 x 革ひも
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: 黒檀
+防御: 8
+重量: 3
+金額: 150
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page06.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/A_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;rmlets&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+2 x 革ひも
+1 x 黒檀のインゴット
+1 x 革
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: 黒檀
+防御: 8
+重量: 3
+金額: 150
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page07.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/G_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;auntlets&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+2 x 革ひも
+2 x 黒檀のインゴット
+1 x 革
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: 黒檀
+防御: 16
+重量: 6
+金額: 275
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page08.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ocks&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x マーラのアミュレット
+2 x 革ひも
+1 x 黒檀のインゴット
+2 x 革
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: 黒檀
+防御: 8
+重量: 3
+金額: 150
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page09.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;oots&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+2 x 革ひも
+2 x 黒檀のインゴット
+2 x 革
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: 黒檀
+防御: 16
+重量: 6
+金額: 275
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page10.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page11.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page12.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page13.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page14.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page15.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page16.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page17.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page18.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page19.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page20.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page21.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page22.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page23.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page24.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/MertaBlackRose/page25.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

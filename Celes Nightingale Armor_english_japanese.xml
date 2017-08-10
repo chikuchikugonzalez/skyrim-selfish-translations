@@ -1,0 +1,583 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Celes Nightingale Armor.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>DX_MAC_ProjectilePoison</EDID>
+      <REC>ENCH:FULL</REC>
+      <Source>Poison Damage</Source>
+      <Dest>毒ダメージ</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>DX_MAC_CelesNightingale04</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Celes Nightingale High Heels</Source>
+      <Dest>Celes Nightingale High Heels</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleCuirass3</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Celes Nightingale Cuirass</Source>
+      <Dest>ナイチンゲールのキュイラス</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleCuirass2</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Celes Nightingale Cuirass</Source>
+      <Dest>ナイチンゲールのキュイラス</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleHood3</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Celes Nightingale Hood Dragon&apos;s Tongue</Source>
+      <Dest>ナイチンゲールのフード</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleStockings1</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Celes Nightingale Stockings</Source>
+      <Dest>ナイチンゲールのストッキング</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleHood4</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Celes Nightingale Hood Bleeding Crown</Source>
+      <Dest>ナイチンゲールのフード</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleCuirass5</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Celes Nightingale Cuirass</Source>
+      <Dest>ナイチンゲールのキュイラス</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleHood5</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Celes Nightingale Hood Luna Moth</Source>
+      <Dest>ナイチンゲールのフード</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleBellyPiercing</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Celes Nightingale Belly Piercing</Source>
+      <Dest>ナイチンゲールのピアス</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleStockings2</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Celes Nightingale Stockings</Source>
+      <Dest>ナイチンゲールのストッキング</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleHood2</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Celes Nightingale Hood Deathbell</Source>
+      <Dest>ナイチンゲールのフード</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleHood1</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Celes Nightingale Hood Hagraven</Source>
+      <Dest>ナイチンゲールのフード</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleBootsHDT</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Celes Nightingale Boots</Source>
+      <Dest>ナイチンゲールのブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleGauntlets</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Celes Nightingale Gauntlets</Source>
+      <Dest>ナイチンゲールの篭手</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleCuirass1</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Celes Nightingale Cuirass</Source>
+      <Dest>ナイチンゲールのキュイラス</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleHood</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Celes Nightingale Hood</Source>
+      <Dest>ナイチンゲールのフード</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleCuirass4</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Celes Nightingale Cuirass</Source>
+      <Dest>ナイチンゲールのキュイラス</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleManual</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Celes Nightingale Crafting Manual</Source>
+      <Dest>ナイチンゲール装備製作の手引書</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_Safe</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Safe</Source>
+      <Dest>金庫</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleCrossbow</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Celes Nightingale Crossbow</Source>
+      <Dest>ナイチンゲールのクロスボウ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleDagger</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Celes Nightingale Dagger</Source>
+      <Dest>ナイチンゲールのダガー</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleHaoma</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Celes Nightingale Haoma</Source>
+      <Dest>ナイチンゲールのハオーマ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleBow</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Celes Nightingale Bow</Source>
+      <Dest>ナイチンゲールの弓</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleCrossbowBolt</EDID>
+      <REC>AMMO:FULL</REC>
+      <Source>Celes Nightingale Bolt</Source>
+      <Dest>ナイチンゲールのボルト</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleBowArrowPoison</EDID>
+      <REC>AMMO:FULL</REC>
+      <Source>Celes Nightingale Poison Arrow</Source>
+      <Dest>ナイチンゲールの毒矢</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleBowArrow</EDID>
+      <REC>AMMO:FULL</REC>
+      <Source>Celes Nightingale Arrow</Source>
+      <Dest>ナイチンゲールの矢</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleCrossbowBoltPoison</EDID>
+      <REC>AMMO:FULL</REC>
+      <Source>Celes Nightingale Poison Bolt</Source>
+      <Dest>ナイチンゲールの毒ボルト</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleCrossbowProjectilePoison</EDID>
+      <REC>PROJ:FULL</REC>
+      <Source>Celes Nightingale Poison Bolt</Source>
+      <Dest>ナイチンゲールの毒ボルト</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleBowArrowProjectilePoison</EDID>
+      <REC>PROJ:FULL</REC>
+      <Source>Celes Nightingale Poison Arrow</Source>
+      <Dest>ナイチンゲールの毒矢</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleBowArrowProjectile</EDID>
+      <REC>PROJ:FULL</REC>
+      <Source>Celes Nightingale Arrow</Source>
+      <Dest>ナイチンゲールの矢</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_CelesNightingaleCrossbowProjectile</EDID>
+      <REC>PROJ:FULL</REC>
+      <Source>Celes Nightingale Bolt</Source>
+      <Dest>ナイチンゲールのボルト</Dest>
+    </String>
+    <String List="0">
+      <EDID>SarethiFarm</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Sarethi Farm</Source>
+      <Dest>サレシ農場</Dest>
+    </String>
+    <String List="1">
+      <EDID>DX_MAC_CelesNightingaleManual</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page00.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+[pagebreak]
+
+
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;28&quot;&gt;Celes Nightingale
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;Crafting Manual
+
+by
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;20&quot;&gt;Elsweyr Exotic Designs
+&amp;
+Caravan Association
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page01.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/H_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;aoma&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+4 x Leather Strips
+3 x Ebony Ingot
+1 x Nirnroot
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Daedric
+Weight: 6
+Value: 1250
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page02.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/D_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;agger&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Ebony Ingot
+1 x Nirnroot
+1 x Leather
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Daedric
+Weight: 3
+Value: 750
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page03.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ow&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+2 x Leather Strips
+2 x Ebony Ingot
+3 x Firewood
+1 x Nirnroot
+3 x Leather
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Daedric
+Weight: 18
+Value: 2500
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page04.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;rossbow&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Leather Strips
+2 x Ebony Ingot
+1 x Nirnroot
+1 x Leather
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Daedric
+Weight: 21
+Value: 2500
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page05.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/H_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ood&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Ebony Ingot
+1 x Nirnroot
+2 x Leather
+1 x Color Ingredient
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Daedric
+Armor: 17
+Weight: 4
+Value: 750
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page06.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;uirass&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+2 x Leather Strips
+1 x Nirnroot
+8 x Leather
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Daedric
+Armor: 41
+Weight: 6
+Value: 1500
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page07.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;elly Piercing&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Ebony Ingot
+1 x Nirnroot
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Daedric
+Value: 150
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page08.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/G_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;auntlets&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+2 x Leather Strips
+1 x Ebony Ingot
+2 x Emerald
+1 x Nirnroot
+4 x Leather
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Daedric
+Armor: 11
+Weight: 3
+Value: 300
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page09.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;tockings&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+2 x Leather Strips
+1 x Nirnroot
+2 x Leather
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Daedric
+Armor: 2
+Weight: 1
+Value: 150
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page10.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;oots&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+2 x Leather Strips
+1 x  Ebony Ingot
+1 x Nirnroot
+4 x Leather
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Daedric
+Armor: 11
+Weight: 3
+Value: 300
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page11.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page12.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page13.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page14.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page15.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page16.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page17.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page18.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page19.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page20.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page21.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page22.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page23.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page24.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;</Source>
+      <Dest>&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page00.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+[pagebreak]
+
+
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;28&quot;&gt;ナイチンゲール装備
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;製作の手引書
+
+著
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;20&quot;&gt;エルスウェーア・エキゾチック・デザイン
+&amp;
+キャラバン協会
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page01.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/H_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;aoma&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+4 x 革ひも
+3 x 黒檀のインゴット
+1 x ニルンルート
+
+&lt;font size=&quot;22&quot;&gt;性能&lt;font size=&quot;12&quot;&gt;
+分類: デイドラ
+重量: 6
+金額: 1250
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page02.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/D_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;agger&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 黒檀のインゴット
+1 x ニルンルート
+1 x 革
+
+&lt;font size=&quot;22&quot;&gt;性能&lt;font size=&quot;12&quot;&gt;
+分類: デイドラ
+重量: 3
+金額: 750
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page03.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ow&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+2 x 革ひも
+2 x 黒檀のインゴット
+3 x 薪
+1 x ニルンルート
+3 x 革
+
+&lt;font size=&quot;22&quot;&gt;性能&lt;font size=&quot;12&quot;&gt;
+分類: デイドラ
+重量: 18
+金額: 2500
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page04.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;rossbow&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 革ひも
+2 x 黒檀のインゴット
+1 x ニルンルート
+1 x 革
+
+&lt;font size=&quot;22&quot;&gt;性能&lt;font size=&quot;12&quot;&gt;
+分類: デイドラ
+重量: 21
+金額: 2500
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page05.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/H_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ood&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 黒檀のインゴット
+1 x ニルンルート
+2 x 革
+1 x 各種染料
+
+&lt;font size=&quot;22&quot;&gt;性能&lt;font size=&quot;12&quot;&gt;
+分類: デイドラ
+防御: 17
+重量: 4
+金額: 750
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page06.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;uirass&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+2 x 革ひも
+1 x ニルンルート
+8 x 革
+
+&lt;font size=&quot;22&quot;&gt;性能&lt;font size=&quot;12&quot;&gt;
+分類: デイドラ
+防御: 41
+重量: 6
+金額: 1500
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page07.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;elly Piercing&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 黒檀のインゴット
+1 x ニルンルート
+
+&lt;font size=&quot;22&quot;&gt;性能&lt;font size=&quot;12&quot;&gt;
+分類: デイドラ
+金額: 150
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page08.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/G_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;auntlets&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+2 x 革ひも
+1 x 黒檀のインゴット
+2 x Emerald
+1 x ニルンルート
+4 x 革
+
+&lt;font size=&quot;22&quot;&gt;性能&lt;font size=&quot;12&quot;&gt;
+分類: デイドラ
+防御: 11
+重量: 3
+金額: 300
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page09.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;tockings&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+2 x 革ひも
+1 x ニルンルート
+2 x 革
+
+&lt;font size=&quot;22&quot;&gt;性能&lt;font size=&quot;12&quot;&gt;
+分類: デイドラ
+防御: 2
+重量: 1
+金額: 150
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page10.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;oots&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+2 x 革ひも
+1 x 黒檀のインゴット
+1 x ニルンルート
+4 x 革
+
+&lt;font size=&quot;22&quot;&gt;性能&lt;font size=&quot;12&quot;&gt;
+分類: デイドラ
+防御: 11
+重量: 3
+金額: 300
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page11.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page12.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page13.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page14.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page15.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page16.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page17.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page18.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page19.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page20.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page21.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page22.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page23.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/CelesNightingale/page24.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;</Dest>
+    </String>
+    <String List="1">
+      <EDID>DX_MAC_CelesNightingaleBowArrowPoison</EDID>
+      <REC>AMMO:DESC</REC>
+      <Source>Does 5 point of poison damage per second for 30 seconds.</Source>
+      <Dest>1秒当たり 5ポイントの毒ダメージを30秒間与える。</Dest>
+    </String>
+    <String List="1">
+      <EDID>DX_MAC_CelesNightingaleCrossbowBoltPoison</EDID>
+      <REC>AMMO:DESC</REC>
+      <Source>Does 5 point of poison damage per second for 30 seconds.</Source>
+      <Dest>1秒当たり 5ポイントの毒ダメージを30秒間与える。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

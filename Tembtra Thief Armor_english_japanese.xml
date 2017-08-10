@@ -1,0 +1,549 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Tembtra Thief Armor.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0" Partial="2">
+      <EDID>DX_MAC_Pouches</EDID>
+      <REC>ENCH:FULL</REC>
+      <Source>Tembtra Pouches</Source>
+      <Dest>Tembtra Pouches</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_TembtraThief04</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>DX_MAC_TembtraThiefHDT</Source>
+      <Dest>Tembtra Thief HDT</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_TembtraThiefStockingsB</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tembtra Thief Reinforced Trousers</Source>
+      <Dest>盗賊の強化型ズボン</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_TembtraThiefDressC</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tembtra Thief Corset Tunic</Source>
+      <Dest>盗賊のコルセット</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_TembtraThiefDressB</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tembtra Thief Reinforced Tunic</Source>
+      <Dest>盗賊の強化型チュニック</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_TembtraThiefArmlets</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tembtra Thief Armlets</Source>
+      <Dest>盗賊の腕輪</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_TembtraThiefBootsFlat</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tembtra Thief Boots</Source>
+      <Dest>盗賊のブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_TembtraThiefStockings</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tembtra Thief Trousers</Source>
+      <Dest>盗賊のズボン</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_TembtraThiefHood</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tembtra Thief Hood</Source>
+      <Dest>盗賊のフード</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_TembtraThiefDressD</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tembtra Thief Striphold Tunic</Source>
+      <Dest>盗賊のチューブトップ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_TembtraThiefBootsHDT</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tembtra Thief High Heel Boots</Source>
+      <Dest>盗賊のハイヒールブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_TembtraThiefGloves</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tembtra Thief Gloves</Source>
+      <Dest>盗賊の手袋</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_TembtraThiefDress</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tembtra Thief Tunic</Source>
+      <Dest>盗賊のチュニック</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_TembtraThiefBags</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tembtra Thief Pouches</Source>
+      <Dest>盗賊のポーチ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_TembtraThiefCollar</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tembtra Thief Collar</Source>
+      <Dest>盗賊の首輪</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_TembtraThiefManual</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Tembtra Thief Crafting Manual</Source>
+      <Dest>盗賊衣装製作の手引書</Dest>
+    </String>
+    <String List="0">
+      <EDID>RiftenThievesGuildHeadquarters</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>The Ragged Flagon - Cistern</Source>
+      <Dest>ラグド・フラゴン - 貯水池</Dest>
+    </String>
+    <String List="1">
+      <EDID>DX_MAC_TembtraThiefManual</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page00.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+[pagebreak]
+
+
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;28&quot;&gt;Tembtra Thief
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;Crafting Manual
+
+by
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;20&quot;&gt;Elsweyr Exotic Designs
+&amp;
+Caravan Association
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page01.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/H_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ood&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+3 x Leather
+3 x Leather Strips
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Scaled
+Armor: 14
+Weight: 2
+Value: 175
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page02.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ollar&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Leather
+1 x Leather Strips
+1 x Steel
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Scaled
+Weight: 0.5
+Value: 50
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page06.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;triphold Tunic&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Leather
+2 x Leather Strips
+1 x Steel
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Scaled
+Armor: 28
+Weight: 1
+Value: 150
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page05.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;orset Tunic&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Striphold Tunic
+2 x Leather
+2 x Leather Strips
+1 x Steel
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Scaled
+Armor: 32
+Weight: 4
+Value: 300
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page03.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/T_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;unic&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Corset Tunic
+1 x Leather
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Scaled
+Armor: 32
+Weight: 4
+Value: 350
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page04.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/R_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;einforced Tunic&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Tunic
+2 x Leather
+2 x Leather Strips
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Scaled
+Armor: 41
+Weight: 6
+Value: 700
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page07.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/P_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ouches&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Leather
+1 x Leather Strips
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Scaled
+Effect: +100 Carry Weight
+Weight: 0.5
+Value: 50
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page08.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/A_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;rmlets&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Leather
+2 x Leather Strips
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Scaled
+Armor: 3
+Weight: 0.5
+Value: 35
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page09.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/G_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;loves&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+2 x Leather
+2 x Leather Strips
+1 x Steel
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Scaled
+Armor: 9
+Weight: 1
+Value: 70
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page10.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/T_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;rousers&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+2 x Leather
+2 x Leather Strips
+1 x Steel
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Scaled
+Armor: 6
+Weight: 1
+Value: 70
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page11.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/R_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;einforced Trousers&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Trousers
+1 x Leather
+1 x Leather Strips
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Scaled
+Armor: 9
+Weight: 1.5
+Value: 140
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page12.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;oots&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+2 x Leather
+2 x Leather Strips
+1 x Steel
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Scaled
+Armor: 9
+Weight: 2
+Value: 70
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page13.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/H_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;igh Heel Boots&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+2 x Leather
+2 x Leather Strips
+2 x Steel
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Material: Scaled
+Armor: 12
+Weight: 3
+Value: 100
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page14.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page15.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page16.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page17.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page18.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page19.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page20.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page21.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page22.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page23.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;</Source>
+      <Dest>&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page00.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+[pagebreak]
+
+
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;28&quot;&gt;盗賊衣装
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;製作の手引書
+
+著
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;20&quot;&gt;エルスウェーア・エキゾチック・デザイン
+&amp;
+キャラバン協会
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page01.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/H_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ood&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+3 x 革
+3 x 革ひも
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: スケール
+防御: 14
+重量: 2
+金額: 175
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page02.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ollar&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 革
+1 x 革ひも
+1 x 鋼鉄のインゴット
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: スケール
+重量: 0.5
+金額: 50
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page06.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;triphold Tunic&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 革
+2 x 革ひも
+1 x 鋼鉄のインゴット
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: スケール
+防御: 28
+重量: 1
+金額: 150
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page05.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;orset Tunic&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x チューブトップ
+2 x 革
+2 x 革ひも
+1 x 鋼鉄のインゴット
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: スケール
+防御: 32
+重量: 4
+金額: 300
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page03.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/T_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;unic&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x コルセット
+1 x 革
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: スケール
+防御: 32
+重量: 4
+金額: 350
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page04.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/R_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;einforced Tunic&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x チュニック
+2 x 革
+2 x 革ひも
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: スケール
+防御: 41
+重量: 6
+金額: 700
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page07.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/P_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ouches&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 革
+1 x 革ひも
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: スケール
+効果: 持ち運び重量 +100
+重量: 0.5
+金額: 50
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page08.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/A_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;rmlets&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 革
+2 x 革ひも
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: スケール
+防御: 3
+重量: 0.5
+金額: 35
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page09.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/G_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;loves&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+2 x 革
+2 x 革ひも
+1 x 鋼鉄のインゴット
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: スケール
+防御: 9
+重量: 1
+金額: 70
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page10.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/T_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;rousers&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+2 x 革
+2 x 革ひも
+1 x 鋼鉄のインゴット
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: スケール
+防御: 6
+重量: 1
+金額: 70
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page11.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/R_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;einforced Trousers&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x Trousers
+1 x 革
+1 x 革ひも
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: スケール
+防御: 9
+重量: 1.5
+金額: 140
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page12.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;oots&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+2 x 革
+2 x 革ひも
+1 x 鋼鉄のインゴット
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: スケール
+防御: 9
+重量: 2
+金額: 70
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page13.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/H_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;igh Heel Boots&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+2 x 革
+2 x 革ひも
+2 x 鋼鉄のインゴット
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+分類: スケール
+防御: 12
+重量: 3
+金額: 100
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page14.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page15.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page16.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page17.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page18.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page19.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page20.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page21.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page22.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/TembtraThief/page23.png&apos; height=&quot;470&quot; width=&quot;296&quot;&gt;</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
