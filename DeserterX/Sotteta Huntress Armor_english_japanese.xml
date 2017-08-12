@@ -1,0 +1,873 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Sotteta Huntress Armor.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>DX_MAC_SottetaHuntress04</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>DX_MAC_GweldaHDT</Source>
+      <Dest>Sotteta Huntress HDT</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaHuntress13</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>DX_MAC_GweldaHDT</Source>
+      <Dest>Sotteta Huntress HDT</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaHuntressBootsHDT</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Huntress Boots</Source>
+      <Dest>女豹のブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaHuntressSocksB</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Huntress Socks B</Source>
+      <Dest>女豹の靴下</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaHuntressTrousers</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Huntress Trousers</Source>
+      <Dest>女豹のズボン</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaHuntressPanty</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Huntress Panty</Source>
+      <Dest>女豹のパンティ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaHuntressHelmet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Huntress Helmet</Source>
+      <Dest>女豹の兜</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaHuntressDressD</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Huntress Dress D</Source>
+      <Dest>女豹のドレス</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaHuntressBracers</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Huntress Bracers</Source>
+      <Dest>女豹の腕当て</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaHuntressSocksC</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Huntress Socks C</Source>
+      <Dest>女豹の靴下</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaHuntressStockingsA</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Huntress Stockings A</Source>
+      <Dest>女豹のストッキング</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaHuntressScarf</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Huntress Scarf</Source>
+      <Dest>女豹のスカーフ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaHuntressBootsPlatform</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Huntress Platform Boots</Source>
+      <Dest>女豹の厚底ブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaHuntressDressB</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Huntress Dress B</Source>
+      <Dest>女豹のドレス</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaHuntressStockingsB</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Huntress Stockings B</Source>
+      <Dest>女豹のストッキング</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaHuntressDressC</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Huntress Dress C</Source>
+      <Dest>女豹のドレス</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaHuntressDressA</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Huntress Dress A</Source>
+      <Dest>女豹のドレス</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaHuntressCollar</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Huntress Collar</Source>
+      <Dest>女豹の首輪</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaHuntressSocksA</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Huntress Socks A</Source>
+      <Dest>女豹の靴下</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaHuntressTrousersSandals</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Huntress Trousers with Sandals</Source>
+      <Dest>女豹のサンダル</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaHuntressThong</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Huntress Thong</Source>
+      <Dest>女豹のソング</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaHuntressStockingsSandals</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Sotteta Huntress Stockings with Sandals</Source>
+      <Dest>女豹のサンダル</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaHuntressManual</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Sotteta Huntress Crafting Manual</Source>
+      <Dest>女豹の装備製作の手引書</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_SottetaHuntressCraftingSupplies</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Sotteta Huntress Crafting Supplies</Source>
+      <Dest>女豹の装備製作の資材</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_Eclipse</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Eclipse</Source>
+      <Dest>イクリプス</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_BlackArrow</EDID>
+      <REC>AMMO:FULL</REC>
+      <Source>Black Arrow</Source>
+      <Dest>黒い矢</Dest>
+    </String>
+    <String List="0">
+      <EDID>DX_MAC_BlackArrowProjectile</EDID>
+      <REC>PROJ:FULL</REC>
+      <Source>Black Arrow</Source>
+      <Dest>黒い矢</Dest>
+    </String>
+    <String List="0">
+      <EDID>WhiterunDrunkenHuntsman</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>The Drunken Huntsman</Source>
+      <Dest>酔いどれハンツマン</Dest>
+    </String>
+    <String List="1">
+      <EDID>DX_MAC_SottetaHuntressManual</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page00.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+[pagebreak]
+
+
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;28&quot;&gt;Sotteta Huntress
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;Crafting Manual
+
+by
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;20&quot;&gt;Elsweyr Exotic Designs
+&amp;
+Caravan Association
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page01.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/T_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;he Eclipse&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Charcoal
+1 x Daedra Heart
+2 x Dragon Bone
+4 x Leather
+2 x Leather Strips
+1 x Nirnroot
+1 x Sabre Cat Pelt
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Base Damage: 19
+Critical Damage: 9
+Attack Speed: x2
+Weight: 18
+Base Value: 1333
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page02.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;lack Arrows x 100&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+3 x Firewood
+1 x Hagraven Feathers
+3 x Steel Ingot
+1x Nirnroot
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Damage: 24
+Effect: Silent
+Base Value: 800
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page03.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/D_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ress A&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Charcoal
+3 x Dragonscales
+3 x Leather
+3 x Leather Strips
+1 x Sabre Cat Pelt
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Base Armor: 41
+Weight: 3
+Base Value: 816
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page04.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/D_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ress B&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Charcoal
+3 x Dragonscales
+1 x Leather
+1 x Leather Strips
+1 x Sabre Cat Pelt
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Base Armor: 41
+Weight: 3
+Base Value: 790
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page05.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/D_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ress C&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Charcoal
+3 x Dragonscales
+2 x Leather
+4 x Leather Strips
+1 x Sabre Cat Pelt
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Base Armor: 41
+Weight: 3
+Base Value: 809
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page06.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/D_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ress D&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Charcoal
+3 x Dragonscales
+4 x Leather
+2 x Leather Strips
+1 x Sabre Cat Pelt
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Base Armor: 41
+Weight: 3
+Base Value: 823
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page07.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ollar&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Charcoal
+1 x Leather
+1 x Leather Strips
+1 x Tundra Cotton
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Base Value: 16
+Weight: 0.2
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page08.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;carf&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Charcoal
+4 x Tundra Cotton
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Base Value: 6
+Weight: 1
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page09.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;racers&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Charcoal
+1 x Dragonscales
+1 x Hagraven Feathers
+1 x Leather
+1 x Leather Strips
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Base Armor: 12
+Weight: 3
+Base Value: 285
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page10.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/T_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;rousers&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Charcoal
+2 x Dragonscales
+2 x Leather
+2 x Leather Strips
+1 x Sabre Cat Pelt
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Base Armor: 12
+Weight: 1.5
+Base Value: 553
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page11.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;tockings A&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Charcoal
+2 x Dragonscales
+2 x Leather
+2 x Leather Strips
+1 x Sabre Cat Pelt
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Base Armor: 12
+Weight: 1.5
+Base Value: 553
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page12.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;tockings B&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Charcoal
+2 x Dragonscales
+2 x Leather
+2 x Leather Strips
+1 x Sabre Cat Pelt
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Base Armor: 12
+Weight: 1.5
+Base Value: 553
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page13.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ocks A&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Charcoal
+2 x Dragonscales
+2 x Leather
+2 x Leather Strips
+1 x Sabre Cat Pelt
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Base Armor: 12
+Weight: 1.5
+Base Value: 553
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page14.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ocks B&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Charcoal
+2 x Dragonscales
+1 x Hagraven Feathers
+2 x Leather
+2 x Leather Strips
+1 x Sabre Cat Pelt
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Base Armor: 12
+Weight: 1.5
+Base Value: 573
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page15.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ocks C&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Charcoal
+2 x Dragonscales
+1 x Hagraven Feathers
+2 x Leather
+2 x Leather Strips
+1 x Sabre Cat Pelt
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Base Armor: 12
+Weight: 1.5
+Base Value: 573
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page16.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/P_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;anty&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Charcoal
+1 x Leather Strips
+1 x Sabre Cat Pelt
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Weight: 0.1
+Base Value: 37
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page17.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/T_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;hong&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Charcoal
+1 x Leather Strips
+1 x Leather
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Weight: 0.1
+Base Value: 15
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page18.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;oots&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Charcoal
+2 x Dragonscales
+2 x Leather Strips
+2 x Leather
+1 x Sabre Cat Pelt
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Base Armor: 12
+Weight: 3
+Base Value: 553
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page19.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/P_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;latform Boots&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Charcoal
+2 x Dragonscales
+2 x Firewood
+2 x Leather
+1 x Sabre Cat Pelt
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Base Armor: 12
+Weight: 3
+Base Value: 543
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page20.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;andals&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Charcoal
+2 x Dragonscales
+1 x Hagraven Feathers
+2 x Leather
+2 x Leather Strips
+1 x Sabre Cat Pelt
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Base Armor: 12
+Weight: 1.5
+Base Value: 573
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page21.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/I_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;nvisible Helmet&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;Materials:&lt;font size=&quot;12&quot;&gt;
+1 x Charcoal
+2 x Dragonscales
+2 x Leather
+2 x Leather Strips
+1 x Scroll of Invisibility
+
+&lt;font size=&quot;22&quot;&gt;Stats:&lt;font size=&quot;12&quot;&gt;
+Base Armor: 17
+Weight: 4
+Base Value: 778
+</Source>
+      <Dest>&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;&lt;p align=&quot;center&quot;&gt;&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page00.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+[pagebreak]
+
+
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;28&quot;&gt;女豹の装備
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;製作の手引書
+
+著
+
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;20&quot;&gt;エルスウェーア・エキゾチック・デザイン
+&amp;
+キャラバン協会
+&lt;font face=&quot;$handwrittenfont&quot;&gt;&lt;font size=&quot;18&quot;&gt;
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page01.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/T_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;he Eclipse&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 木炭
+1 x デイドラの心臓
+2 x ドラゴンの骨
+4 x 革
+2 x 革ひも
+1 x ニルンルート
+1 x サーベルキャットの毛皮
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+基礎ダメージ: 19
+追加ダメージ: 9
+攻撃スピード: x2
+重量: 18
+金額: 1333
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page02.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;lack Arrows x 100&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+3 x 薪
+1 x ハグレイヴンの羽
+3 x 鋼鉄のインゴット
+1 x ニルンルート
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+ダメージ: 24
+効果: 沈黙
+金額: 800
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page03.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/D_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ress A&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 木炭
+3 x ドラゴンの鱗
+3 x 革
+3 x 革ひも
+1 x サーベルキャットの毛皮
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+防御: 41
+重量: 3
+金額: 816
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page04.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/D_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ress B&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 木炭
+3 x ドラゴンの鱗
+1 x 革
+1 x 革ひも
+1 x サーベルキャットの毛皮
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+防御: 41
+重量: 3
+金額: 790
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page05.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/D_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ress C&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 木炭
+3 x ドラゴンの鱗
+2 x 革
+4 x 革ひも
+1 x サーベルキャットの毛皮
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+防御: 41
+重量: 3
+金額: 809
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page06.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/D_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ress D&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 木炭
+3 x ドラゴンの鱗
+4 x 革
+2 x 革ひも
+1 x サーベルキャットの毛皮
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+防御: 41
+重量: 3
+金額: 823
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page07.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/C_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ollar&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 木炭
+1 x 革
+1 x 革ひも
+1 x ツンドラの綿
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+金額: 16
+重量: 0.2
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page08.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;carf&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 木炭
+4 x ツンドラの綿
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+金額: 6
+重量: 1
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page09.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;racers&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 木炭
+1 x ドラゴンの鱗
+1 x ハグレイヴンの羽
+1 x 革
+1 x 革ひも
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+防御: 12
+重量: 3
+金額: 285
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page10.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/T_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;rousers&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 木炭
+2 x ドラゴンの鱗
+2 x 革
+2 x 革ひも
+1 x サーベルキャットの毛皮
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+防御: 12
+重量: 1.5
+金額: 553
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page11.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;tockings A&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 木炭
+2 x ドラゴンの鱗
+2 x 革
+2 x 革ひも
+1 x サーベルキャットの毛皮
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+防御: 12
+重量: 1.5
+金額: 553
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page12.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;tockings B&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 木炭
+2 x ドラゴンの鱗
+2 x 革
+2 x 革ひも
+1 x サーベルキャットの毛皮
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+防御: 12
+重量: 1.5
+金額: 553
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page13.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ocks A&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 木炭
+2 x ドラゴンの鱗
+2 x 革
+2 x 革ひも
+1 x サーベルキャットの毛皮
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+防御: 12
+重量: 1.5
+金額: 553
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page14.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ocks B&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 木炭
+2 x ドラゴンの鱗
+1 x ハグレイヴンの羽
+2 x 革
+2 x 革ひも
+1 x サーベルキャットの毛皮
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+防御: 12
+重量: 1.5
+金額: 573
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page15.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;ocks C&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 木炭
+2 x ドラゴンの鱗
+1 x ハグレイヴンの羽
+2 x 革
+2 x 革ひも
+1 x サーベルキャットの毛皮
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+防御: 12
+重量: 1.5
+金額: 573
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page16.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/P_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;anty&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 木炭
+1 x 革ひも
+1 x サーベルキャットの毛皮
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+重量: 0.1
+金額: 37
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page17.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/T_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;hong&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 木炭
+1 x 革ひも
+1 x 革
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+重量: 0.1
+金額: 15
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page18.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/B_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;oots&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 木炭
+2 x ドラゴンの鱗
+2 x 革ひも
+2 x 革
+1 x サーベルキャットの毛皮
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+防御: 12
+重量: 3
+金額: 553
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page19.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/P_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;latform Boots&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 木炭
+2 x ドラゴンの鱗
+2 x 薪
+2 x 革
+1 x サーベルキャットの毛皮
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+防御: 12
+重量: 3
+金額: 543
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page20.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/S_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;andals&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 木炭
+2 x ドラゴンの鱗
+1 x ハグレイヴンの羽
+2 x 革
+2 x 革ひも
+1 x サーベルキャットの毛皮
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+防御: 12
+重量: 1.5
+金額: 573
+[pagebreak]
+&lt;img src=&apos;img://Textures/DX/MiniArmorsCollection/Books/SottetaHuntress/page21.png&apos; height=&quot;470&quot; width=&quot;259&quot;&gt;
+
+&lt;img src=&apos;img://Textures/Interface/Books/Illuminated_Letters/I_letter.png&apos;&gt;&lt;font size=&quot;28&quot;&gt;nvisible Helmet&lt;font size=&quot;18&quot;&gt;
+
+&lt;font size=&quot;22&quot;&gt;材料:&lt;font size=&quot;12&quot;&gt;
+1 x 木炭
+2 x ドラゴンの鱗
+2 x 革
+2 x 革ひも
+1 x 透明化の巻物
+
+&lt;font size=&quot;22&quot;&gt;性能:&lt;font size=&quot;12&quot;&gt;
+防御: 17
+重量: 4
+金額: 778
+ </Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
