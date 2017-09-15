@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SakuSakuMSFollower.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>zzzSSMSFMerchantChest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Chest</Source>
+      <Dest>宝箱</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFHatch1Door</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Hatch</Source>
+      <Dest>ハッチ</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFBeamNaginata</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Beam Naginata</Source>
+      <Dest>ビームナギナタ</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFHeatSaberDomPlayer1hand</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Heat Saber Dom 1hand</Source>
+      <Dest>ヒートサーベル</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFBeamSabergyanPlayer</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Beam Saber Gyan</Source>
+      <Dest>ビームサーベル</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFHeatSaberDomPlayer</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Heat Saber Dom</Source>
+      <Dest>ヒートサーベル</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFBeamSabergyanPlayer1hand</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Beam Saber Gyan 1hand</Source>
+      <Dest>ビームサーベル</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFHeatHawkPlayer</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Heat Hawk</Source>
+      <Dest>ヒートホーク</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFHeatSaberGoufPlayer</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Heat Saber Gouf</Source>
+      <Dest>ヒートサーベル</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFBeamNaginataPlayer</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Beam Naginata</Source>
+      <Dest>ビームナギナタ</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFBeamSabergyan</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Beam Saber Gyan</Source>
+      <Dest>ビームサーベル</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFHeatHawk</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Heat Hawk</Source>
+      <Dest>ヒートホーク</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFHeatSaberDom</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Heat Saber Dom</Source>
+      <Dest>ヒートサーベル</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFHeatHawkPlayer1hand</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Heat Hawk 1hand</Source>
+      <Dest>ヒートホーク</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFHeatSaberGouf</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Heat Saber Gouf</Source>
+      <Dest>ヒートサーベル</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFHeatSaberGoufPlayer1hand</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Heat Saber Gouf 1hand</Source>
+      <Dest>ヒートサーベル</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFArrowCracker</EDID>
+      <REC>AMMO:FULL</REC>
+      <Source>Cracker</Source>
+      <Dest>クラッカー</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFActor009</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Char Saku</Source>
+      <Dest>シャーサク</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFActor003</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Celcooc</Source>
+      <Dest>ケルクク</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFActor011</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Scok</Source>
+      <Dest>スコック</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFActor002</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Tom</Source>
+      <Dest>トム</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFActor012</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Sock</Source>
+      <Dest>ソック</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFActor010</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Seonc</Source>
+      <Dest>シオニック</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFActor000merchant</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Seonic Industrial</Source>
+      <Dest>シオニック社</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFActor008</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Saku-II</Source>
+      <Dest>サクII</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFActor007</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Saku</Source>
+      <Dest>サク</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFActor006</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Cyan</Source>
+      <Dest>キャン</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFActor005</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Couf</Source>
+      <Dest>クフ</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFActor001</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Accuy</Source>
+      <Dest>アッカイ</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFActor004</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Cocc</Source>
+      <Dest>コック</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFArrowCrackerProjectile</EDID>
+      <REC>PROJ:FULL</REC>
+      <Source>Cracker</Source>
+      <Dest>クラッカー</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzSSMSFZeonBase01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Side 39</Source>
+      <Dest>サイド39</Dest>
+    </String>
+    <String List="0">
+      <EDID>Tamriel</EDID>
+      <REC>WRLD:FULL</REC>
+      <Source>ƒXƒJƒCƒŠƒ€</Source>
+      <Dest>スカイリム</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0300C4DC]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Side 39</Source>
+      <Dest>サイド39</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
