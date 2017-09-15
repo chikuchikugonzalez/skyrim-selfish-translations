@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>MekazawaFollower.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>zzzDMFSummonMekazawaBikeME</EDID>
+      <REC>MGEF:FULL</REC>
+      <Source>Summon Mekazawa Bike</Source>
+      <Dest>メカ沢バイク召喚</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzDMFSummonMekazawaBikeME</EDID>
+      <REC>MGEF:DNAM</REC>
+      <Source>Summon Mekazawa Bike &lt;dur&gt; s</Source>
+      <Dest>メカ沢バイクを &lt;dur&gt; 秒間召喚する。</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzDMFConjureMekazawaBike</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Conjure Mekazawa Bike</Source>
+      <Dest>メカ沢バイク召喚</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzDMFMekazawaArmor1</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Mekazawa Armor</Source>
+      <Dest>メカ沢の服</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzDMFMekazawaMemoryStickSpellTome</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>MemoryStick Conjure Mekazawa Bike</Source>
+      <Dest>メモリースティック: メカ沢バイク召喚</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzDMFMekazawaBikeActorSummon</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mekazawa Bike</Source>
+      <Dest>メカ沢バイク</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzDMFMekazawaActor</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mekazawa the Newone</Source>
+      <Dest>メカ沢新一</Dest>
+    </String>
+    <String List="0">
+      <EDID>zzzDMFMekazawaBikeActor</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mekazawa Bike</Source>
+      <Dest>メカ沢バイク</Dest>
+    </String>
+    <String List="0">
+      <EDID>Tamriel</EDID>
+      <REC>WRLD:FULL</REC>
+      <Source>ƒXƒJƒCƒŠƒ€</Source>
+      <Dest>スカイリム</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
