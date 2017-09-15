@@ -65,19 +65,19 @@
       <EDID>000SpellTomeConjureDwarvenAutomobile2</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Conjure Dwarven Automobile</Source>
-      <Dest>記憶装置: ドワーフ製自動車召喚</Dest>
+      <Dest>メモリースティック: ドワーフ製自動車召喚</Dest>
     </String>
     <String List="0">
       <EDID>000SpellTomeConjureDwarvenAutomobile</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Conjure Dwarven Automobile</Source>
-      <Dest>記憶装置: ドワーフ製自動車召喚</Dest>
+      <Dest>メモリースティック: ドワーフ製自動車召喚</Dest>
     </String>
     <String List="0">
       <EDID>000SpellTomeConjureDwarvenTractor</EDID>
       <REC>BOOK:FULL</REC>
       <Source>Conjure Dwarven Tractor</Source>
-      <Dest>記憶装置: ドワーフ製トラクター召喚</Dest>
+      <Dest>メモリースティック: ドワーフ製トラクター召喚</Dest>
     </String>
     <String List="0">
       <EDID>000DAMDweDresser01</EDID>
