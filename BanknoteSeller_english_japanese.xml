@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>BanknoteSeller.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>aaaBankArmorGuardCuirassSolitude</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Solitude Guard&apos;s Armor</Source>
+      <Dest>ソリチュード衛兵の鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankArmorStormcloakGauntlets</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fur Gauntlets</Source>
+      <Dest>毛皮の篭手</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankArmorStormcloakBoots</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Fur Boots</Source>
+      <Dest>毛皮のブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankJournal</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Izem&apos;s Journal</Source>
+      <Dest>イゼムの日記</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankIngotSilver01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Silver Ingots</Source>
+      <Dest>銀のインゴット</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankRackScrolls</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Scrolls</Source>
+      <Dest>巻物</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankIngotGold01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Gold Ingots</Source>
+      <Dest>金のインゴット</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankCoinsStack04Container</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Coins</Source>
+      <Dest>コイン</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankGoldPot2</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Vegetable Basket</Source>
+      <Dest>野菜かご</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankGoldPot01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Gold</Source>
+      <Dest>ゴールド</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankGoldPot02</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Gold</Source>
+      <Dest>ゴールド</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankStrongbox</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Strong Box</Source>
+      <Dest>金庫</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankPotions</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Potions</Source>
+      <Dest>薬</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankPoisons</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Poisons</Source>
+      <Dest>毒薬</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankShelfSM</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Safe Cabinet</Source>
+      <Dest>金庫</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankCutleryContainer</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Dishes and Goblets</Source>
+      <Dest>皿とゴブレット</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankBasketFlowers</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Flower Basket</Source>
+      <Dest>花かご</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankSmallDesk</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Desk</Source>
+      <Dest>机</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankShelfLG</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Safe Cabinet</Source>
+      <Dest>金庫</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankMerchantChest</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Chest</Source>
+      <Dest>宝箱</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankSoulgemsContainer</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Soul Gems</Source>
+      <Dest>魂石</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankPlayerSafeStorage</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Personal Vault</Source>
+      <Dest>個人用金庫</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankIngotGoldSM01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Gold Ingots</Source>
+      <Dest>金のインゴット</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankTestingUrn</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Urn</Source>
+      <Dest>壷</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankBasket</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Vegetable Basket</Source>
+      <Dest>野菜かご</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankIngotMalachite01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Malachite Ingots</Source>
+      <Dest>クジャク石のインゴット</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankSBurialUrn01</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Urn</Source>
+      <Dest>壷</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankShelfGlass</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Safe Cabinet</Source>
+      <Dest>金庫</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankTGRGoblet</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Jeweled Goblet</Source>
+      <Dest>玉石のゴブレット</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankNote</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Banknote</Source>
+      <Dest>紙幣</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankCommonBedChild01L</EDID>
+      <REC>FURN:FULL</REC>
+      <Source>Bed</Source>
+      <Dest>ベッド</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankWoodenGreatsword</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Wooden Sword</Source>
+      <Dest>木製の剣</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankMerchant</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Hopea Denaro</Source>
+      <Dest>ホペア・デナーロ</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankMerchant</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Hopea</Source>
+      <Dest>ホペア</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankGuardOutside01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Solitude Guard</Source>
+      <Dest>ソリチュード衛兵</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankChild</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Loen Heavy-Arm</Source>
+      <Dest>ロエン・へヴィアーム</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankChild</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Loen</Source>
+      <Dest>ロエン</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankGuard</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Izem Heavy-Arm</Source>
+      <Dest>イゼム・へヴィアーム</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankGuard</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Izem</Source>
+      <Dest>イゼム</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankGuardOutside02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Solitude Guard</Source>
+      <Dest>ソリチュード衛兵</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankKey</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>The Golden Crossroads Key</Source>
+      <Dest>ゴールデン・クロスロードの鍵</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBank</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>The Golden Crossroads</Source>
+      <Dest>ゴールデン・クロスロード</Dest>
+    </String>
+    <String List="0">
+      <EDID>Tamriel</EDID>
+      <REC>WRLD:FULL</REC>
+      <Source>Skyrim</Source>
+      <Dest>スカイリム</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0100A05A]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>The Golden Crossroads</Source>
+      <Dest>ゴールデン・クロスロード</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaBankLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Golden Crossroads</Source>
+      <Dest>ゴールデン・クロスロード</Dest>
+    </String>
+    <String List="1">
+      <EDID>aaaBankJournal</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>&lt;font face=&quot;$HandwrittenFont&quot; Size=&quot;20&quot;&gt;
+I feel like I haven&apos;t slept in ages, but here I am, up again. I can&apos;t fall asleep. It&apos;s been almost five years since my dearly beloved was lost to the sea, and the wounds have healed. It&apos;s time to move on. 
+
+I got a job as a guard and was stationed here in this bank almost two months ago. Loen is really happy - he wants to be a guard like his pa. I fitted him for armor for his birthday and he looks so handsome. He fills my heart with pride.
+
+My heart longs for Hopea. She knows it, of course, but she hesitates. Why? Is it because I&apos;m just a poor guard with no money or riches on my name? She handles gold, jewels and the like all day, so thinking of settling down with a bankrupt man like me is probably something she can&apos;t accept. 
+
+But when she looks at me, I can see a sparkle in her eye that tells me that she does love me. Hopea, please, I will do anything to hold you in my arms and protect you forever...</Source>
+      <Dest>&lt;font face=&quot;$HandwrittenFont&quot; Size=&quot;20&quot;&gt;
+長い間寝ていないと、再び感じるようになった。実際に眠れない。最愛の彼女を海で失ってからすでに5年だ。傷も癒えた。もう行くべき時だろう。
+
+衛兵となりこの銀行に配属されたのはもう二ヵ月前のことだ。ロエンは本当に幸せそうで、父のような衛兵になるのが夢だそうだ。誕生日に装備一式をプレゼントしたのだが、とてもよく似合っていた。とても誇らしく感じている。
+
+私はホペアに心を奪われた。彼女もそれに気が付いているが、躊躇っているようだ。どうしてだろう？私が富や名声のない衛兵だからだろか？彼女は毎日ゴールドや宝石を扱っているから、私のような破産者と一緒に住むことは受け入れられないのかもしれない。
+
+しかし彼女が私を見るとき、その瞳は私を愛していると語っていた。ホペア、君をこの腕に抱きしめ護りたい。ずっと永遠に...</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
