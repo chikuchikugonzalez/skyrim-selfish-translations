@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Fujiwara Yoshioka.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>jigang</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Fujiwara Yoshioka</Source>
+      <Dest>藤原吉綱</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
