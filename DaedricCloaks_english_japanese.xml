@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>DaedricCloaks.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>DaedricCloaksAzuraTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Azura</Source>
+      <Dest>破れたアズラのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksAzuraClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Azura</Source>
+      <Dest>アズラのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksVaerminaClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Vaermina</Source>
+      <Dest>ヴァーミルナのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksSithisTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Sithis</Source>
+      <Dest>破れたシシスのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksSithisClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Sithis</Source>
+      <Dest>シシスのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksSheogorathTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Sheogorath</Source>
+      <Dest>破れたシェオゴラスのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksSheogorathClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Sheogorath</Source>
+      <Dest>シェオゴラスのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksSanguineTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Sanguine</Source>
+      <Dest>破れたサングインのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksSanguineClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Sanguine</Source>
+      <Dest>サングインのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksPeryiteTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Peryite</Source>
+      <Dest>破れたぺライトのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksPeryiteClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Peryite</Source>
+      <Dest>ぺライトのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksNocturnalTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Nocturnal</Source>
+      <Dest>破れたノクターナルのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksNocturnalClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Nocturnal</Source>
+      <Dest>ノクターナルのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksNamiraTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Namira</Source>
+      <Dest>破れたナミラのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksNamiraClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Namira</Source>
+      <Dest>ナミラのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksMolagTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Molag Bal</Source>
+      <Dest>破れたモラグ・バルのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksMolagClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Molag Bal</Source>
+      <Dest>モラグ・バルのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksMeridiaTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Meridia</Source>
+      <Dest>破れたメリディアのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksMeridiaClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Meridia</Source>
+      <Dest>メリディアのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksMephalaTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Mephala</Source>
+      <Dest>破れたメファーラのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksMephalaClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Mephala</Source>
+      <Dest>メファーラのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksMehrunesTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Mehrunes Dagon</Source>
+      <Dest>破れたメエルーンズ・デイゴンのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksMehrunesClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Mehrunes Dagon</Source>
+      <Dest>メエルーンズ・デイゴンのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksMalacathTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Malacath</Source>
+      <Dest>破れたマラキャスのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksMalacathClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Malacath</Source>
+      <Dest>マラキャスのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksJyggalagTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Jyggalag</Source>
+      <Dest>破れたジャガラグのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksJyggalagClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Jyggalag</Source>
+      <Dest>ジャガラグのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksHircineTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Hircine</Source>
+      <Dest>破れたハーシーンのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksHircineClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Hircine</Source>
+      <Dest>ハーシーンのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksHermaeusTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Hermaeus Mora</Source>
+      <Dest>破れたハルメアス・モラのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksHermaeusClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Hermaeus Mora</Source>
+      <Dest>ハルメアス・モラのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksClavicusTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Clavicus Vile</Source>
+      <Dest>破れたクラヴィカス・ヴァイル</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksClavicusClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Clavicus Vile</Source>
+      <Dest>クラヴィカス・ヴァイルのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksBoethiahTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Boethiah</Source>
+      <Dest>破れたボエシアのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksBoethiahClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Boethiah</Source>
+      <Dest>ボエシアのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DaedricCloaksVaerminaTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Vaermina</Source>
+      <Dest>破れたヴァーミルナのマント</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

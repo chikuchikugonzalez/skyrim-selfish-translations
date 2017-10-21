@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>DivineCloaks.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>EnchReligiousDivineCloakAuriel</EDID>
+      <REC>ENCH:FULL</REC>
+      <Source>Blessing of Auriel</Source>
+      <Dest>アーリエルの祝福</Dest>
+    </String>
+    <String List="0">
+      <EDID>DivineCloaksArkayClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Arkay</Source>
+      <Dest>アーケイのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DivineCloaksAkatoshClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Akatosh</Source>
+      <Dest>アカトシュのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DivineCloaksJulianosClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Julianos</Source>
+      <Dest>ジュリアノスのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DivineCloaksAurielClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Auriel</Source>
+      <Dest>アーリエルのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DivineCloaksZenitharTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Zenithar</Source>
+      <Dest>破れたゼニタールのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DivineCloaksTalosTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Talos</Source>
+      <Dest>破れたタロスのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DivineCloaksStendarrTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Stendarr</Source>
+      <Dest>破れたステンダールのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DivineCloaksMaraTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Mara</Source>
+      <Dest>破れたマーラのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DivineCloaksKynarethTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Kynareth</Source>
+      <Dest>破れたキナレスのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DivineCloaksJulianosTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Julianos</Source>
+      <Dest>破れたジュリアノスのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DivineCloaksDibellaTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Dibella</Source>
+      <Dest>破れたディベラのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DivineCloaksAurielTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Auriel</Source>
+      <Dest>破れたアーリエルのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DivineCloaksArkayTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Arkay</Source>
+      <Dest>破れたアーケイのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DivineCloaksAkatoshTattered</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tattered Cloak of Akatosh</Source>
+      <Dest>破れたアカトシュのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DivineCloaksZenitharClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Zenithar</Source>
+      <Dest>ゼニタールのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DivineCloaksTalosClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Talos</Source>
+      <Dest>タロスのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DivineCloaksStendarrClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Stendarr</Source>
+      <Dest>ステンダールのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DivineCloaksMaraClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Mara</Source>
+      <Dest>マーラのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DivineCloaksKynarethClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Kynareth</Source>
+      <Dest>キナレスのマント</Dest>
+    </String>
+    <String List="0">
+      <EDID>DivineCloaksDibellaClean</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cloak of Dibella</Source>
+      <Dest>ディベラのマント</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
