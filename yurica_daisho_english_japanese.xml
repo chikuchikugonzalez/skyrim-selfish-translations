@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>yurica_daisho.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>0yuricaDaisho</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Hanakotoba, Daisho</Source>
+      <Dest>花言葉</Dest>
+    </String>
+    <String List="0">
+      <EDID>0yuricaTachi</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Hanakotoba, Tachi</Source>
+      <Dest>花言葉</Dest>
+    </String>
+    <String List="0">
+      <EDID>0yuricaOdachi</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Hanakotoba, Odachi</Source>
+      <Dest>花言葉</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
