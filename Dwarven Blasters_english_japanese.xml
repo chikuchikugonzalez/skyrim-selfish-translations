@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Dwarven Blasters.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Flamethrower (Follower)</Source>
+      <Dest>フレイムスロワー（フォロワー用）</Dest>
+    </String>
+    <String List="0">
+      <Source>Cryoblaster (Follower)</Source>
+      <Dest>クライオブラスター（フォロワー用）</Dest>
+    </String>
+    <String List="0">
+      <Source>Improved Plasma Cells</Source>
+      <Dest>改善されたプラズマセル</Dest>
+    </String>
+    <String List="0">
+      <Source>Improved Cryogen</Source>
+      <Dest>改善された冷却剤</Dest>
+    </String>
+    <String List="0">
+      <Source>Improved Napalm</Source>
+      <Dest>改善されたナパーム</Dest>
+    </String>
+    <String List="0">
+      <Source>Ice Shard</Source>
+      <Dest>氷の盾</Dest>
+    </String>
+    <String List="0">
+      <Source>Plasma Gun (Follower)</Source>
+      <Dest>プラズマガン（フォロワー用）</Dest>
+    </String>
+    <String List="0">
+      <Source>Plasma</Source>
+      <Dest>プラズマ</Dest>
+    </String>
+    <String List="0">
+      <Source>Fire Bolt</Source>
+      <Dest>炎のボルト</Dest>
+    </String>
+    <String List="0">
+      <Source>Napalm</Source>
+      <Dest>ナパーム</Dest>
+    </String>
+    <String List="0">
+      <Source>Deadly Napalm</Source>
+      <Dest>必殺のナパーム</Dest>
+    </String>
+    <String List="0">
+      <Source>Plasma Gun</Source>
+      <Dest>プラズマガン</Dest>
+    </String>
+    <String List="0">
+      <Source>Cryogen</Source>
+      <Dest>冷却剤</Dest>
+    </String>
+    <String List="0">
+      <Source>Deadly Plasma Cells</Source>
+      <Dest>必殺のプラズマセル</Dest>
+    </String>
+    <String List="0">
+      <Source>Flamethrower</Source>
+      <Dest>フレイムスロワー</Dest>
+    </String>
+    <String List="0">
+      <Source>Cryoblaster</Source>
+      <Dest>クライオブラスター</Dest>
+    </String>
+    <String List="0">
+      <Source>Plasma Cells</Source>
+      <Dest>プラズマセル</Dest>
+    </String>
+    <String List="0">
+      <Source>Deadly Cryogen</Source>
+      <Dest>必殺の冷却剤</Dest>
+    </String>
+    <String List="1">
+      <Source>Use with Plasma Gun</Source>
+      <Dest>プラズマガン用</Dest>
+    </String>
+    <String List="1">
+      <Source>Use with Cryoblaster</Source>
+      <Dest>クライオブラスター用</Dest>
+    </String>
+    <String List="1">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+    <String List="1">
+      <Source>Use with Flamethrower</Source>
+      <Dest>フレイムスロワー用</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
