@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Dwarven Blasters.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>_OldDiary</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Research Notes</Source>
+      <Dest>調査書</Dest>
+    </String>
+    <String List="0">
+      <EDID>_ZadakNote</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Note</Source>
+      <Dest>メモ</Dest>
+    </String>
+    <String List="0">
+      <EDID>_ZadakSafe</EDID>
+      <REC>DOOR:FULL</REC>
+      <Source>Zadak&apos;s Safe</Source>
+      <Dest>ザダックの金庫</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC1DwarvenBlasterB</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Plasma Gun</Source>
+      <Dest>ドゥーマープラズマガン</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC1DwarvenBlasterBauto</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Automatic Plasma Gun</Source>
+      <Dest>オートマチックプラズマガン</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC1DwarvenBlasterA</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Cryoblaster</Source>
+      <Dest>ドゥーマークライオブラスター</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC1DwarvenBlasterAauto</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Automatic Cryoblaster</Source>
+      <Dest>オートマチッククライオブラスター</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC1DwarvenBlasterC</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Flamethrower</Source>
+      <Dest>ドゥーマーフレイムスロワー</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC1DwarvenBlasterCauto</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Automatic Flamethrower</Source>
+      <Dest>オートマチックフレイムスロワー</Dest>
+    </String>
+    <String List="0">
+      <EDID>AmmoFire</EDID>
+      <REC>AMMO:FULL</REC>
+      <Source>Napalm</Source>
+      <Dest>火炎弾</Dest>
+    </String>
+    <String List="0">
+      <EDID>AmmoFireImp</EDID>
+      <REC>AMMO:FULL</REC>
+      <Source>Improved Napalm</Source>
+      <Dest>爆炎弾</Dest>
+    </String>
+    <String List="0">
+      <EDID>AmmoPlasmaImp</EDID>
+      <REC>AMMO:FULL</REC>
+      <Source>Improved Plasma Cells</Source>
+      <Dest>電撃弾</Dest>
+    </String>
+    <String List="0">
+      <EDID>AmmoCryoImp</EDID>
+      <REC>AMMO:FULL</REC>
+      <Source>Improved Cryogen</Source>
+      <Dest>凍結弾</Dest>
+    </String>
+    <String List="0">
+      <EDID>AmmoFireDead</EDID>
+      <REC>AMMO:FULL</REC>
+      <Source>Deadly Napalm</Source>
+      <Dest>業炎弾</Dest>
+    </String>
+    <String List="0">
+      <EDID>AmmoPlasmaDead</EDID>
+      <REC>AMMO:FULL</REC>
+      <Source>Deadly Plasma Cells</Source>
+      <Dest>雷電弾</Dest>
+    </String>
+    <String List="0">
+      <EDID>AmmoCryoDead</EDID>
+      <REC>AMMO:FULL</REC>
+      <Source>Deadly Cryogen</Source>
+      <Dest>瞬間凍結弾</Dest>
+    </String>
+    <String List="0">
+      <EDID>AmmoPlasma</EDID>
+      <REC>AMMO:FULL</REC>
+      <Source>Plasma Cells</Source>
+      <Dest>電気弾</Dest>
+    </String>
+    <String List="0">
+      <EDID>AmmoCryo</EDID>
+      <REC>AMMO:FULL</REC>
+      <Source>Cryogen</Source>
+      <Dest>氷結弾</Dest>
+    </String>
+    <String List="0">
+      <EDID>_ZadakKey</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>Zadak&apos;s Key</Source>
+      <Dest>ザダックの鍵</Dest>
+    </String>
+    <String List="0">
+      <EDID>_ControlRoomKey</EDID>
+      <REC>KEYM:FULL</REC>
+      <Source>Control Room Key</Source>
+      <Dest>制御室の鍵</Dest>
+    </String>
+    <String List="0">
+      <EDID>_ProjectileFireAuto</EDID>
+      <REC>PROJ:FULL</REC>
+      <Source>Flame</Source>
+      <Dest>炎</Dest>
+    </String>
+    <String List="0">
+      <EDID>RzLab</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Secret Laboratory</Source>
+      <Dest>シークレットラボ</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC1Bthalft01</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Aetherium Forge</Source>
+      <Dest>エセリウムの鋳造器具</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC1BthalftAetheriumForgeLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>The Aetherium Forge</Source>
+      <Dest>エセリウムの鋳造器具</Dest>
+    </String>
+    <String List="1">
+      <EDID>_OldDiary</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>&lt;p align=&quot;left&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+&lt;font color=&apos;#4b220c&apos;&gt;    Finally they were delivered to me! One of the most wonderful creations of Lord Kagrenak at my disposal! Only my lord and teacher could create such an incredible combination of magic and technology. &quot;Blasters&quot;, as my apprentice called them. 
+Silly, but not far from the truth - this weapons are incredibly powerful. If only we could organize their mass production, then all these nord&apos;s armies wouldn&apos;t pose any more threat to our cities.
+    I am very proud that Lord Kagrenak gives me the opportunity to take up this project. And I already have several ideas on how to improve this weapons. It is necessary to calibrate the reactor chamber, to balance the return mechanism, to strengthen the magic charms ... Maybe I can even design an automatic reloading mechanism for these blasters. This will make them the most powerful hand weapon of this era!
+&lt;/font&gt;
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&apos;img://Textures/DwBlasters/BookPage.png&apos; width=&apos;314&apos; height=&apos;450&apos;&gt;
+&lt;/p&gt;
+&lt;p align=&quot;left&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+&lt;font color=&apos;#4b220c&apos;&gt;    Today was a disaster.
+I tried to test my new reloading mechanism, and at first everything went well.
+The mechanism worked as it should, but quick shooting led to a very large release of energy, and as a result - to the explosion ...
+I lost one sample of the weapon, the test stand is destroyed, and my assistant will not recover soon.
+What a fool I was!
+I had to foresee the overheating of the blaster.
+Maybe I should work on the formula for the ammo ...
+&lt;/font&gt;
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+&lt;p align=&quot;left&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+&lt;font color=&apos;#4b220c&apos;&gt;
+    I finally found the correct recipes for blaster&apos;s ammo!
+Although you can use a high concentration ammo for a single-shot blaster, for the automatic blaster you have to dilute the solution to prevent overheating and subsequent explosion. I&apos;ll write down the formula here for future use.
+[pagebreak]
+300 Cryogen = 1 Frost Salts + 1 Common Soul Gem (empty) + 1 Ice Wraith Teeth + 1 Alto Wine
+
+50 Improved Cryogen = 1 Frost Salts + 1 Greater Soul Gem (empty) + 1 Ice Wraith Teeth + 1 Alto Wine
+
+50 Deadly Cryogen = 2 Frost Salts + 1 Grand Soul Gem (empty) + 1 Ice Wraith Teeth + 1 Alto Wine
+[pagebreak]
+500 Napalm = 1 Fire Salts + 1 Common Soul Gem (empty) + 1 Dwarven Oil + 1 Alto Wine
+
+50 Improved Napalm = 1 Fire Salts + 1 Greater Soul Gem (empty) + 1 Dwarven Oil + 1 Alto Wine
+
+50 Deadly Napalm = 2 Fire Salts + 1 Grand Soul Gem (empty) + 1 Dwarven Oil + 1 Alto Wine
+[pagebreak]
+300 Plasma Cells = 1 Void Salts + 1 Common Soul Gem (empty) + 1 Troll Fat + 1 Alto Wine
+
+50 Improved Plasma Cells = 1 Void Salts + 1 Greater Soul Gem (empty) + 1 Troll Fat + 1 Alto Wine
+
+50 Deadly Plasma Cells = 2 Void Salts + 1 Grand Soul Gem (empty) + 1 Troll Fat + 1 Alto Wine
+&lt;/font&gt;
+&lt;/font&gt;
+
+&lt;/p&gt;</Source>
+      <Dest>&lt;p align=&quot;left&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+&lt;font color=&apos;#4b220c&apos;&gt;    ついに手に入った！我が主カグレナクの最も素晴らしい作品の一つが！我が主と師のみが魔法と科学の融合を果たしたのだ。&quot;ブラスター&quot;、そう教え子たちは呼んでいた。
+ばかげている、しかし間違いでもない - この兵器は信じられないほど強力だ。量産されたあかつきには、ノルドの軍勢など我が都市にとって何の脅威にもならないだろう。
+    我が主カグレナクがこの計画を実行する機会を与えてくださったことを誇りに思う。そして私は既にいくつかの改良案を思いついている。リアクターチャンバーの調整、リターン機構のバランス、付呪の強化 ... そしておそらく、自動再装填機構も作れるだろう。これらが現代における最強の武器となるのだ！
+&lt;/font&gt;
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&apos;img://Textures/DwBlasters/BookPage.png&apos; width=&apos;314&apos; height=&apos;450&apos;&gt;
+&lt;/p&gt;
+&lt;p align=&quot;left&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+&lt;font color=&apos;#4b220c&apos;&gt;    今日は災難だった。
+新しい再装填機構のテストをしていたのだが、最初はうまくいっていたのだ。
+想定通りに動いていたのだが、高速射撃は想定以上のエネルギーを放出し、最終的に爆発を起こしたのだ...
+サンプルの一つを失い、試験台は破壊され、助手は未だ回復していない。
+愚かだったのだ！
+ブラスターのオーバーヒートを見越しておかなければならなかったのだ。
+しばらくは弾薬を改良することになるだろう ...
+&lt;/font&gt;
+&lt;/font&gt;
+&lt;/p&gt;
+[pagebreak]
+&lt;p align=&quot;left&quot;&gt;
+&lt;font face=&quot;$HandwrittenFont&quot; size=&quot;18&quot;&gt;
+&lt;font color=&apos;#4b220c&apos;&gt;
+    ついにブラスター用弾薬の調合レシピが完成した！
+単発式ブラスターには高濃縮弾薬が使えるが、オートマチックブラスターには過熱による暴発を防ぐために希釈しなければならない。今後のために計算式を記録しておく。
+[pagebreak]
+300 氷結弾 = 1 氷の塩鉱石 + 1 中魂石(空) + 1 氷の生霊の歯 + 1 アルトワイン
+
+50 凍結弾 = 1 氷の塩鉱石 + 1 大魂石(空) + 1 氷の生霊の歯 + 1 アルトワイン
+
+50 瞬間凍結弾 = 2 氷の塩鉱石 + 1 極大魂石(空) + 1 氷の生霊の歯 + 1 アルトワイン
+[pagebreak]
+500 火炎弾 = 1 炎の塩鉱石 + 1 中魂石(空) + 1 ドワーフのオイル + 1 アルトワイン
+
+50 爆炎弾 = 1 炎の塩鉱石 + 1 大魂石(空) + 1 ドワーフのオイル + 1 アルトワイン
+
+50 業炎弾 = 2 炎の塩鉱石 + 1 極大魂石(空) + 1 ドワーフのオイル + 1 アルトワイン
+[pagebreak]
+300 電気弾 = 1 虚無の塩 + 1 中魂石(空) + 1 トロールの脂肪 + 1 アルトワイン
+
+50 電撃弾 = 1 虚無の塩 + 1 大魂石(空) + 1 トロールの脂肪 + 1 アルトワイン
+
+50 雷電弾 = 2 虚無の塩 + 1 極大魂石(空) + 1 トロールの脂肪 + 1 アルトワイン
+&lt;/font&gt;
+&lt;/font&gt;
+
+&lt;/p&gt;</Dest>
+    </String>
+    <String List="1">
+      <EDID>_ZadakNote</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>&lt;font face=&quot;$HandwrittenFont&quot;&gt;    Terrible news!
+Raldbthar made an alliance with the Nords. They have nearly destroyed Mzulft, besieged Arkngthamz, and are marching to the Forge right now.
+Traitors!
+We can not allow the Aetherium Forge to fall into the hands of the Nords. The Council of Chief Engineers decided to seal this place, and to split the key between us.
+As for my weapons project, I will lock up my research records in the safe and melt the key at my forge. If I ever come back here, I&apos;ll open the safe without a key.
+
+&lt;p align=&quot;right&quot;&gt;Zadak&lt;/p&gt;
+
+
+</Source>
+      <Dest>&lt;font face=&quot;$HandwrittenFont&quot;&gt;    恐ろしいことになった！
+ラルドサールがノルド共と同盟を結びやがった。奴らはムズルフトを破壊した挙句、アルクンザムズを包囲して、この鋳造器具のところへ向かって来やがる。
+裏切り者共が！
+このエセリウムの鋳造器具はノルドの手に渡すわけにはいかない。この場所は封鎖し、それぞれが鍵を持つことが主任技術者会議で決められた。
+我が武器開発計画も同様だ。研究成果は金庫へ入れた後、鍵を鋳造器具で溶かしてしまおうと思う。もし戻ることがあったら、鍵を使わずに金庫を開けることになるだろうがしかたない。
+
+&lt;p align=&quot;right&quot;&gt;ザダック&lt;/p&gt;
+
+
+</Dest>
+    </String>
+    <String List="1">
+      <EDID>AmmoFire</EDID>
+      <REC>AMMO:DESC</REC>
+      <Source>Use with Automatic Flamethrower</Source>
+      <Dest>オートマチックフレイムスロワー用の弾薬</Dest>
+    </String>
+    <String List="1">
+      <EDID>AmmoFireImp</EDID>
+      <REC>AMMO:DESC</REC>
+      <Source>Use with Flamethrower</Source>
+      <Dest>ドゥーマーフレイムスロワー用の弾薬</Dest>
+    </String>
+    <String List="1">
+      <EDID>AmmoPlasmaImp</EDID>
+      <REC>AMMO:DESC</REC>
+      <Source>Use with Plasma Gun</Source>
+      <Dest>ドゥーマープラズマガン用の弾薬</Dest>
+    </String>
+    <String List="1">
+      <EDID>AmmoCryoImp</EDID>
+      <REC>AMMO:DESC</REC>
+      <Source>Use with Cryoblaster</Source>
+      <Dest>ドゥーマークライオブラスター用の弾薬</Dest>
+    </String>
+    <String List="1">
+      <EDID>AmmoFireDead</EDID>
+      <REC>AMMO:DESC</REC>
+      <Source>Use with Flamethrower</Source>
+      <Dest>ドゥーマーフレイムスロワー用の弾薬</Dest>
+    </String>
+    <String List="1">
+      <EDID>AmmoPlasmaDead</EDID>
+      <REC>AMMO:DESC</REC>
+      <Source>Use with Plasma Gun</Source>
+      <Dest>ドゥーマープラズマガン用の弾薬</Dest>
+    </String>
+    <String List="1">
+      <EDID>AmmoCryoDead</EDID>
+      <REC>AMMO:DESC</REC>
+      <Source>Use with Cryoblaster</Source>
+      <Dest>ドゥーマークライオブラスター用の弾薬</Dest>
+    </String>
+    <String List="1">
+      <EDID>AmmoPlasma</EDID>
+      <REC>AMMO:DESC</REC>
+      <Source>Use with Automatic Plasma Gun</Source>
+      <Dest>オートマチックプラズマガン用の弾薬</Dest>
+    </String>
+    <String List="1">
+      <EDID>AmmoCryo</EDID>
+      <REC>AMMO:DESC</REC>
+      <Source>Use with Automatic Cryoblaster</Source>
+      <Dest>オートマチッククライオブラスター用の弾薬</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

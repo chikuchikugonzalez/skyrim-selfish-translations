@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>_blastersammorecipes.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>You have learned how to craft blasters and ammo for them!</Source>
+      <Dest>ドゥーマーブラスターと専用弾薬の製法を習得した！</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
