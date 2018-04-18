@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>EdhildilsTempleofMephala.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>aaamephalafaction</EDID>
+      <REC>FACT:FULL</REC>
+      <Source>Mephala Faction</Source>
+      <Dest>メファーラ一派</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaabladeench001meph</EDID>
+      <REC>ENCH:FULL</REC>
+      <Source>Mephala Ebony Blade Enchantment</Source>
+      <Dest>メファーラの黒檀の剣の魔法</Dest>
+    </String>
+    <String List="0">
+      <EDID>AltarMephalaSpell</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Blessing of Mephala</Source>
+      <Dest>メファーラの祝福</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaShrineofmephala</EDID>
+      <REC>ACTI:FULL</REC>
+      <Source>Shrine of Mephala</Source>
+      <Dest>メファーラの祠</Dest>
+    </String>
+    <String List="0" Partial="2">
+      <EDID>aaamephmerchant1</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Mephala Merchant Chest</Source>
+      <Dest>Mephala Merchant Chest</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaanewblade</EDID>
+      <REC>WEAP:FULL</REC>
+      <Source>Ebony Blade of Mephala</Source>
+      <Dest>メファーラの黒檀の剣</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaworshipper001</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mephala Worshipper</Source>
+      <Dest>メファーラの崇拝者</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaamephpriest02</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Clausta Varlode</Source>
+      <Dest>クラウスタ・ヴァローデ</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaamephpriest01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Zinya Hlaalu</Source>
+      <Dest>ジンヤ・フラール</Dest>
+    </String>
+    <String List="0">
+      <EDID>Frabbi</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Frabbi</Source>
+      <Dest>フラッビ</Dest>
+    </String>
+    <String List="0">
+      <EDID>Kleppr</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Kleppr</Source>
+      <Dest>クレップル</Dest>
+    </String>
+    <String List="0">
+      <EDID>aaaworshipper002</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Mephala Worshipper</Source>
+      <Dest>メファーラの崇拝者</Dest>
+    </String>
+    <String List="0">
+      <EDID>WindhelmTempleofTalosDUPLICATE001</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Temple of Mephala</Source>
+      <Dest>メファーラ聖堂</Dest>
+    </String>
+    <String List="0">
+      <EDID>WindhelmTempleofTalos</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Temple of Talos</Source>
+      <Dest>タロスの聖堂</Dest>
+    </String>
+    <String List="0">
+      <EDID>Tamriel</EDID>
+      <REC>WRLD:FULL</REC>
+      <Source>Skyrim</Source>
+      <Dest>スカイリム</Dest>
+    </String>
+    <String List="0">
+      <EDID>[01001E24]</EDID>
+      <REC>REFR:FULL</REC>
+      <Source>Temple of Mephala</Source>
+      <Dest>メファーラ聖堂</Dest>
+    </String>
+    <String List="0">
+      <EDID>OffersTrainingTopic</EDID>
+      <REC>DIAL:FULL</REC>
+      <Source>I&apos;d like training in Alchemy.</Source>
+      <Dest>錬金術の訓練をしたい</Dest>
+    </String>
+    <String List="0">
+      <EDID>[000E3A3B]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Can you train me in Enchanting?</Source>
+      <Dest>付呪の訓練をしてくれないか？</Dest>
+    </String>
+    <String List="0">
+      <EDID>[0100135E]</EDID>
+      <REC>INFO:RNAM</REC>
+      <Source>Can you train me in Enchanting?</Source>
+      <Dest>付呪の訓練をしてくれないか？</Dest>
+    </String>
+    <String List="0">
+      <EDID>WindhelmTempleOfTalosLocation</EDID>
+      <REC>LCTN:FULL</REC>
+      <Source>Temple of Talos</Source>
+      <Dest>タロスの聖堂</Dest>
+    </String>
+    <String List="1">
+      <EDID>AltarMephalaMsg</EDID>
+      <REC>MESG:DESC</REC>
+      <Source>Blessing of Mephala added</Source>
+      <Dest>メファーラの祝福が追加された</Dest>
+    </String>
+    <String List="2">
+      <EDID>[000E3A3B]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You&apos;ve come to the right place. I&apos;d be happy to teach you.</Source>
+      <Dest>ここに来たのは正解だ。喜んで教えよう</Dest>
+    </String>
+    <String List="2">
+      <EDID>[0100135E]</EDID>
+      <REC>INFO:NAM1</REC>
+      <Source>You&apos;ve come to the right place. I&apos;d be happy to teach you.</Source>
+      <Dest>ここに来たのは正解だ。喜んで教えよう</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
