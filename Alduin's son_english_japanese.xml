@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>Alduin&apos;s son.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>PerkMatchingSetHeavy</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Matching Set</Source>
+      <Dest>セットボーナス</Dest>
+    </String>
+    <String List="0">
+      <EDID>PerkFistsOfSteel</EDID>
+      <REC>SPEL:FULL</REC>
+      <Source>Fists of Steel</Source>
+      <Dest>鋼の拳</Dest>
+    </String>
+    <String List="0">
+      <EDID>ArmorAlduinGauntlets</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Alduin&apos;s Scale Gauntlets</Source>
+      <Dest>アルドゥインの篭手</Dest>
+    </String>
+    <String List="0">
+      <EDID>ArmorAlduinCuirass</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Alduin&apos;s Scale Armor</Source>
+      <Dest>アルドゥインの鎧</Dest>
+    </String>
+    <String List="0">
+      <EDID>ArmorAlduinHelmet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Alduin&apos;s Scale Helmet</Source>
+      <Dest>アルドゥインの兜</Dest>
+    </String>
+    <String List="0">
+      <EDID>ArmorAlduinHelmetALT</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Alduin&apos;s Scale Helmet</Source>
+      <Dest>アルドゥインの兜</Dest>
+    </String>
+    <String List="0">
+      <EDID>ArmorAlduinBoots</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Alduin&apos;s Scale Boots</Source>
+      <Dest>アルドゥインのブーツ</Dest>
+    </String>
+    <String List="0">
+      <EDID>00AlduinScales</EDID>
+      <REC>MISC:FULL</REC>
+      <Source>Alduin&apos;s Scales</Source>
+      <Dest>アルドゥインの鱗</Dest>
+    </String>
+    <String List="0">
+      <EDID>00DragonSonOfAlduin</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Son of Alduin</Source>
+      <Dest>アルドゥインJr.</Dest>
+    </String>
+    <String List="0">
+      <EDID>AAADeleteWhenDoneTestJeremy</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>TestTony</Source>
+      <Dest>TestTony</Dest>
+    </String>
+    <String List="0">
+      <EDID>MatchingSetHeavy</EDID>
+      <REC>PERK:FULL</REC>
+      <Source>Matching Set</Source>
+      <Dest>セットボーナス</Dest>
+    </String>
+    <String List="1">
+      <EDID>PerkFistsOfSteel</EDID>
+      <REC>SPEL:DESC</REC>
+      <Source>Increased damage with Heavy Armor gauntlets.</Source>
+      <Dest>重装の篭手を装備すると、ダメージが増加する。</Dest>
+    </String>
+    <String List="1">
+      <EDID>MatchingSetHeavy</EDID>
+      <REC>PERK:DESC</REC>
+      <Source>Additional 25% Armor bonus if wearing a matched set of Heavy Armor.</Source>
+      <Dest>全身に同じ種類の重装鎧を着けていると、防御値に25%のボーナスがつく。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
