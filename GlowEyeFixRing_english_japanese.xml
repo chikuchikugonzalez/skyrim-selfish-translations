@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>GlowEyeFixRing.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>PPCureCurseRing</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Cure Curse Ring</Source>
+      <Dest>解呪の指輪</Dest>
+    </String>
+    <String List="0">
+      <EDID>StrongBox</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Strong Box</Source>
+      <Dest>金庫</Dest>
+    </String>
+    <String List="0">
+      <EDID>WhiterunHalloftheDead</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Hall of the Dead</Source>
+      <Dest>死者の間</Dest>
+    </String>
+    <String List="1">
+      <EDID>PPCureCurseRing</EDID>
+      <REC>ARMO:DESC</REC>
+      <Source>To fix the Glowing Eye, equip this and then unequip.</Source>
+      <Dest>この指輪を着脱することで、目が光る呪いから解放される</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
