@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>DragonBornCircletsNoCrown.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <EDID>ATreeofLifeEn</EDID>
+      <REC>ENCH:FULL</REC>
+      <Source>Kynareth&apos;s Blessing</Source>
+      <Dest>キナレスの祝福</Dest>
+    </String>
+    <String List="0">
+      <EDID>ATAyleidKnowledge</EDID>
+      <REC>ENCH:FULL</REC>
+      <Source>Fortify Barter</Source>
+      <Dest>交渉上昇</Dest>
+    </String>
+    <String List="0">
+      <EDID>ATradeCaftersBlessingEn</EDID>
+      <REC>ENCH:FULL</REC>
+      <Source>Cafters Blessing</Source>
+      <Dest>工芸家の祝福</Dest>
+    </String>
+    <String List="0">
+      <EDID>KHDragonPriest_Krosis_Bronze_Circlet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Dragon Priest Krosis Circlet</Source>
+      <Dest>クロシスの冠</Dest>
+    </String>
+    <String List="0">
+      <EDID>KHDragonBorn_Miraak_CircletL</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>DragonBorn Miraak Circlet (Light)</Source>
+      <Dest>ミラークの冠</Dest>
+    </String>
+    <String List="0">
+      <EDID>KHDragonPriest_Volsung_Corondrum_Circlet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Dragon Priest Volsung Circlet</Source>
+      <Dest>ヴォルサングの冠</Dest>
+    </String>
+    <String List="0">
+      <EDID>ATAyleidKnowledgeCirclet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Ayleid Knowledge Circlet</Source>
+      <Dest>アイレイドの知識の冠</Dest>
+    </String>
+    <String List="0">
+      <EDID>KHDragonPriest_03_Dukaan_Circlet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Dragon Priest Dukaan Circlet</Source>
+      <Dest>ドゥカーンの冠</Dest>
+    </String>
+    <String List="0">
+      <EDID>ATreeofLifeCirclet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Tree of Life Circlet</Source>
+      <Dest>生命の樹の冠</Dest>
+    </String>
+    <String List="0">
+      <EDID>KHDragonPriest_Nahkriin_Ebony_Circlet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Dragon Priest Nahkriin Circlet</Source>
+      <Dest>ナークリーンの冠</Dest>
+    </String>
+    <String List="0">
+      <EDID>KHDragonPriest_01_Zahkriisos_Circlet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Dragon Priest Zahkriisos Circlet</Source>
+      <Dest>ザークリソスの冠</Dest>
+    </String>
+    <String List="0">
+      <EDID>KHDragonPriest_Hevnoraak_Iron_Circlet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Dragon Priest Hevnoraak Circlet</Source>
+      <Dest>ヘブノラークの冠</Dest>
+    </String>
+    <String List="0">
+      <EDID>KHDragonPriest_Konahrik_Circlet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Dragon Priest Konahrik Circlet</Source>
+      <Dest>コナヒリクの冠</Dest>
+    </String>
+    <String List="0">
+      <EDID>KHDragonPriest_Vokun_Steel_Circlet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Dragon Priest Vokun Circlet</Source>
+      <Dest>ヴォクンの冠</Dest>
+    </String>
+    <String List="0">
+      <EDID>KHDragonPriest_Otar_Marble_Circlet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Dragon Priest Otar Circlet</Source>
+      <Dest>オタールの冠</Dest>
+    </String>
+    <String List="0">
+      <EDID>KHDragonPriest_Rahgot_Orichalum_Circlet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Dragon Priest Rahgot Circlet</Source>
+      <Dest>ラーゴットの冠</Dest>
+    </String>
+    <String List="0">
+      <EDID>KHDragonPriest_Morokei_Moonstone_Circlet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Dragon Priest Morokei Circlet</Source>
+      <Dest>モロケイの冠</Dest>
+    </String>
+    <String List="0">
+      <EDID>KHDragonPriest_02_Ahzidal_Circlet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Dragon Priest Ahzidal Circlet</Source>
+      <Dest>アージダルの冠</Dest>
+    </String>
+    <String List="0">
+      <EDID>ATradeCrafterblessingCirclet</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>Crafters blessing Circlet</Source>
+      <Dest>工芸家の祝福の冠</Dest>
+    </String>
+    <String List="0">
+      <EDID>KHDragonBorn_Miraak_CircletH</EDID>
+      <REC>ARMO:FULL</REC>
+      <Source>DragonBorn Miraak Circlet (Heavy)</Source>
+      <Dest>ミラークの冠</Dest>
+    </String>
+    <String List="0">
+      <EDID>KHNoteToSelfNote</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Note to self</Source>
+      <Dest>備忘録</Dest>
+    </String>
+    <String List="0">
+      <EDID>KHThalmorNote</EDID>
+      <REC>BOOK:FULL</REC>
+      <Source>Secrect, Highest Priorty Orders</Source>
+      <Dest>最重要指令</Dest>
+    </String>
+    <String List="0">
+      <EDID>LargeChestNoRespawn</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Chest</Source>
+      <Dest>宝箱</Dest>
+    </String>
+    <String List="0">
+      <EDID>KHThalmorSatchel</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Stolen Thalmor Satchel</Source>
+      <Dest>盗まれたサルモールのかばん</Dest>
+    </String>
+    <String List="0">
+      <EDID>KHStrongTestBox</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Strong Box</Source>
+      <Dest>金庫</Dest>
+    </String>
+    <String List="0">
+      <EDID>KHLargeChestNoRespawn</EDID>
+      <REC>CONT:FULL</REC>
+      <Source>Chest</Source>
+      <Dest>宝箱</Dest>
+    </String>
+    <String List="0">
+      <EDID>dunRagnOtar</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Otar the Mad</Source>
+      <Dest>狂王のオタール</Dest>
+    </String>
+    <String List="0">
+      <EDID>dunRagnOtar</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Otar the Mad</Source>
+      <Dest>狂王のオタール</Dest>
+    </String>
+    <String List="0">
+      <EDID>dunSkuldafnNahkriin</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Nahkriin</Source>
+      <Dest>ナークリーンの仮面</Dest>
+    </String>
+    <String List="0">
+      <EDID>dunShearpointKrosisDragonPriest</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Krosis</Source>
+      <Dest>クロシス</Dest>
+    </String>
+    <String List="0">
+      <EDID>dunShearpointKrosisDragonPriest</EDID>
+      <REC>NPC_:SHRT</REC>
+      <Source>Krosis</Source>
+      <Dest>クロシス</Dest>
+    </String>
+    <String List="0">
+      <EDID>dunValthumeHevnoraak</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Hevnoraak</Source>
+      <Dest>ヘブノラーク</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2AcolyteDukaan</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Dukaan</Source>
+      <Dest>ドゥカーン</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2AcolyteAhzidal</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Ahzidal</Source>
+      <Dest>アージダル</Dest>
+    </String>
+    <String List="0">
+      <EDID>DLC2AcolyteZahkriisos</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Zahkriisos</Source>
+      <Dest>ザークリソス</Dest>
+    </String>
+    <String List="0">
+      <EDID>MG07LabyrinthianDragonPriest</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Morokei</Source>
+      <Dest>モロケイ</Dest>
+    </String>
+    <String List="0">
+      <EDID>dunVolskyggeDragonPriest01</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Volsung</Source>
+      <Dest>ヴォルサング</Dest>
+    </String>
+    <String List="0">
+      <EDID>DunForelhostDragonPriestRahgot</EDID>
+      <REC>NPC_:FULL</REC>
+      <Source>Rahgot</Source>
+      <Dest>ラーゴット</Dest>
+    </String>
+    <String List="0">
+      <EDID>RiverwoodSleepingGiantInn</EDID>
+      <REC>CELL:FULL</REC>
+      <Source>Sleeping Giant Inn</Source>
+      <Dest>宿屋「スリーピング・ジャイアント」</Dest>
+    </String>
+    <String List="1">
+      <EDID>KHDragonPriest_Krosis_Bronze_Circlet</EDID>
+      <REC>ARMO:DESC</REC>
+      <Source>Lockpicking, Archery, and Alchemy are &lt;20&gt;% better.</Source>
+      <Dest>開錠、弓術、錬金術が &lt;20&gt;%向上する。</Dest>
+    </String>
+    <String List="1">
+      <EDID>KHDragonPriest_Volsung_Corondrum_Circlet</EDID>
+      <REC>ARMO:DESC</REC>
+      <Source>Prices are &lt;20&gt;% better, Carry 20 points more, and can breathe underwater.</Source>
+      <Dest>売買の価格が &lt;20&gt;%良くなり、20ポイント多く持ち運べるようになり、水中で呼吸できる。</Dest>
+    </String>
+    <String List="1">
+      <EDID>ATreeofLifeCirclet</EDID>
+      <REC>ARMO:DESC</REC>
+      <Source>Kynareth&apos;s Blessing,.. Nern&apos;s Mother watch&apos;s over you, granting her protections</Source>
+      <Dest>我らをを見守る母なるキナレスの加護が与えられる</Dest>
+    </String>
+    <String List="1">
+      <EDID>KHDragonPriest_Nahkriin_Ebony_Circlet</EDID>
+      <REC>ARMO:DESC</REC>
+      <Source>+&lt;50&gt; Magicka, and Destruction and Restoration spells cost &lt;20&gt;% less.</Source>
+      <Dest>マジカが &lt;50&gt; 上昇し、破壊と回復呪文のマジカ消費が &lt;20&gt;%減少する。</Dest>
+    </String>
+    <String List="1">
+      <EDID>KHDragonPriest_Hevnoraak_Iron_Circlet</EDID>
+      <REC>ARMO:DESC</REC>
+      <Source>Immune to disease and poison.</Source>
+      <Dest>疾病と毒が無効になる。</Dest>
+    </String>
+    <String List="1">
+      <EDID>KHDragonPriest_Konahrik_Circlet</EDID>
+      <REC>ARMO:DESC</REC>
+      <Source>When health is low, has a chance to heal wearer and damage nearby enemies.</Source>
+      <Dest>体力が低下した時、着用者を回復させて周囲の敵にダメージを与えることがある。</Dest>
+    </String>
+    <String List="1">
+      <EDID>KHDragonPriest_Vokun_Steel_Circlet</EDID>
+      <REC>ARMO:DESC</REC>
+      <Source>Conjuration, Illusion and Alteration spells cost &lt;20&gt;% less magicka to cast.</Source>
+      <Dest>召喚、幻惑、変性呪文のマジカ消費が &lt;20&gt;%減少する。</Dest>
+    </String>
+    <String List="1">
+      <EDID>KHDragonPriest_Otar_Marble_Circlet</EDID>
+      <REC>ARMO:DESC</REC>
+      <Source>Resistance against fire, frost and shock is improved.</Source>
+      <Dest>炎、冷気、雷撃に対する耐性が強化される。</Dest>
+    </String>
+    <String List="1">
+      <EDID>KHNoteToSelfNote</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>&lt;p align=&apos;center&apos;&gt;&lt;font face=&apos;$HandwrittenFont&apos;&gt;&lt;font size=&apos;18&apos;&gt;
+
+Important I DO NOT forget.
+
+I must hide this Stolen Thalmor Satchel in a more secure place.
+
+If the Thalmor knew or found out we (the Blades) gotten our
+hands on these so long ago and have had them hidden for all
+this time there would be no end to their trying to regain
+possession of them.
+
+They just may be the edge needed to win this war agaist
+both the Thalmor and the Dragons
+
+&lt;/font&gt;&lt;/p&gt;
+</Source>
+      <Dest>&lt;p align=&apos;center&apos;&gt;&lt;font face=&apos;$HandwrittenFont&apos;&gt;&lt;font size=&apos;18&apos;&gt;
+
+これは重要なことだ。忘れてはならない。
+
+この奪ったサルモールのかばんをより安全な場所に隠さなければならない。
+
+サルモールがこのことに、ブレイズである私の手に渡っていることに気づいているのなら、取り戻すための労力は惜しまないだろう。
+
+だがこの戦争とサルモール、そしてドラゴン共に勝つためにはやり遂げねばならない。
+
+&lt;/font&gt;&lt;/p&gt;
+</Dest>
+    </String>
+    <String List="1">
+      <EDID>KHNoteToSelfNote</EDID>
+      <REC>BOOK:CNAM</REC>
+      <Source>Note to Self
+</Source>
+      <Dest>備忘録
+</Dest>
+    </String>
+    <String List="1">
+      <EDID>KHThalmorNote</EDID>
+      <REC>BOOK:DESC</REC>
+      <Source>&lt;p align=&apos;center&apos;&gt;&lt;font face=&apos;$HandwrittenFont&apos;&gt;&lt;font size=&apos;18&apos;&gt;
+
+These highly enchanted items are for use by top Thalmor
+Mages only.
+
+It is of the up most importance that they DO NOT fall into
+the hands of lesser beings, lesser beings being those who
+are NOT Thalmor
+
+Keep under lock and key secured by magic and well out harms way
+
+
+By Order
+The Aldmeri Dominion
+
+&lt;/font&gt;&lt;/p&gt;
+</Source>
+      <Dest>&lt;p align=&apos;center&apos;&gt;&lt;font face=&apos;$HandwrittenFont&apos;&gt;&lt;font size=&apos;18&apos;&gt;
+
+高度な付呪が施されたアイテムはサルモール最高位の魔術師のみ使用が許可されている。
+
+最も重要なことはそれらが下等な存在に、そうサルモールではない下等種共の手に渡るようなことが決してあってあはならない。
+
+魔術による保護を施し、厳重に保管すること。
+
+アルドメリ自治領より
+
+&lt;/font&gt;&lt;/p&gt;
+</Dest>
+    </String>
+    <String List="1">
+      <EDID>KHThalmorNote</EDID>
+      <REC>BOOK:CNAM</REC>
+      <Source>By Order
+The Aldmeri Dominion Orders
+</Source>
+      <Dest>アルドメリ自治領より</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

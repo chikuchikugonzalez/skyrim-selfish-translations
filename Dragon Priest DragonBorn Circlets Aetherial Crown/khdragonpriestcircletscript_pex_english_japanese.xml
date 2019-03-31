@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>khdragonpriestcircletscript.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>I Discovered a uniquely mystical circlet when picking up the Priest&apos;s mask</Source>
+      <Dest>ドラゴン・プリーストの仮面を手に取った時、傍で独特かつ神秘的な冠を発見した。</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
